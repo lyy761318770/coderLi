@@ -1,0 +1,8405 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PLCAlarm>
+	<F0 AlarmName=" ">
+	</F0>
+	<F1 AlarmName="F001 全机原点复归失败">
+	</F1>
+	<F2 AlarmName="F002 电源检知异常">
+	</F2>
+	<F3 AlarmName="F003 电柜温度报警">
+	</F3>
+	<F4 AlarmName="F004 正压检知异常">
+	</F4>
+	<F5 AlarmName="F005 EMS1急停按钮异常">
+	</F5>
+	<F6 AlarmName="F006 EMS2急停按钮异常">
+	</F6>
+	<F7 AlarmName="F007 EMS3急停按钮异常">
+	</F7>
+	<F8 AlarmName="F008 EMS4急停按钮异常">
+	</F8>
+	<F9 AlarmName="F009 EMS5急停按钮异常">
+	</F9>
+
+	<F10 AlarmName="F010烟雾报警信号1(主)异常">
+	</F10>
+	<F11 AlarmName="F011烟雾报警信号2(副)异常">
+	</F11>
+	<F12 AlarmName="F012原设备EMO11异常">
+	</F12>
+	<F13 AlarmName="F013原设备EMO12异常">
+	</F13>
+	<F14 AlarmName="F014原设备EMO13异常">
+	</F14>
+	<F15 AlarmName="F015原设备EMO14异常">
+	</F15>
+	<F16 AlarmName="F016原设备EMO15异常">
+	</F16>
+	<F17 AlarmName="F017原设备EMO16异常">
+	</F17>
+	<F18 AlarmName="F018原设备EMO17异常">
+	</F18>
+	<F19 AlarmName="F019原设备EMO18异常">
+	</F19>
+
+	<F20 AlarmName="F020原设备EMO19异常">
+	</F20>
+	<F21 AlarmName="F021原设备EMO20异常">
+	</F21>
+	<F22 AlarmName="F22EMO2急停按钮">
+	</F22>
+	<F23 AlarmName="F23工站1 EMO急停按钮">
+	</F23>
+	<F24 AlarmName="F24工站2 EMO急停按钮">
+	</F24>
+	<F25 AlarmName="F25工站3 EMO急停按钮">
+	</F25>
+	<F26 AlarmName="F26工站4 EMO急停按钮">
+	</F26>
+	<F27 AlarmName="F27工站5 EMO急停按钮">
+	</F27>
+	<F28 AlarmName="F28工站6 EMO急停按钮">
+	</F28>
+	<F29 AlarmName="F29工站7 EMO急停按钮">
+	</F29>
+
+	<F30 AlarmName="F30工站8 EMO急停按钮">
+	</F30>
+	<F31 AlarmName=" ">
+	</F31>
+	<F32 AlarmName=" ">
+	</F32>
+	<F33 AlarmName=" ">
+	</F33>
+	<F34 AlarmName=" ">
+	</F34>
+	<F35 AlarmName=" ">
+	</F35>
+	<F36 AlarmName=" ">
+	</F36>
+	<F37 AlarmName=" ">
+	</F37>
+	<F38 AlarmName=" ">
+	</F38>
+	<F39 AlarmName=" ">
+	</F39>
+
+	<F40 AlarmName=" ">
+	</F40>
+	<F41 AlarmName=" ">
+	</F41>
+	<F42 AlarmName="  ">
+	</F42>
+	<F43 AlarmName=" ">
+	</F43>
+	<F44 AlarmName=" ">
+	</F44>
+	<F45 AlarmName=" ">
+	</F45>
+	<F46 AlarmName=" ">
+	</F46>
+	<F47 AlarmName=" ">
+	</F47>
+	<F48 AlarmName=" ">
+	</F48>
+	<F49 AlarmName=" ">
+	</F49>
+
+	<F50 AlarmName=" ">
+	</F50>
+	<F51 AlarmName=" ">
+	</F51>
+	<F52 AlarmName="  ">
+	</F52>
+	<F53 AlarmName=" ">
+	</F53>
+	<F54 AlarmName=" ">
+	</F54>
+	<F55 AlarmName=" ">
+	</F55>
+	<F56 AlarmName=" ">
+	</F56>
+	<F57 AlarmName=" ">
+	</F57>
+	<F58 AlarmName=" ">
+	</F58>
+	<F59 AlarmName=" ">
+	</F59>
+
+	<F60 AlarmName=" ">
+	</F60>
+	<F61 AlarmName=" ">
+	</F61>
+	<F62 AlarmName="  ">
+	</F62>
+	<F63 AlarmName=" ">
+	</F63>
+	<F64 AlarmName=" ">
+	</F64>
+	<F65 AlarmName=" ">
+	</F65>
+	<F66 AlarmName=" ">
+	</F66>
+	<F67 AlarmName=" ">
+	</F67>
+	<F68 AlarmName=" ">
+	</F68>
+	<F69 AlarmName=" ">
+	</F69>
+
+	<F70 AlarmName=" ">
+	</F70>
+	<F71 AlarmName=" ">
+	</F71>
+	<F72 AlarmName=" ">
+	</F72>
+	<F73 AlarmName=" ">
+	</F73>
+	<F74 AlarmName=" ">
+	</F74>
+	<F75 AlarmName=" ">
+	</F75>
+	<F76 AlarmName=" ">
+	</F76>
+	<F77 AlarmName=" ">
+	</F77>
+	<F78 AlarmName=" ">
+	</F78>
+	<F79 AlarmName=" ">
+	</F79>
+
+	<F80 AlarmName=" ">
+	</F80>
+	<F81 AlarmName=" ">
+	</F81>
+	<F82 AlarmName="  ">
+	</F82>
+	<F83 AlarmName=" ">
+	</F83>
+	<F84 AlarmName=" ">
+	</F84>
+	<F85 AlarmName=" ">
+	</F85>
+	<F86 AlarmName=" ">
+	</F86>
+	<F87 AlarmName=" ">
+	</F87>
+	<F88 AlarmName=" ">
+	</F88>
+	<F89 AlarmName=" ">
+	</F89>
+
+	<F90 AlarmName=" ">
+	</F90>
+	<F91 AlarmName=" ">
+	</F91>
+	<F92 AlarmName="  ">
+	</F92>
+	<F93 AlarmName=" ">
+	</F93>
+	<F94 AlarmName=" ">
+	</F94>
+	<F95 AlarmName=" ">
+	</F95>
+	<F96 AlarmName=" ">
+	</F96>
+	<F97 AlarmName=" ">
+	</F97>
+	<F98 AlarmName=" ">
+	</F98>
+	<F99 AlarmName=" ">
+	</F99>
+
+	<F100 AlarmName="F100 1工位X1轴伺服ALM">
+	</F100>
+	<F101 AlarmName="F101 1工位X2轴伺服ALM">
+	</F101>
+	<F102 AlarmName="F102 1工位θ1轴伺服ALM">
+	</F102>
+	<F103 AlarmName="F103 1工位θ2轴伺服ALM">
+	</F103>
+	<F104 AlarmName="F104 2工位X1轴伺服ALM">
+	</F104>
+	<F105 AlarmName="F105 2工位X2轴伺服ALM">
+	</F105>
+	<F106 AlarmName="F106 2工位θ1轴伺服ALM">
+	</F106>
+	<F107 AlarmName="F107 2工位θ2轴伺服ALM">
+	</F107>
+	<F108 AlarmName="F108 3工位X1轴伺服ALM">
+	</F108>
+	<F109 AlarmName="F109 3工位X2轴伺服ALM">
+	</F109>
+
+	<F110 AlarmName="F110 3工位θ1轴伺服ALM">
+	</F110>
+	<F111 AlarmName="F111 3工位θ2轴伺服ALM">
+	</F111>
+	<F112 AlarmName="F112 4工位X1轴伺服ALM">
+	</F112>
+	<F113 AlarmName="F113 4工位X2轴伺服ALM">
+	</F113>
+	<F114 AlarmName="F114 4工位θ1轴伺服ALM">
+	</F114>
+	<F115 AlarmName="F115 4工位θ2轴伺服ALM">
+	</F115>
+	<F116 AlarmName="F116 5工位X1轴伺服ALM">
+	</F116>
+	<F117 AlarmName="F117 5工位X2轴伺服ALM">
+	</F117>
+	<F118 AlarmName="F118 5工位θ1轴伺服ALM">
+	</F118>
+	<F119 AlarmName="F119 5工位θ2轴伺服ALM">
+	</F119>
+	<F120 AlarmName="F120 6工位X1轴伺服ALM">
+	</F120>
+	<F121 AlarmName="F121 6工位X2轴伺服ALM">
+	</F121>
+	<F122 AlarmName="F122 6工位θ1轴伺服ALM">
+	</F122>
+	<F123 AlarmName="F123 6工位θ2轴伺服ALM">
+	</F123>
+	<F124 AlarmName="F124 7工位X1轴伺服ALM">
+	</F124>
+	<F125 AlarmName="F125 7工位X2轴伺服ALM">
+	</F125>
+	<F126 AlarmName="F126 7工位θ1轴伺服ALM">
+	</F126>
+	<F127 AlarmName="F127 7工位θ2轴伺服ALM">
+	</F127>
+	<F128 AlarmName="F128 8工位X1轴伺服ALM">
+	</F128>
+	<F129 AlarmName="F129 8工位X2轴伺服ALM">
+	</F129>
+
+	<F130 AlarmName="F130 8工位θ1轴伺服ALM">
+	</F130>
+	<F131 AlarmName="F131 8工位θ2轴伺服ALM">
+	</F131>
+	<F132 AlarmName="F132 7工位X1轴伺服ALM">
+	</F132>
+	<F133 AlarmName="F133 7工位X2轴伺服ALM">
+	</F133>
+	<F134 AlarmName="F134 7工位θ1轴伺服ALM">
+	</F134>
+	<F135 AlarmName="F135 7工位θ2轴伺服ALM">
+	</F135>
+	<F136 AlarmName="F136 9工位X1轴伺服ALM">
+	</F136>
+	<F137 AlarmName="F137 9工位X2轴伺服ALM">
+	</F137>
+	<F138 AlarmName="F138 9工位θ1轴伺服ALM">
+	</F138>
+	<F139 AlarmName="F139 9工位θ2轴伺服ALM">
+	</F139>
+
+	<F140 AlarmName=" ">
+	</F140>
+	<F141 AlarmName=" ">
+	</F141>
+	<F142 AlarmName="  ">
+	</F142>
+	<F143 AlarmName=" ">
+	</F143>
+	<F144 AlarmName=" ">
+	</F144>
+	<F145 AlarmName=" ">
+	</F145>
+	<F146 AlarmName=" ">
+	</F146>
+	<F147 AlarmName=" ">
+	</F147>
+	<F148 AlarmName=" ">
+	</F148>
+	<F149 AlarmName=" ">
+	</F149>
+
+	<F150 AlarmName=" ">
+	</F150>
+	<F151 AlarmName=" ">
+	</F151>
+	<F152 AlarmName="  ">
+	</F152>
+	<F153 AlarmName=" ">
+	</F153>
+	<F154 AlarmName=" ">
+	</F154>
+	<F155 AlarmName=" ">
+	</F155>
+	<F156 AlarmName=" ">
+	</F156>
+	<F157 AlarmName=" ">
+	</F157>
+	<F158 AlarmName=" ">
+	</F158>
+	<F159 AlarmName=" ">
+	</F159>
+
+	<F160 AlarmName=" ">
+	</F160>
+	<F161 AlarmName=" ">
+	</F161>
+	<F162 AlarmName="  ">
+	</F162>
+	<F163 AlarmName=" ">
+	</F163>
+	<F164 AlarmName=" ">
+	</F164>
+	<F165 AlarmName=" ">
+	</F165>
+	<F166 AlarmName=" ">
+	</F166>
+	<F167 AlarmName=" ">
+	</F167>
+	<F168 AlarmName=" ">
+	</F168>
+	<F169 AlarmName=" ">
+	</F169>
+
+	<F170 AlarmName=" ">
+	</F170>
+	<F171 AlarmName=" ">
+	</F171>
+	<F172 AlarmName=" ">
+	</F172>
+	<F173 AlarmName=" ">
+	</F173>
+	<F174 AlarmName=" ">
+	</F174>
+	<F175 AlarmName=" ">
+	</F175>
+	<F176 AlarmName=" ">
+	</F176>
+	<F177 AlarmName=" ">
+	</F177>
+	<F178 AlarmName=" ">
+	</F178>
+	<F179 AlarmName=" ">
+	</F179>
+
+	<F180 AlarmName=" ">
+	</F180>
+	<F181 AlarmName=" ">
+	</F181>
+	<F182 AlarmName="  ">
+	</F182>
+	<F183 AlarmName=" ">
+	</F183>
+	<F184 AlarmName=" ">
+	</F184>
+	<F185 AlarmName=" ">
+	</F185>
+	<F186 AlarmName=" ">
+	</F186>
+	<F187 AlarmName=" ">
+	</F187>
+	<F188 AlarmName=" ">
+	</F188>
+	<F189 AlarmName=" ">
+	</F189>
+
+	<F190 AlarmName=" ">
+	</F190>
+	<F191 AlarmName=" ">
+	</F191>
+	<F192 AlarmName="  ">
+	</F192>
+	<F193 AlarmName=" ">
+	</F193>
+	<F194 AlarmName=" ">
+	</F194>
+	<F195 AlarmName=" ">
+	</F195>
+	<F196 AlarmName=" ">
+	</F196>
+	<F197 AlarmName=" ">
+	</F197>
+	<F198 AlarmName=" ">
+	</F198>
+	<F199 AlarmName=" ">
+	</F199>
+
+	<F200 AlarmName=" ">
+	</F200>
+	<F201 AlarmName=" ">
+	</F201>
+	<F202 AlarmName="  ">
+	</F202>
+	<F203 AlarmName="  ">
+	</F203>
+	<F204 AlarmName=" ">
+	</F204>
+	<F205 AlarmName=" ">
+	</F205>
+	<F206 AlarmName=" ">
+	</F206>
+	<F207 AlarmName=" ">
+	</F207>
+	<F208 AlarmName=" ">
+	</F208>
+	<F209 AlarmName="PC心跳超时">
+	</F209>
+
+	<F210 AlarmName=" ">
+	</F210>
+	<F211 AlarmName=" ">
+	</F211>
+	<F212 AlarmName=" ">
+	</F212>
+	<F213 AlarmName=" ">
+	</F213>
+	<F214 AlarmName=" ">
+	</F214>
+	<F215 AlarmName=" ">
+	</F215>
+	<F216 AlarmName=" ">
+	</F216>
+	<F217 AlarmName=" ">
+	</F217>
+	<F218 AlarmName=" ">
+	</F218>
+	<F219 AlarmName=" ">
+	</F219>
+
+	<F220 AlarmName=" ">
+	</F220>
+	<F221 AlarmName=" ">
+	</F221>
+	<F222 AlarmName=" ">
+	</F222>
+	<F223 AlarmName=" ">
+	</F223>
+	<F224 AlarmName=" ">
+	</F224>
+	<F225 AlarmName=" ">
+	</F225>
+	<F226 AlarmName=" ">
+	</F226>
+	<F227 AlarmName=" ">
+	</F227>
+	<F228 AlarmName=" ">
+	</F228>
+	<F229 AlarmName=" ">
+	</F229>
+
+	<F230 AlarmName="F230 UNIT-1原点复归失败">
+	</F230>
+	<F231 AlarmName="F231 UNIT-2原点复归失败">
+	</F231>
+	<F232 AlarmName="F232 UNIT-3原点复归失败">
+	</F232>
+	<F233 AlarmName="F233 UNIT-4原点复归失败">
+	</F233>
+	<F234 AlarmName="F234 UNIT-5原点复归失败">
+	</F234>
+	<F235 AlarmName="F235 UNIT-6原点复归失败">
+	</F235>
+	<F236 AlarmName="F236 UNIT-7原点复归失败">
+	</F236>
+	<F237 AlarmName="F237 UNIT-8原点复归失败">
+	</F237>
+	<F238 AlarmName="F238 UNIT-7原点复归失败">
+	</F238>
+	<F239 AlarmName="F239 UNIT-9原点复归失败">
+	</F239>
+
+	<F240 AlarmName=" ">
+	</F240>
+	<F241 AlarmName=" ">
+	</F241>
+	<F242 AlarmName="  ">
+	</F242>
+	<F243 AlarmName=" ">
+	</F243>
+	<F244 AlarmName=" ">
+	</F244>
+	<F245 AlarmName=" ">
+	</F245>
+	<F246 AlarmName=" ">
+	</F246>
+	<F247 AlarmName=" ">
+	</F247>
+	<F248 AlarmName=" ">
+	</F248>
+	<F249 AlarmName=" ">
+	</F249>
+
+	<F250 AlarmName="F250 CCLINK-1异常">
+	</F250>
+	<F251 AlarmName="F251 CCLINK-2异常">
+	</F251>
+	<F252 AlarmName="F252 CCLINK-3异常">
+	</F252>
+	<F253 AlarmName="F253 CCLINK-4异常">
+	</F253>
+	<F254 AlarmName="F254 CCLINK-5异常">
+	</F254>
+	<F255 AlarmName="F255 CCLINK-6异常">
+	</F255>
+	<F256 AlarmName="F256 CCLINK-7异常">
+	</F256>
+	<F257 AlarmName="F257 CCLINK-8异常">
+	</F257>
+	<F258 AlarmName="F258 CCLINK-9异常">
+	</F258>
+	<F259 AlarmName="F259 CCLINK-10异常">
+	</F259>
+
+	<F260 AlarmName="F260 CCLINK-11异常">
+	</F260>
+	<F261 AlarmName="F261 CCLINK-12异常">
+	</F261>
+	<F262 AlarmName="F262 CCLINK-13异常">
+	</F262>
+	<F263 AlarmName="F263 CCLINK-14异常">
+	</F263>
+	<F264 AlarmName=" ">
+	</F264>
+	<F265 AlarmName=" ">
+	</F265>
+	<F266 AlarmName=" ">
+	</F266>
+	<F267 AlarmName=" ">
+	</F267>
+	<F268 AlarmName=" ">
+	</F268>
+	<F269 AlarmName=" ">
+	</F269>
+
+	<F270 AlarmName=" ">
+	</F270>
+	<F271 AlarmName=" ">
+	</F271>
+	<F272 AlarmName=" ">
+	</F272>
+	<F273 AlarmName=" ">
+	</F273>
+	<F274 AlarmName=" ">
+	</F274>
+	<F275 AlarmName=" ">
+	</F275>
+	<F276 AlarmName=" ">
+	</F276>
+	<F277 AlarmName=" ">
+	</F277>
+	<F278 AlarmName=" ">
+	</F278>
+	<F279 AlarmName=" ">
+	</F279>
+
+	<F280 AlarmName=" ">
+	</F280>
+	<F281 AlarmName=" ">
+	</F281>
+	<F282 AlarmName="  ">
+	</F282>
+	<F283 AlarmName=" ">
+	</F283>
+	<F284 AlarmName=" ">
+	</F284>
+	<F285 AlarmName=" ">
+	</F285>
+	<F286 AlarmName=" ">
+	</F286>
+	<F287 AlarmName=" ">
+	</F287>
+	<F288 AlarmName=" ">
+	</F288>
+	<F289 AlarmName=" ">
+	</F289>
+
+	<F290 AlarmName=" ">
+	</F290>
+	<F291 AlarmName=" ">
+	</F291>
+	<F292 AlarmName="  ">
+	</F292>
+	<F293 AlarmName=" ">
+	</F293>
+	<F294 AlarmName=" ">
+	</F294>
+	<F295 AlarmName=" ">
+	</F295>
+	<F296 AlarmName=" ">
+	</F296>
+	<F297 AlarmName=" ">
+	</F297>
+	<F298 AlarmName=" ">
+	</F298>
+	<F299 AlarmName=" ">
+	</F299>
+
+	<F300 AlarmName="300 M01工位1Y1轴 原点复归失败">
+	</F300>
+	<F301 AlarmName="301 M01工位1Y1轴 过硬体负极限">
+	</F301>
+	<F302 AlarmName="302 M01工位1Y1轴 过硬体正极限">
+	</F302>
+	<F303 AlarmName="303 M01工位1Y1轴 周期行程超范">
+	</F303>
+	<F304 AlarmName="304 M01工位1Y1轴 模组通用异常">
+	</F304>
+	<F305 AlarmName="305 M01工位1Y1轴 伺服驱动器异">
+	</F305>
+	<F306 AlarmName="306 M01工位1Y1轴 电池电量过低">
+	</F306>
+	<F307 AlarmName="307 M01工位1Y1轴 轴异常">
+	</F307>
+	<F308 AlarmName="308 M01工位1Y1轴 过软体负极限">
+	</F308>
+	<F309 AlarmName="309 M01工位1Y1轴 过软体正极限">
+	</F309>
+
+	<F310 AlarmName="310 M02工位1Y2轴 原点复归失败">
+	</F310>
+	<F311 AlarmName="311 M02工位1Y2轴 过硬体负极限">
+	</F311>
+	<F312 AlarmName="312 M02工位1Y2轴 过硬体正极限">
+	</F312>
+	<F313 AlarmName="313 M02工位1Y2轴 周期行程超范围">
+	</F313>
+	<F314 AlarmName="314 M02工位1Y2轴 模组通用异常">
+	</F314>
+	<F315 AlarmName="315 M02工位1Y2轴 伺服驱动器异常">
+	</F315>
+	<F316 AlarmName="316 M02工位1Y2轴 电池电量过低异常">
+	</F316>
+	<F317 AlarmName="317 M02工位1Y2轴 轴异常">
+	</F317>
+	<F318 AlarmName="318 M02工位1Y2轴 过软体负极限">
+	</F318>
+	<F319 AlarmName="319 M02工位1Y2轴 过软体正极限">
+	</F319>
+
+	<F320 AlarmName="320 M03工位1Z1轴 原点复归失败">
+	</F320>
+	<F321 AlarmName="321 M03工位1Z1轴 过硬体负极限">
+	</F321>
+	<F322 AlarmName="322 M03工位1Z1轴 过硬体正极限">
+	</F322>
+	<F323 AlarmName="323 M03工位1Z1轴 周期行程超范围">
+	</F323>
+	<F324 AlarmName="324 M03工位1Z1轴 模组通用异常">
+	</F324>
+	<F325 AlarmName="325 M03工位1Z1轴 伺服驱动器异常">
+	</F325>
+	<F326 AlarmName="326 M03工位1Z轴 电池电量过低异常">
+	</F326>
+	<F327 AlarmName="327 M03工位1Z1轴 轴异常">
+	</F327>
+	<F328 AlarmName="328 M03工位1Z1轴 过软体负极限">
+	</F328>
+	<F329 AlarmName="329 M03工位1Z1轴 过软体正极限">
+	</F329>
+
+	<F330 AlarmName="330 M04工位1Z2轴 原点复归失败">
+	</F330>
+	<F331 AlarmName="331 M04工位1Z2轴 过硬体负极限">
+	</F331>
+	<F332 AlarmName="332 M04工位1Z2轴 过硬体正极限">
+	</F332>
+	<F333 AlarmName="333 M04工位1Z2轴 周期行程超范围">
+	</F333>
+	<F334 AlarmName="334 M04工位1Z2轴 模组通用异常">
+	</F334>
+	<F335 AlarmName="335 M04工位1Z2 伺服驱动器异常">
+	</F335>
+	<F336 AlarmName="336 M04工位1Z2 电池电量过低异常">
+	</F336>
+	<F337 AlarmName="337 M04工位1Z2轴 轴异常">
+	</F337>
+	<F338 AlarmName="338 M04工位1Z2轴 过软体负极限">
+	</F338>
+	<F339 AlarmName="339 M04工位1Z2轴 过软体正极限">
+	</F339>
+
+	<F340 AlarmName="340 M05工位2Y1轴 原点复归失败">
+	</F340>
+	<F341 AlarmName="341 M05工位2Y1轴 过硬体负极限">
+	</F341>
+	<F342 AlarmName="342 M05工位2Y1轴 过硬体正极限">
+	</F342>
+	<F343 AlarmName="343 M05工位2Y1轴 周期行程超范围">
+	</F343>
+	<F344 AlarmName="344 M05工位2Y1轴 模组通用异常">
+	</F344>
+	<F345 AlarmName="345 M05工位2Y1轴 伺服驱动器异常">
+	</F345>
+	<F346 AlarmName="346 M05工位2Y1轴 电池电量过低异常">
+	</F346>
+	<F347 AlarmName="347 M05工位2Y1轴 轴异常">
+	</F347>
+	<F348 AlarmName="348 M05工位2Y1轴 过软体负极限">
+	</F348>
+	<F349 AlarmName="349 M05工位2Y1轴 过软体正极限">
+	</F349>
+
+	<F350 AlarmName="350 M06工位2Y2轴 原点复归失败">
+	</F350>
+	<F351 AlarmName="351 M06工位2Y2轴 过硬体负极限">
+	</F351>
+	<F352 AlarmName="352 M06工位2Y2轴 过硬体正极限">
+	</F352>
+	<F353 AlarmName="353 M06工位2Y2轴 周期行程超范围">
+	</F353>
+	<F354 AlarmName="354 M06工位2Y2轴 模组通用异常">
+	</F354>
+	<F355 AlarmName="355 M06工位2Y2轴 伺服驱动器异常">
+	</F355>
+	<F356 AlarmName="356 M06工位2Y2轴 电池电量过低异常">
+	</F356>
+	<F357 AlarmName="357 M06工位2Y2轴 轴异常">
+	</F357>
+	<F358 AlarmName="358 M06工位2Y2轴 过软体负极限">
+	</F358>
+	<F359 AlarmName="359 M06工位2Y2轴 过软体正极限">
+	</F359>
+
+	<F360 AlarmName="360 M07工位2Z1轴 原点复归失败">
+	</F360>
+	<F361 AlarmName="361 M07工位2Z1轴 过硬体负极限">
+	</F361>
+	<F362 AlarmName="362 M07工位2Z1轴 过硬体正极限">
+	</F362>
+	<F363 AlarmName="363 M07工位2Z1 周期行程超范围">
+	</F363>
+	<F364 AlarmName="364 M07工位2Z1轴 模组通用异常">
+	</F364>
+	<F365 AlarmName="365 M07工位2Z1 伺服驱动器异常">
+	</F365>
+	<F366 AlarmName="366 M07工位2Z1 电池电量过低异常">
+	</F366>
+	<F367 AlarmName="367 M07工位2Z1轴 轴异常">
+	</F367>
+	<F368 AlarmName="368 M07工位2Z1轴 过软体正极限">
+	</F368>
+	<F369 AlarmName="369 M07工位2Z1轴 过软体正极限">
+	</F369>
+
+	<F370 AlarmName="370 M08工位2Z2轴 原点复归失败">
+	</F370>
+	<F371 AlarmName="371 M08工位2Z2轴 过硬体负极限">
+	</F371>
+	<F372 AlarmName="372 M08工位2Z2轴 过硬体正极限">
+	</F372>
+	<F373 AlarmName="373 M08工位2Z2轴 周期行程超范围">
+	</F373>
+	<F374 AlarmName="374 M08工位2Z2轴 模组通用异常">
+	</F374>
+	<F375 AlarmName="375 M08工位2Z2轴 伺服驱动器异常">
+	</F375>
+	<F376 AlarmName="376 M08工位2Z2轴 电池电量过低异常">
+	</F376>
+	<F377 AlarmName="377 M08工位2Z2轴 轴异常">
+	</F377>
+	<F378 AlarmName="378 M08工位2Z2轴 过软体负极限">
+	</F378>
+	<F379 AlarmName="379 M08工位2Z2轴 过软体正极限">
+	</F379>
+
+	<F380 AlarmName="380 M09工位3Y1轴 原点复归失败">
+	</F380>
+	<F381 AlarmName="381 M09工位3Y1轴 过硬体负极限">
+	</F381>
+	<F382 AlarmName="382 M09工位3Y1轴 过硬体正极限">
+	</F382>
+	<F383 AlarmName="383 M09工位3Y1轴 周期行程超范围">
+	</F383>
+	<F384 AlarmName="384 M09工位3Y1轴 模组通用异常">
+	</F384>
+	<F385 AlarmName="385 M09工位3Y1轴 伺服驱动器异常">
+	</F385>
+	<F386 AlarmName="386 M09工位3Y1轴 电池电量过低异常">
+	</F386>
+	<F387 AlarmName="387 M09工位3Y1轴 轴异常">
+	</F387>
+	<F388 AlarmName="388 M09工位3Y1轴 过软体负极限">
+	</F388>
+	<F389 AlarmName="389 M09工位3Y1轴 过软体正极限">
+	</F389>
+
+	<F390 AlarmName="390 M10工位3Y2轴 原点复归失败">
+	</F390>
+	<F391 AlarmName="391 M10工位3Y2轴 过硬体负极限">
+	</F391>
+	<F392 AlarmName="392 M10工位3Y2轴 过硬体正极限">
+	</F392>
+	<F393 AlarmName="393 M10工位3Y2轴 周期行程超范围">
+	</F393>
+	<F394 AlarmName="394 M10工位3Y2轴 模组通用异常">
+	</F394>
+	<F395 AlarmName="395 M10工位3Y2轴 伺服驱动器异常">
+	</F395>
+	<F396 AlarmName="396 M10工位3Y2轴 电池电量过低异常">
+	</F396>
+	<F397 AlarmName="397 M10工位3Y2轴 轴异常">
+	</F397>
+	<F398 AlarmName="398 M10工位3Y2轴 过软体负极限">
+	</F398>
+	<F399 AlarmName="399 M10工位3Y2轴 过软体正极限">
+	</F399>
+
+	<F400 AlarmName="400 M11工位3Z1轴 原点复归失败">
+	</F400>
+	<F401 AlarmName="401 M11工位3Z1轴 过硬体负极限">
+	</F401>
+	<F402 AlarmName="402 M11工位3Z1轴 过硬体正极限">
+	</F402>
+	<F403 AlarmName="403 M11工位3Z1轴 周期行程超范围">
+	</F403>
+	<F404 AlarmName="404 M11工位3Z1轴 模组通用异常">
+	</F404>
+	<F405 AlarmName="405 M11工位3Z1轴 伺服驱动器异常">
+	</F405>
+	<F406 AlarmName="406 M11工位3Z1轴 电池电量过低异常">
+	</F406>
+	<F407 AlarmName="407 M11工位3Z1轴 轴异常">
+	</F407>
+	<F408 AlarmName="408 M11工位3Z1轴 过软体负极限">
+	</F408>
+	<F409 AlarmName="409 M11工位3Z1轴 过软体正极限">
+	</F409>
+
+	<F410 AlarmName="410 M12工位3Z2轴 原点复归失败">
+	</F410>
+	<F411 AlarmName="411 M12工位3Z2轴 过硬体负极限">
+	</F411>
+	<F412 AlarmName="412 M12工位3Z2轴 过硬体正极限">
+	</F412>
+	<F413 AlarmName="413 M12工位3Z2轴 周期行程超范围">
+	</F413>
+	<F414 AlarmName="414 M12工位3Z2轴 模组通用异常">
+	</F414>
+	<F415 AlarmName="415 M12工位3Z2轴 伺服驱动器异">
+	</F415>
+	<F416 AlarmName="416 M12工位3Z2轴 电池电量过低异常">
+	</F416>
+	<F417 AlarmName="417 M12工位3Z2轴 轴异常">
+	</F417>
+	<F418 AlarmName="418 M12工位3Z2轴 过软体负极限">
+	</F418>
+	<F419 AlarmName="419 M12工位3Z2轴 过软体正极限">
+	</F419>
+
+	<F420 AlarmName="420 M13工位4Y1轴 原点复归失败">
+	</F420>
+	<F421 AlarmName="421 M13工位4Y1轴 过硬体负极限">
+	</F421>
+	<F422 AlarmName="422 M13工位4Y1轴 过硬体正极限">
+	</F422>
+	<F423 AlarmName="423 M13工位4Y1轴 周期行程超范围">
+	</F423>
+	<F424 AlarmName="424 M13工位4Y1轴 模组通用异常">
+	</F424>
+	<F425 AlarmName="425 M13工位4Y1轴 伺服驱动器异常">
+	</F425>
+	<F426 AlarmName="426 M13工位4Y1轴 电池电量过低异常">
+	</F426>
+	<F427 AlarmName="427 M13工位4Y1轴 轴异常">
+	</F427>
+	<F428 AlarmName="428 M13工位4Y1轴 过软体负极限">
+	</F428>
+	<F429 AlarmName="429 M13工位4Y1轴 过软体正极限">
+	</F429>
+
+	<F430 AlarmName="430 M14工位4Y2轴 原点复归失败">
+	</F430>
+	<F431 AlarmName="431 M14工位4Y2轴 过硬体负极限">
+	</F431>
+	<F432 AlarmName="432 M14工位4Y2轴 过硬体正极限">
+	</F432>
+	<F433 AlarmName="433 M14工位4Y2轴 周期行程超范围">
+	</F433>
+	<F434 AlarmName="434 M14工位4Y2轴 模组通用异常">
+	</F434>
+	<F435 AlarmName="435 M14工位4Y2轴 伺服驱动器异常">
+	</F435>
+	<F436 AlarmName="436 M14工位4Y2轴 电池电量过低异常">
+	</F436>
+	<F437 AlarmName="437 M14工位4Y2轴 轴异常">
+	</F437>
+	<F438 AlarmName="438 M14工位4Y2轴 过软体负极限">
+	</F438>
+	<F439 AlarmName="439 M14工位4Y2轴 过软体正极限">
+	</F439>
+
+	<F440 AlarmName="440 M15工位4Z1轴 原点复归失败">
+	</F440>
+	<F441 AlarmName="441 M15工位4Z1轴 过硬体负极限">
+	</F441>
+	<F442 AlarmName="442 M15工位4Z1轴 过硬体正极限">
+	</F442>
+	<F443 AlarmName="443 M15工位4Z1轴 周期行程超范围">
+	</F443>
+	<F444 AlarmName="444 M15工位4Z1轴 模组通用异常">
+	</F444>
+	<F445 AlarmName="445 M15工位4Z1轴 伺服驱动器异常">
+	</F445>
+	<F446 AlarmName="446 M15工位4Z1轴 电池电量过低异常">
+	</F446>
+	<F447 AlarmName="447 M15工位4Z1轴 轴异常">
+	</F447>
+	<F448 AlarmName="448 M15工位4Z1轴 过软体负极限">
+	</F448>
+	<F449 AlarmName="449 M15工位4Z1轴 过软体正极限">
+	</F449>
+
+	<F450 AlarmName="450 M16工位4Z2轴 原点复归失败">
+	</F450>
+	<F451 AlarmName="451 M16工位4Z2轴 过硬体负极限">
+	</F451>
+	<F452 AlarmName="452 M16工位4Z2轴 过硬体正极限">
+	</F452>
+	<F453 AlarmName="453 M16工位4Z2轴 周期行程超范围">
+	</F453>
+	<F454 AlarmName="454 M16工位4Z2轴 模组通用异常">
+	</F454>
+	<F455 AlarmName="455 M16工位4Z2轴 伺服驱动器异常">
+	</F455>
+	<F456 AlarmName="456 M16工位4Z2轴 电池电量过低异常">
+	</F456>
+	<F457 AlarmName="457 M16工位4Z2轴 轴异常">
+	</F457>
+	<F458 AlarmName="458 M16工位4Z2轴 过软体负极限">
+	</F458>
+	<F459 AlarmName="459 M16工位4Z2轴 过软体正极限">
+	</F459>
+
+	<F460 AlarmName="460 M17工位1θ1轴 原点复归失败">
+	</F460>
+	<F461 AlarmName="461 M17工位1θ1轴 过硬体负极限">
+	</F461>
+	<F462 AlarmName="462 M17工位1θ1轴 过硬体正极限">
+	</F462>
+	<F463 AlarmName="463 M17工位1θ1 周期行程超范围">
+	</F463>
+	<F464 AlarmName="464 M17工位1θ1轴 模组通用异常">
+	</F464>
+	<F465 AlarmName="465 M17工位1θ1轴 伺服驱动器异常">
+	</F465>
+	<F466 AlarmName="466 M17工位1θ1轴 电池电量过低异常">
+	</F466>
+	<F467 AlarmName="467 M17工位1θ1轴 轴异常">
+	</F467>
+	<F468 AlarmName="468 M17工位1θ1轴 过软体负极限">
+	</F468>
+	<F469 AlarmName="469 M17工位1θ1轴 过软体正极限">
+	</F469>
+
+	<F470 AlarmName="470 M18工位1θ2轴 原点复归失败">
+	</F470>
+	<F471 AlarmName="471 M18工位1θ2轴 过硬体负极限">
+	</F471>
+	<F472 AlarmName="472 M18工位1θ2轴 过硬体正极限">
+	</F472>
+	<F473 AlarmName="473 M18工位1θ2轴 周期行程超范围">
+	</F473>
+	<F474 AlarmName="474 M18工位1θ2轴 模组通用异常">
+	</F474>
+	<F475 AlarmName="475 M18工位1θ2轴 伺服驱动器异常">
+	</F475>
+	<F476 AlarmName="476 M18工位1θ2轴 电池电量过低异常">
+	</F476>
+	<F477 AlarmName="477 M18工位1θ2轴 轴异常">
+	</F477>
+	<F478 AlarmName="478 M18工位1θ2轴 过软体负极限">
+	</F478>
+	<F479 AlarmName="479 M18工位1θ2轴 过软体正极限">
+	</F479>
+
+	<F480 AlarmName="480 M19工位1X1轴 原点复归失败">
+	</F480>
+	<F481 AlarmName="481 M19工位1X1轴 过硬体负极限">
+	</F481>
+	<F482 AlarmName="482 M19工位1X1轴 过硬体正极限">
+	</F482>
+	<F483 AlarmName="483 M19工位1X1轴 周期行程超范围">
+	</F483>
+	<F484 AlarmName="484 M19工位1X1轴 模组通用异常">
+	</F484>
+	<F485 AlarmName="485 M19工位1X1轴 伺服驱动器异常">
+	</F485>
+	<F486 AlarmName="486 M19工位1X1轴 电池电量过低异常">
+	</F486>
+	<F487 AlarmName="487 M19工位1X1轴 轴异常">
+	</F487>
+	<F488 AlarmName="488 M19工位1X1轴 过软体负极限">
+	</F488>
+	<F489 AlarmName="489 M19工位1X1轴 过软体正极限">
+	</F489>
+
+	<F490 AlarmName="490 M20工位1X2轴 原点复归失败">
+	</F490>
+	<F491 AlarmName="491 M20工位1X2轴 过硬体负极限">
+	</F491>
+	<F492 AlarmName="492 M20工位1X2轴 过硬体正极限">
+	</F492>
+	<F493 AlarmName="493 M20工位1X2轴 周期行程超范围">
+	</F493>
+	<F494 AlarmName="494 M20工位1X2轴 模组通用异常">
+	</F494>
+	<F495 AlarmName="495 M20工位1X2轴 伺服驱动器异常">
+	</F495>
+	<F496 AlarmName="496 M20工位1X2轴 电池电量过低异常">
+	</F496>
+	<F497 AlarmName="497 M20工位1X2轴 背轴异常">
+	</F497>
+	<F498 AlarmName="498 M20工位1X2轴 过软体负极限">
+	</F498>
+	<F499 AlarmName="499 M20工位1X2轴 过软体正极限">
+	</F499>
+
+	<F500 AlarmName="500 M21工位4θ1轴 原点复归失败">
+	</F500>
+	<F501 AlarmName="501 M21工位4θ1轴 过硬体负极限">
+	</F501>
+	<F502 AlarmName="502 M21工位4θ1轴 过硬体正极限">
+	</F502>
+	<F503 AlarmName="503 M21工位4θ1轴 周期行程超范围">
+	</F503>
+	<F504 AlarmName="504 M21工位4θ1轴 模组通用异常">
+	</F504>
+	<F505 AlarmName="505 M21工位4θ1轴 伺服驱动器异常">
+	</F505>
+	<F506 AlarmName="506 M21工位4θ1轴 电池电量过低异常">
+	</F506>
+	<F507 AlarmName="507 M21工位4θ1轴 轴异常">
+	</F507>
+	<F508 AlarmName="508 M21工位4θ1轴 过软体负极限">
+	</F508>
+	<F509 AlarmName="509 M21工位4θ1轴 过软体正极限">
+	</F509>
+
+	<F510 AlarmName="510 M22工位4θ2轴 原点复归失败">
+	</F510>
+	<F511 AlarmName="511 M22工位4θ2轴 过硬体负极限">
+	</F511>
+	<F512 AlarmName="512 M22工位4θ2轴 过硬体正极限">
+	</F512>
+	<F513 AlarmName="513 M22工位4θ2轴 周期行程超范围">
+	</F513>
+	<F514 AlarmName="514 M22工位4θ2轴 模组通用异常">
+	</F514>
+	<F515 AlarmName="515 M22工位4θ2轴 伺服驱动器异常">
+	</F515>
+	<F516 AlarmName="516 M22工位4θ2轴 电池电量过低异常">
+	</F516>
+	<F517 AlarmName="517 M22工位4θ2轴 轴异常">
+	</F517>
+	<F518 AlarmName="518 M22工位4θ2轴 过软体负极限">
+	</F518>
+	<F519 AlarmName="519 M22工位4θ2轴 过软体正极限">
+	</F519>
+
+	<F520 AlarmName="520 M23工位4X1轴 原点复归失败">
+	</F520>
+	<F521 AlarmName="521 M23工位4X1轴 过硬体负极限">
+	</F521>
+	<F522 AlarmName="522 M23工位4X1轴 过硬体正极限">
+	</F522>
+	<F523 AlarmName="523 M23工位4X1轴 周期行程超范围">
+	</F523>
+	<F524 AlarmName="524 M23工位4X1轴 模组通用异常">
+	</F524>
+	<F525 AlarmName="525 M23工位4X1轴 伺服驱动器异常">
+	</F525>
+	<F526 AlarmName="526 M23工位4X1轴 电池电量过低异常">
+	</F526>
+	<F527 AlarmName="527 M23工位4X1轴 轴异常">
+	</F527>
+	<F528 AlarmName="528 M23工位4X1轴 过软体负极限">
+	</F528>
+	<F529 AlarmName="529 M23工位4X1轴 过软体正极限">
+	</F529>
+
+	<F530 AlarmName="530 M24工位4X2轴 原点复归失败">
+	</F530>
+	<F531 AlarmName="531 M24工位4X2轴 过硬体负极限">
+	</F531>
+	<F532 AlarmName="532 M24工位4X2轴 过硬体正极限">
+	</F532>
+	<F533 AlarmName="533 M24工位4X2轴 周期行程超范围">
+	</F533>
+	<F534 AlarmName="534 M24工位4X2轴 模组通用异常">
+	</F534>
+	<F535 AlarmName="535 M24工位4X2轴 伺服驱动器异常">
+	</F535>
+	<F536 AlarmName="536 M24工位4X2轴 电池电量过低异常">
+	</F536>
+	<F537 AlarmName="537 M24工位4X2轴 轴异常">
+	</F537>
+	<F538 AlarmName="538 M24工位4X2轴 过软体负极限">
+	</F538>
+	<F539 AlarmName="539 M24工位4X2轴 过软体正极限">
+	</F539>
+
+	<F540 AlarmName="540 M25工位6θ1轴 原点复归失败">
+	</F540>
+	<F541 AlarmName="541 M25工位6θ1轴 过硬体负极限">
+	</F541>
+	<F542 AlarmName="542 M25工位6θ1轴 过硬体正极限">
+	</F542>
+	<F543 AlarmName="543 M25工位6θ1轴 周期行程超范围">
+	</F543>
+	<F544 AlarmName="544 M25工位6θ1轴 模组通用异常">
+	</F544>
+	<F545 AlarmName="545 M25工位6θ1轴 伺服驱动器异常">
+	</F545>
+	<F546 AlarmName="546 M25工位6θ1轴 电池电量过低异常">
+	</F546>
+	<F547 AlarmName="547 M25工位6θ1轴 轴异常">
+	</F547>
+	<F548 AlarmName="548 M25工位6θ1轴 过软体负极限">
+	</F548>
+	<F549 AlarmName="549 M25工位6θ1轴 过软体正极限">
+	</F549>
+
+	<F550 AlarmName="550 M26工位6θ2轴 原点复归失败">
+	</F550>
+	<F551 AlarmName="551 M26工位6θ2轴 过硬体负极限">
+	</F551>
+	<F552 AlarmName="552 M26工位6θ2轴 过硬体正极限">
+	</F552>
+	<F553 AlarmName="553 M26工位6θ2轴 周期行程超范围">
+	</F553>
+	<F554 AlarmName="554 M26工位6θ2轴 模组通用异常">
+	</F554>
+	<F555 AlarmName="555 M26工位6θ2轴 伺服驱动器异常">
+	</F555>
+	<F556 AlarmName="556 M26工位6θ2轴 电池电量过低异常">
+	</F556>
+	<F557 AlarmName="557 M26工位6θ2轴 轴异常">
+	</F557>
+	<F558 AlarmName="558 M26工位6θ2轴 过软体负极限">
+	</F558>
+	<F559 AlarmName="559 M26工位6θ2轴 过软体正极限">
+	</F559>
+
+	<F560 AlarmName="560 M27工位6X1轴 原点复归失败">
+	</F560>
+	<F561 AlarmName="561 M27工位6X1轴 过硬体负极限">
+	</F561>
+	<F562 AlarmName="562 M27工位6X1轴 过硬体正极限">
+	</F562>
+	<F563 AlarmName="563 M27工位6X1轴 周期行程超范围">
+	</F563>
+	<F564 AlarmName="564 M27工位6X1轴 模组通用异常">
+	</F564>
+	<F565 AlarmName="565 M27工位6X1轴 伺服驱动器异常">
+	</F565>
+	<F566 AlarmName="566 M27工位6X1轴 电池电量过低异常">
+	</F566>
+	<F567 AlarmName="567 M27工位6X1轴 轴异常">
+	</F567>
+	<F568 AlarmName="568 M27工位6X1轴 过软体负极限">
+	</F568>
+	<F569 AlarmName="569 M27工位6X1轴 过软体正极限">
+	</F569>
+
+	<F570 AlarmName="570 M28工位6X2轴 原点复归失败">
+	</F570>
+	<F571 AlarmName="571 M28工位6X2轴 过硬体负极限">
+	</F571>
+	<F572 AlarmName="572 M28工位6X2轴 过硬体正极限">
+	</F572>
+	<F573 AlarmName="573 M28工位6X2轴 周期行程超范围">
+	</F573>
+	<F574 AlarmName="574 M28工位6X2轴 模组通用异常">
+	</F574>
+	<F575 AlarmName="575 M28工位6X2轴 伺服驱动器异常">
+	</F575>
+	<F576 AlarmName="576 M28工位6X2轴 电池电量过低异常">
+	</F576>
+	<F577 AlarmName="577 M28工位6X2轴 轴异常">
+	</F577>
+	<F578 AlarmName="578 M28工位6X2轴 过软体负极限">
+	</F578>
+	<F579 AlarmName="579 M28工位6X2轴 过软体正极限">
+	</F579>
+
+	<F580 AlarmName="580 M29工位8θ1轴 原点复归失败">
+	</F580>
+	<F581 AlarmName="581 M29工位8θ1轴 过硬体负极限">
+	</F581>
+	<F582 AlarmName="582 M29工位8θ1轴 过硬体正极限">
+	</F582>
+	<F583 AlarmName="583 M29工位8θ1轴 周期行程超范围">
+	</F583>
+	<F584 AlarmName="584 M29工位8θ1轴 模组通用异常">
+	</F584>
+	<F585 AlarmName="585 M29工位8θ1轴 伺服驱动器异常">
+	</F585>
+	<F586 AlarmName="586 M29工位8θ1轴 电池电量过低异常">
+	</F586>
+	<F587 AlarmName="587 M29工位8θ1轴 轴异常">
+	</F587>
+	<F588 AlarmName="588 M29工位8θ1轴 过软体负极限">
+	</F588>
+	<F589 AlarmName="589 M29工位8θ1轴 过软体正极限">
+	</F589>
+
+	<F590 AlarmName="590 M30工位8θ2轴 原点复归失败">
+	</F590>
+	<F591 AlarmName="591 M30工位8θ2轴 过硬体负极限">
+	</F591>
+	<F592 AlarmName="592 M30工位8θ2轴 过硬体正极限">
+	</F592>
+	<F593 AlarmName="593 M30工位8θ2轴 周期行程超范围">
+	</F593>
+	<F594 AlarmName="594 M30工位8θ2轴 模组通用异常">
+	</F594>
+	<F595 AlarmName="595 M30工位8θ2轴 伺服驱动器异常">
+	</F595>
+	<F596 AlarmName="596 M30工位8θ2轴 电池电量过低异常">
+	</F596>
+	<F597 AlarmName="597 M30工位8θ2轴 轴异常">
+	</F597>
+	<F598 AlarmName="598 M30工位8θ2轴 过软体负极限">
+	</F598>
+	<F599 AlarmName="599 M30工位8θ2轴 过软体正极限">
+	</F599>
+
+	<F600 AlarmName="600 M31工位8X1轴 原点复归失败">
+	</F600>
+	<F601 AlarmName="601 M31工位8X1轴 过硬体负极限">
+	</F601>
+	<F602 AlarmName="602 M31工位8X1轴 过硬体正极限">
+	</F602>
+	<F603 AlarmName="603 M31工位8X1轴 周期行程超范围">
+	</F603>
+	<F604 AlarmName="604 M31工位8X1轴 模组通用异常">
+	</F604>
+	<F605 AlarmName="605 M31工位8X1轴 伺服驱动器异常">
+	</F605>
+	<F606 AlarmName="606 M31工位8X1轴 电池电量过低异常">
+	</F606>
+	<F607 AlarmName="607 M31工位8X1轴 轴异常">
+	</F607>
+	<F608 AlarmName="608 M31工位8X1轴 过软体负极限">
+	</F608>
+	<F609 AlarmName="609 M31工位8X1轴 过软体正极限">
+	</F609>
+
+	<F610 AlarmName="610 M32工位8X2轴 原点复归失败">
+	</F610>
+	<F611 AlarmName="611 M32工位8X2轴 过硬体负极限">
+	</F611>
+	<F612 AlarmName="612 M32工位8X2轴 过硬体正极限">
+	</F612>
+	<F613 AlarmName="613 M32工位8X2轴 周期行程超范围">
+	</F613>
+	<F614 AlarmName="614 M32工位8X2轴 模组通用异常">
+	</F614>
+	<F615 AlarmName="615 M32工位8X2轴 伺服驱动器异常">
+	</F615>
+	<F616 AlarmName="616 M32工位8X2轴 电池电量过低异常">
+	</F616>
+	<F617 AlarmName="617 M32工位8X2轴 轴异常">
+	</F617>
+	<F618 AlarmName="618 M32工位8X2轴 过软体负极限">
+	</F618>
+	<F619 AlarmName="619 M32工位8X2轴 过软体正极限">
+	</F619>
+
+	<F620 AlarmName="620 M33工位2θ1轴 原点复归失败">
+	</F620>
+	<F621 AlarmName="621 M33工位2θ1轴 过硬体负极限">
+	</F621>
+	<F622 AlarmName="622 M33工位2θ1轴 过硬体正极限">
+	</F622>
+	<F623 AlarmName="623 M33工位2θ1轴 周期行程超范围">
+	</F623>
+	<F624 AlarmName="624 M33工位2θ1轴 模组通用异常">
+	</F624>
+	<F625 AlarmName="625 M33工位2θ1轴 伺服驱动器异常">
+	</F625>
+	<F626 AlarmName="626 M33工位2θ1轴 电池电量过低异常">
+	</F626>
+	<F627 AlarmName="627 M33工位2θ1轴 轴异常">
+	</F627>
+	<F628 AlarmName="628 M33工位2θ1轴 过软体负极限">
+	</F628>
+	<F629 AlarmName="629 M33工位2θ1轴 过软体正极限">
+	</F629>
+
+	<F630 AlarmName="630 M34工位2θ2轴 原点复归失败">
+	</F630>
+	<F631 AlarmName="631 M34工位2θ2轴 左过硬体负极限">
+	</F631>
+	<F632 AlarmName="632 M34工位2θ2轴 过硬体正极限">
+	</F632>
+	<F633 AlarmName="633 M34工位2θ2轴 周期行程超范围">
+	</F633>
+	<F634 AlarmName="634 M34工位2θ2轴 模组通用异常">
+	</F634>
+	<F635 AlarmName="635 M34工位2θ2轴 伺服驱动器异常">
+	</F635>
+	<F636 AlarmName="636 M34工位2θ2轴 电池电量过低异常">
+	</F636>
+	<F637 AlarmName="637 M34工位2θ2轴 轴异常">
+	</F637>
+	<F638 AlarmName="638 M34工位2θ2轴 过软体负极限">
+	</F638>
+	<F639 AlarmName="639 M34工位2θ2轴 过软体正极限">
+	</F639>
+
+	<F640 AlarmName="640 M35工位2X1轴 原点复归失败">
+	</F640>
+	<F641 AlarmName="641 M35工位2X1轴 过硬体负极限">
+	</F641>
+	<F642 AlarmName="642 M35工位2X1轴 过硬体正极限">
+	</F642>
+	<F643 AlarmName="643 M35工位2X1轴 周期行程超范围">
+	</F643>
+	<F644 AlarmName="644 M35工位2X1轴 模组通用异常">
+	</F644>
+	<F645 AlarmName="645 M35工位2X1轴 伺服驱动器异常">
+	</F645>
+	<F646 AlarmName="646 M35工位2X1轴 电池电量过低异常">
+	</F646>
+	<F647 AlarmName="647 M35工位2X1轴 轴异常">
+	</F647>
+	<F648 AlarmName="648 M35工位2X1轴 过软体负极限">
+	</F648>
+	<F649 AlarmName="649 M35工位2X1轴 过软体正极限">
+	</F649>
+
+	<F650 AlarmName="650 M36工位2X2轴 原点复归失败">
+	</F650>
+	<F651 AlarmName="651 M36工位2X2轴 过硬体负极限">
+	</F651>
+	<F652 AlarmName="652 M36工位2X2轴 过硬体正极限">
+	</F652>
+	<F653 AlarmName="653 M36工位2X2轴 周期行程超范围">
+	</F653>
+	<F654 AlarmName="654 M36工位2X2轴 模组通用异常">
+	</F654>
+	<F655 AlarmName="655 M36工位2X2轴 伺服驱动器异常">
+	</F655>
+	<F656 AlarmName="656 M36工位2X2轴 电池电量过低异常">
+	</F656>
+	<F657 AlarmName="657 M36工位2X2轴 轴异常">
+	</F657>
+	<F658 AlarmName="658 M36工位2X2轴 过软体负极限">
+	</F658>
+	<F659 AlarmName="659 M36工位2X2轴 过软体正极限">
+	</F659>
+
+	<F660 AlarmName="660 M37 Spare 原点复归失败">
+	</F660>
+	<F661 AlarmName="661 M37 Spare 过硬体负极限">
+	</F661>
+	<F662 AlarmName="662 M37 Spare 过硬体正极限">
+	</F662>
+	<F663 AlarmName="663 M37 Spare 周期行程超范围">
+	</F663>
+	<F664 AlarmName="664 M37 Spare 模组通用异常">
+	</F664>
+	<F665 AlarmName="665 M37 Spare 伺服驱动器异常">
+	</F665>
+	<F666 AlarmName="666 M37 Spare 电池电量过低异常">
+	</F666>
+	<F667 AlarmName="667 M37 Spare 轴异常">
+	</F667>
+	<F668 AlarmName="668 M37 Spare 过软体负极限">
+	</F668>
+	<F669 AlarmName="669 M37 Spare 过软体正极限">
+	</F669>
+
+	<F670 AlarmName="670 M38 Spare 原点复归失败">
+	</F670>
+	<F671 AlarmName="671 M38 Spare 过硬体负极限">
+	</F671>
+	<F672 AlarmName="672 M38 Spare 过硬体正极限">
+	</F672>
+	<F673 AlarmName="673 M38 Spare 周期行程超范围">
+	</F673>
+	<F674 AlarmName="674 M38 Spare 模组通用异常">
+	</F674>
+	<F675 AlarmName="675 M38 Spare 伺服驱动器异常">
+	</F675>
+	<F676 AlarmName="676 M38 Spare 电池电量过低异常">
+	</F676>
+	<F677 AlarmName="677 M38 Spare 轴异常">
+	</F677>
+	<F678 AlarmName="678 M38 Spare 过软体负极限">
+	</F678>
+	<F679 AlarmName="679 M38 Spare 过软体正极限">
+	</F679>
+
+	<F680 AlarmName="680 M39 Spare 原点复归失败">
+	</F680>
+	<F681 AlarmName="681 M39 Spare 过硬体负极限">
+	</F681>
+	<F682 AlarmName="682 M39 Spare 过硬体正极限">
+	</F682>
+	<F683 AlarmName="683 M39 Spare 周期行程超范围">
+	</F683>
+	<F684 AlarmName="684 M39 Spare 模组通用异常">
+	</F684>
+	<F685 AlarmName="685 M39 Spare 伺服驱动器异常">
+	</F685>
+	<F686 AlarmName="686 M39 Spare 电池电量过低异常">
+	</F686>
+	<F687 AlarmName="687 M39 Spare 轴异常">
+	</F687>
+	<F688 AlarmName="688 M39 Spare 过软体负极限">
+	</F688>
+	<F689 AlarmName="689 M39 Spare 过软体正极限">
+	</F689>
+
+	<F690 AlarmName="690 M40 Spare 原点复归失败">
+	</F690>
+	<F691 AlarmName="691 M40 Spare 过硬体负极限">
+	</F691>
+	<F692 AlarmName="692 M40 Spare 过硬体正极限">
+	</F692>
+	<F693 AlarmName="693 M40 Spare 周期行程超范围">
+	</F693>
+	<F694 AlarmName="694 M40 Spare 模组通用异常">
+	</F694>
+	<F695 AlarmName="695 M40 Spare 伺服驱动器异常">
+	</F695>
+	<F696 AlarmName="696 M40 Spare 电池电量过低异常">
+	</F696>
+	<F697 AlarmName="697 M40 Spare 轴异常">
+	</F697>
+	<F698 AlarmName="698 M40 Spare 过软体负极限">
+	</F698>
+	<F699 AlarmName="699 M40 Spare 过软体正极限">
+	</F699>
+
+	<F700 AlarmName="700 M41 Spare 原点复归失败">
+	</F700>
+	<F701 AlarmName="701 M41 Spare 过硬体负极限">
+	</F701>
+	<F702 AlarmName="702 M41 Spare 过硬体正极限">
+	</F702>
+	<F703 AlarmName="703 M41 Spare 周期行程超范围">
+	</F703>
+	<F704 AlarmName="704 M41 Spare 模组通用异常">
+	</F704>
+	<F705 AlarmName="705 M41 Spare 伺服驱动器异常">
+	</F705>
+	<F706 AlarmName="706 M41 Spare 电池电量过低异常">
+	</F706>
+	<F707 AlarmName="707 M41 Spare 轴异常">
+	</F707>
+	<F708 AlarmName="708 M41 Spare 过软体正极限">
+	</F708>
+	<F709 AlarmName="709 M41 Spare 过软体正极限">
+	</F709>
+
+	<F710 AlarmName="710 M42 Spare 原点复归失败">
+	</F710>
+	<F711 AlarmName="711 M42 Spare 过硬体负极限">
+	</F711>
+	<F712 AlarmName="712 M42 Spare 过硬体正极限">
+	</F712>
+	<F713 AlarmName="713 M42 Spare 周期行程超范围">
+	</F713>
+	<F714 AlarmName="714 M42 Spare 模组通用异常">
+	</F714>
+	<F715 AlarmName="715 M42 Spare 伺服驱动器异常">
+	</F715>
+	<F716 AlarmName="716 M42 Spare 电池电量过低异常">
+	</F716>
+	<F717 AlarmName="717 M42 Spare 轴异常">
+	</F717>
+	<F718 AlarmName="718 M42 Spare 过软体负极限">
+	</F718>
+	<F719 AlarmName="719 M42 Spare 过软体正极限">
+	</F719>
+
+	<F720 AlarmName="720 M43 Spare 原点复归失败">
+	</F720>
+	<F721 AlarmName="721 M43 Spare 过硬体负极限">
+	</F721>
+	<F722 AlarmName="722 M43 Spare 过硬体正极限">
+	</F722>
+	<F723 AlarmName="723 M43 Spare 周期行程超范围">
+	</F723>
+	<F724 AlarmName="724 M43 Spare 模组通用异常">
+	</F724>
+	<F725 AlarmName="725 M43 Spare 伺服驱动器异常">
+	</F725>
+	<F726 AlarmName="726 M43 Spare 电池电量过低异常">
+	</F726>
+	<F727 AlarmName="727 M43 Spare 轴异常">
+	</F727>
+	<F728 AlarmName="728 M43 Spare 过软体负极限">
+	</F728>
+	<F729 AlarmName="729 M43 Spare 过软体正极限">
+	</F729>
+
+	<F730 AlarmName="730 M44 Spare 原点复归失败">
+	</F730>
+	<F731 AlarmName="731 M44 Spare 过硬体负极限">
+	</F731>
+	<F732 AlarmName="732 M44 Spare 过硬体正极限">
+	</F732>
+	<F733 AlarmName="733 M44 Spare 周期行程超范围">
+	</F733>
+	<F734 AlarmName="734 M44 Spare 模组通用异常">
+	</F734>
+	<F735 AlarmName="735 M44 Spare 伺服驱动器异常">
+	</F735>
+	<F736 AlarmName="736 M44 Spare 电池电量过低异常">
+	</F736>
+	<F737 AlarmName="737 M44 Spare 轴异常">
+	</F737>
+	<F738 AlarmName="738 M44 Spare 过软体负极限">
+	</F738>
+	<F739 AlarmName="739 M44 Spare 过软体正极限">
+	</F739>
+
+	<F740 AlarmName="740 M45 Spare 原点复归失败">
+	</F740>
+	<F741 AlarmName="741 M45 Spare 过硬体负极限">
+	</F741>
+	<F742 AlarmName="742 M45 Spare 过硬体正极限">
+	</F742>
+	<F743 AlarmName="743 M45 Spare 周期行程超范围">
+	</F743>
+	<F744 AlarmName="744 M45 Spare 模组通用异常">
+	</F744>
+	<F745 AlarmName="745 M45 Spare 伺服驱动器异常">
+	</F745>
+	<F746 AlarmName="746 M45 Spare 电池电量过低异常">
+	</F746>
+	<F747 AlarmName="747 M45 Spare 轴异常">
+	</F747>
+	<F748 AlarmName="748 M45 Spare 过软体负极限">
+	</F748>
+	<F749 AlarmName="749 M45 Spare 过软体正极限">
+	</F749>
+
+	<F750 AlarmName="750 M46 Spare 原点复归失败">
+	</F750>
+	<F751 AlarmName="751 M46 Spare 过硬体负极限">
+	</F751>
+	<F752 AlarmName="752 M46 Spare 过硬体正极限">
+	</F752>
+	<F753 AlarmName="753 M46 Spare 周期行程超范围">
+	</F753>
+	<F754 AlarmName="754 M46 Spare 模组通用异常">
+	</F754>
+	<F755 AlarmName="755 M46 Spare 伺服驱动器异常">
+	</F755>
+	<F756 AlarmName="756 M46 Spare 电池电量过低异常">
+	</F756>
+	<F757 AlarmName="757 M46 Spare 轴异常">
+	</F757>
+	<F758 AlarmName="758 M46 Spare 过软体负极限">
+	</F758>
+	<F759 AlarmName="759 M46 Spare 过软体正极限">
+	</F759>
+
+	<F760 AlarmName="760 M47 Spare 原点复归失败">
+	</F760>
+	<F761 AlarmName="761 M47 Spare 过硬体负极限">
+	</F761>
+	<F762 AlarmName="762 M47 Spare 过硬体正极限">
+	</F762>
+	<F763 AlarmName="763 M47 Spare 周期行程超范围">
+	</F763>
+	<F764 AlarmName="764 M47 Spare 模组通用异常">
+	</F764>
+	<F765 AlarmName="765 M47 Spare 伺服驱动器异常">
+	</F765>
+	<F766 AlarmName="766 M47 Spare 电池电量过低异常">
+	</F766>
+	<F767 AlarmName="767 M47 Spare 轴异常">
+	</F767>
+	<F768 AlarmName="768 M47 Spare 过软体正极限">
+	</F768>
+	<F769 AlarmName="769 M47 Spare 过软体正极限">
+	</F769>
+
+	<F770 AlarmName="770 M48 Spare 原点复归失败">
+	</F770>
+	<F771 AlarmName="771 M48 Spare 过硬体负极限">
+	</F771>
+	<F772 AlarmName="772 M48 Spare 过硬体正极限">
+	</F772>
+	<F773 AlarmName="773 M48 Spare 周期行程超范围">
+	</F773>
+	<F774 AlarmName="774 M48 Spare 模组通用异常">
+	</F774>
+	<F775 AlarmName="775 M48 Spare 伺服驱动器异常">
+	</F775>
+	<F776 AlarmName="776 M48 Spare 电池电量过低异常">
+	</F776>
+	<F777 AlarmName="777 M48 Spare 轴异常">
+	</F777>
+	<F778 AlarmName="778 M48 Spare 过软体负极限">
+	</F778>
+	<F779 AlarmName="779 M48 Spare 过软体正极限">
+	</F779>
+
+	<F780 AlarmName="780 M49工位3θ1轴 原点复归失败">
+	</F780>
+	<F781 AlarmName="781 M49工位3θ1轴 过硬体负极限">
+	</F781>
+	<F782 AlarmName="782 M49工位3θ1轴 过硬体正极限">
+	</F782>
+	<F783 AlarmName="783 M49工位3θ1轴 周期行程超范围">
+	</F783>
+	<F784 AlarmName="784 M49工位3θ1轴 模组通用异常">
+	</F784>
+	<F785 AlarmName="785 M49工位3θ1轴 伺服驱动器异常">
+	</F785>
+	<F786 AlarmName="786 M49工位3θ1轴 电池电量过低异常">
+	</F786>
+	<F787 AlarmName="787 M49工位3θ1轴 轴异常">
+	</F787>
+	<F788 AlarmName="788 M49工位3θ1轴 过软体负极限">
+	</F788>
+	<F789 AlarmName="789 M49工位3θ1轴 过软体正极限">
+	</F789>
+
+	<F790 AlarmName="790 M50工位3θ2轴 原点复归失败">
+	</F790>
+	<F791 AlarmName="791 M50工位3θ2轴 过硬体负极限">
+	</F791>
+	<F792 AlarmName="792 M50工位3θ2轴 过硬体正极限">
+	</F792>
+	<F793 AlarmName="793 M50工位3θ2轴 周期行程超范围">
+	</F793>
+	<F794 AlarmName="794 M50工位3θ2轴 模组通用异常">
+	</F794>
+	<F795 AlarmName="795 M50工位3θ2轴 伺服驱动器异常">
+	</F795>
+	<F796 AlarmName="796 M50工位3θ2轴 电池电量过低异常">
+	</F796>
+	<F797 AlarmName="797 M50工位3θ2轴 轴异常">
+	</F797>
+	<F798 AlarmName="798 M50工位3θ2轴 过软体负极限">
+	</F798>
+	<F799 AlarmName="799 M50工位3θ2轴 过软体正极限">
+	</F799>
+
+	<F800 AlarmName="800 M51工位3X1轴 原点复归失败">
+	</F800>
+	<F801 AlarmName="801 M51工位3X1轴 过硬体负极限">
+	</F801>
+	<F802 AlarmName="802 M51工位3X1轴 过硬体正极限">
+	</F802>
+	<F803 AlarmName="803 M51工位3X1轴 周期行程超范围">
+	</F803>
+	<F804 AlarmName="804 M51工位3X1轴 X1模组通用异常">
+	</F804>
+	<F805 AlarmName="805 M51工位3X1轴 伺服驱动器异常">
+	</F805>
+	<F806 AlarmName="806 M51工位3X1轴 电池电量过低异常">
+	</F806>
+	<F807 AlarmName="807 M51工位3X1轴 轴异常">
+	</F807>
+	<F808 AlarmName="808 M51工位3X1轴 过软体负极限">
+	</F808>
+	<F809 AlarmName="809 M51工位3X1轴 过软体正极限">
+	</F809>
+
+	<F810 AlarmName="810 M52工位3X2轴 原点复归失败">
+	</F810>
+	<F811 AlarmName="811 M52工位3X2轴 过硬体负极限">
+	</F811>
+	<F812 AlarmName="812 M52工位3X2轴 过硬体正极限">
+	</F812>
+	<F813 AlarmName="813 M52工位3X2轴 周期行程超范围">
+	</F813>
+	<F814 AlarmName="814 M52工位3X2轴 模组通用异常">
+	</F814>
+	<F815 AlarmName="815 M52工位3X2轴 伺服驱动器异常">
+	</F815>
+	<F816 AlarmName="816 M52工位3X2轴 电池电量过低异常">
+	</F816>
+	<F817 AlarmName="817 M52工位3X2轴 轴异常">
+	</F817>
+	<F818 AlarmName="818 M52工位3X2轴 过软体负极限">
+	</F818>
+	<F819 AlarmName="819 M52工位3X2轴 过软体正极限">
+	</F819>
+
+	<F820 AlarmName="820 M53 Spare 原点复归失败">
+	</F820>
+	<F821 AlarmName="821 M53 Spare 过硬体负极限">
+	</F821>
+	<F822 AlarmName="822 M53 Spare 过硬体正极限">
+	</F822>
+	<F823 AlarmName="823 M53 Spare 周期行程超范围">
+	</F823>
+	<F824 AlarmName="824 M53 Spare 模组通用异常">
+	</F824>
+	<F825 AlarmName="825 M53 Spare 伺服驱动器异常">
+	</F825>
+	<F826 AlarmName="826 M53 Spare 电池电量过低异常">
+	</F826>
+	<F827 AlarmName="827 M53 Spare 轴异常">
+	</F827>
+	<F828 AlarmName="828 M53 Spare 过软体负极限">
+	</F828>
+	<F829 AlarmName="829 M53 Spare 过软体正极限">
+	</F829>
+
+	<F830 AlarmName="830 M54 Spare 原点复归失败">
+	</F830>
+	<F831 AlarmName="831 M54 Spare 过硬体负极限">
+	</F831>
+	<F832 AlarmName="832 M54 Spare 过硬体正极限">
+	</F832>
+	<F833 AlarmName="833 M54 Spare 周期行程超范围">
+	</F833>
+	<F834 AlarmName="834 M54 Spare 模组通用异常">
+	</F834>
+	<F835 AlarmName="835 M54 Spare 伺服驱动器异常">
+	</F835>
+	<F836 AlarmName="836 M54 Spare 电池电量过低异常">
+	</F836>
+	<F837 AlarmName="837 M54 Spare 轴异常">
+	</F837>
+	<F838 AlarmName="838 M54 Spare 过软体负极限">
+	</F838>
+	<F839 AlarmName="839 M54 Spare 过软体正极限">
+	</F839>
+
+	<F840 AlarmName="840 M55 Spare 原点复归失败">
+	</F840>
+	<F841 AlarmName="841 M55 Spare 过硬体负极限">
+	</F841>
+	<F842 AlarmName="842 M55 Spare 过硬体正极限">
+	</F842>
+	<F843 AlarmName="843 M55 Spare 周期行程超范围">
+	</F843>
+	<F844 AlarmName="844 M55 Spare 模组通用异常">
+	</F844>
+	<F845 AlarmName="845 M55 Spare 伺服驱动器异常">
+	</F845>
+	<F846 AlarmName="846 M55 Spare 电池电量过低异常">
+	</F846>
+	<F847 AlarmName="847 M55 Spare 轴异常">
+	</F847>
+	<F848 AlarmName="848 M55 Spare 过软体负极限">
+	</F848>
+	<F849 AlarmName="849 M55 Spare 过软体正极限">
+	</F849>
+
+	<F850 AlarmName="850 M56 Spare 原点复归失败">
+	</F850>
+	<F851 AlarmName="851 M56 Spare 过硬体负极限">
+	</F851>
+	<F852 AlarmName="852 M56 Spare 过硬体正极限">
+	</F852>
+	<F853 AlarmName="853 M56 Spare 周期行程超范围">
+	</F853>
+	<F854 AlarmName="854 M56 Spare 模组通用异常">
+	</F854>
+	<F855 AlarmName="855 M56 Spare 伺服驱动器异常">
+	</F855>
+	<F856 AlarmName="856 M56 Spare 电池电量过低异常">
+	</F856>
+	<F857 AlarmName="857 M56 Spare 轴异常">
+	</F857>
+	<F858 AlarmName="858 M56 Spare 过软体负极限">
+	</F858>
+	<F859 AlarmName="859 M56 Spare 过软体正极限">
+	</F859>
+
+	<F860 AlarmName="860 M57 Spare 原点复归失败">
+	</F860>
+	<F861 AlarmName="861 M57 Spare 过硬体负极限">
+	</F861>
+	<F862 AlarmName="862 M57 Spare 过硬体正极限">
+	</F862>
+	<F863 AlarmName="863 M57 Spare 周期行程超范围">
+	</F863>
+	<F864 AlarmName="864 M57 Spare 模组通用异常">
+	</F864>
+	<F865 AlarmName="865 M57 Spare 伺服驱动器异常">
+	</F865>
+	<F866 AlarmName="866 M57 Spare 电池电量过低异常">
+	</F866>
+	<F867 AlarmName="867 M57 Spare 轴异常">
+	</F867>
+	<F868 AlarmName="868 M57 Spare 过软体负极限">
+	</F868>
+	<F869 AlarmName="869 M57 Spare 过软体正极限">
+	</F869>
+
+	<F870 AlarmName="870 M58 Spare 原点复归失败">
+	</F870>
+	<F871 AlarmName="871 M58 Spare 过硬体负极限">
+	</F871>
+	<F872 AlarmName="872 M58 Spare 过硬体正极限">
+	</F872>
+	<F873 AlarmName="873 M58 Spare 周期行程超范围">
+	</F873>
+	<F874 AlarmName="874 M58 Spare 模组通用异常">
+	</F874>
+	<F875 AlarmName="875 M58 Spare 伺服驱动器异常">
+	</F875>
+	<F876 AlarmName="876 M58 Spare 电池电量过低异常">
+	</F876>
+	<F877 AlarmName="877 M58 Spare 轴异常">
+	</F877>
+	<F878 AlarmName="878 M58 Spare 过软体负极限">
+	</F878>
+	<F879 AlarmName="879 M58 Spare 过软体正极限">
+	</F879>
+
+	<F880 AlarmName="880 M59 Spare 原点复归失败">
+	</F880>
+	<F881 AlarmName="881 M59 Spare 过硬体负极限">
+	</F881>
+	<F882 AlarmName="882 M59 Spare 过硬体正极限">
+	</F882>
+	<F883 AlarmName="883 M59 Spare 周期行程超范围">
+	</F883>
+	<F884 AlarmName="884 M59 Spare 模组通用异常">
+	</F884>
+	<F885 AlarmName="885 M59 Spare 伺服驱动器异常">
+	</F885>
+	<F886 AlarmName="886 M59 Spare 电池电量过低异常">
+	</F886>
+	<F887 AlarmName="887 M59 Spare 轴异常">
+	</F887>
+	<F888 AlarmName="888 M59 Spare 过软体负极限">
+	</F888>
+	<F889 AlarmName="889 M59 Spare 过软体正极限">
+	</F889>
+
+	<F890 AlarmName="890 M60 Spare 原点复归失败">
+	</F890>
+	<F891 AlarmName="891 M60 Spare 过硬体负极限">
+	</F891>
+	<F892 AlarmName="892 M60 Spare 过硬体正极限">
+	</F892>
+	<F893 AlarmName="893 M60 Spare 周期行程超范围">
+	</F893>
+	<F894 AlarmName="894 M60 Spare 模组通用异常">
+	</F894>
+	<F895 AlarmName="895 M60 Spare 伺服驱动器异常">
+	</F895>
+	<F896 AlarmName="896 M60 Spare 电池电量过低异常">
+	</F896>
+	<F897 AlarmName="897 M60 Spare 轴异常">
+	</F897>
+	<F898 AlarmName="898 M60 Spare 过软体负极限">
+	</F898>
+	<F899 AlarmName="899 M60 Spare 过软体正极限">
+	</F899>
+
+
+	<F900 AlarmName="900 M61 Spare 原点复归失败">
+	</F900>
+	<F901 AlarmName="901 M61 Spare 过硬体负极限">
+	</F901>
+	<F902 AlarmName="902 M61 Spare 过硬体正极限">
+	</F902>
+	<F903 AlarmName="903 M61 Spare 周期行程超范围">
+	</F903>
+	<F904 AlarmName="904 M61 Spare 模组通用异常">
+	</F904>
+	<F905 AlarmName="905 M61 Spare 伺服驱动器异常">
+	</F905>
+	<F906 AlarmName="906 M61 Spare 电池电量过低异常">
+	</F906>
+	<F907 AlarmName="907 M61 Spare 轴异常">
+	</F907>
+	<F908 AlarmName="908 M61 Spare 过软体负极限">
+	</F908>
+	<F909 AlarmName="909 M61 Spare 过软体正极限">
+	</F909>
+
+	<F910 AlarmName="910 M62 Spare 原点复归失败">
+	</F910>
+	<F911 AlarmName="911 M62 Spare 过硬体负极限">
+	</F911>
+	<F912 AlarmName="912 M62 Spare 过硬体正极限">
+	</F912>
+	<F913 AlarmName="913 M62 Spare 周期行程超范围">
+	</F913>
+	<F914 AlarmName="914 M62 Spare 模组通用异常">
+	</F914>
+	<F915 AlarmName="915 M62 Spare 伺服驱动器异常">
+	</F915>
+	<F916 AlarmName="916 M62 Spare 电池电量过低异常">
+	</F916>
+	<F917 AlarmName="917 M62 Spare 轴异常">
+	</F917>
+	<F918 AlarmName="918 M62 Spare 过软体负极限">
+	</F918>
+	<F919 AlarmName="919 M62 Spare 过软体正极限">
+	</F919>
+
+	<F920 AlarmName="920 M63 Spare 原点复归失败">
+	</F920>
+	<F921 AlarmName="921 M63 Spare 过硬体负极限">
+	</F921>
+	<F922 AlarmName="922 M63 Spare 过硬体正极限">
+	</F922>
+	<F923 AlarmName="923 M63 Spare 周期行程超范围">
+	</F923>
+	<F924 AlarmName="924 M63 Spare 模组通用异常">
+	</F924>
+	<F925 AlarmName="925 M63 Spare 伺服驱动器异常">
+	</F925>
+	<F926 AlarmName="926 M63 Spare 电池电量过低异常">
+	</F926>
+	<F927 AlarmName="927 M63 Spare 轴异常">
+	</F927>
+	<F928 AlarmName="928 M63 Spare 过软体负极限">
+	</F928>
+	<F929 AlarmName="929 M63 Spare 过软体正极限">
+	</F929>
+
+	<F930 AlarmName="930 M64 Spare 原点复归失败">
+	</F930>
+	<F931 AlarmName="931 M64 Spare 过硬体负极限">
+	</F931>
+	<F932 AlarmName="932 M64 Spare 过硬体正极限">
+	</F932>
+	<F933 AlarmName="933 M64 Spare 周期行程超范围">
+	</F933>
+	<F934 AlarmName="934 M64 Spare 模组通用异常">
+	</F934>
+	<F935 AlarmName="935 M64 Spare 伺服驱动器异常">
+	</F935>
+	<F936 AlarmName="936 M64 Spare 电池电量过低异常">
+	</F936>
+	<F937 AlarmName="937 M64 Spare 轴异常">
+	</F937>
+	<F938 AlarmName="938 M64 Spare 过软体负极限">
+	</F938>
+	<F939 AlarmName="939 M64 Spare 过软体正极限">
+	</F939>
+
+	<F940 AlarmName="940 M65工位4θ1轴 原点复归失败">
+	</F940>
+	<F941 AlarmName="941 M65工位4θ1轴 过硬体负极限">
+	</F941>
+	<F942 AlarmName="942 M65工位4θ1轴 过硬体正极限">
+	</F942>
+	<F943 AlarmName="943 M65工位4θ1轴 周期行程超范围">
+	</F943>
+	<F944 AlarmName="944 M65工位4θ1轴 模组通用异常">
+	</F944>
+	<F945 AlarmName="945 M65工位4θ1轴 伺服驱动器异常">
+	</F945>
+	<F946 AlarmName="946 M65工位4θ1轴 电池电量过低异常">
+	</F946>
+	<F947 AlarmName="947 M65工位4θ1轴 轴异常">
+	</F947>
+	<F948 AlarmName="948 M65工位4θ1轴 过软体负极限">
+	</F948>
+	<F949 AlarmName="949 M65工位4θ1轴 过软体正极限">
+	</F949>
+
+	<F950 AlarmName="950 M66工位4θ2轴 原点复归失败">
+	</F950>
+	<F951 AlarmName="951 M66工位4θ2轴 过硬体负极限">
+	</F951>
+	<F952 AlarmName="952 M66工位4θ2轴 过硬体正极限">
+	</F952>
+	<F953 AlarmName="953 M66工位4θ2轴 周期行程超范围">
+	</F953>
+	<F954 AlarmName="954 M66工位4θ2轴 模组通用异常">
+	</F954>
+	<F955 AlarmName="955 M66工位4θ2轴 伺服驱动器异常">
+	</F955>
+	<F956 AlarmName="956 M66工位4θ2轴 电池电量过低异常">
+	</F956>
+	<F957 AlarmName="957 M66工位4θ2轴 轴异常">
+	</F957>
+	<F958 AlarmName="958 M66工位4θ2轴 过软体负极限">
+	</F958>
+	<F959 AlarmName="959 M66工位4θ2轴 过软体正极限">
+	</F959>
+
+	<F960 AlarmName="960 M67工位4X1轴 原点复归失败">
+	</F960>
+	<F961 AlarmName="961 M67工位4X1轴 过硬体负极限">
+	</F961>
+	<F962 AlarmName="962 M67工位4X1轴 过硬体正极限">
+	</F962>
+	<F963 AlarmName="963 M67工位4X1轴 周期行程超范围">
+	</F963>
+	<F964 AlarmName="964 M67工位4X1轴 模组通用异常">
+	</F964>
+	<F965 AlarmName="965 M67工位4X1轴 伺服驱动器异常">
+	</F965>
+	<F966 AlarmName="966 M67工位4X1轴 电池电量过低异常">
+	</F966>
+	<F967 AlarmName="967 M67工位4X1轴 X1轴(背轴异常">
+	</F967>
+	<F968 AlarmName="968 M67工位4X1轴 过软体负极限">
+	</F968>
+	<F969 AlarmName="969 M67工位4X1轴 过软体正极限">
+	</F969>
+
+	<F970 AlarmName="970 M68工位4X2轴 原点复归失败">
+	</F970>
+	<F971 AlarmName="971 M68工位4X2轴 过硬体负极限">
+	</F971>
+	<F972 AlarmName="972 M68工位4X2轴 过硬体正极限">
+	</F972>
+	<F973 AlarmName="973 M68工位4X2轴 周期行程超范围">
+	</F973>
+	<F974 AlarmName="974 M68工位4X2轴 模组通用异常">
+	</F974>
+	<F975 AlarmName="975 M68工位4X2轴 伺服驱动器异常">
+	</F975>
+	<F976 AlarmName="976 M68工位4X2轴 电池电量过低异常">
+	</F976>
+	<F977 AlarmName="977 M68工位4X2轴 轴异常">
+	</F977>
+	<F978 AlarmName="978 M68工位4X2轴 过软体负极限">
+	</F978>
+	<F979 AlarmName="979 M68工位4X2轴 过软体正极限">
+	</F979>
+
+	<F980 AlarmName="980 M69工位9θ1轴 原点复归失败">
+	</F980>
+	<F981 AlarmName="981 M69工位9θ1轴 过硬体负极限">
+	</F981>
+	<F982 AlarmName="982 M69工位9θ1轴 过硬体正极限">
+	</F982>
+	<F983 AlarmName="983 M69工位9θ1轴 周期行程超范围">
+	</F983>
+	<F984 AlarmName="984 M69工位9θ1轴 模组通用异常">
+	</F984>
+	<F985 AlarmName="985 M69工位9θ1轴 伺服驱动器异常">
+	</F985>
+	<F986 AlarmName="986 M69工位9θ1轴 电池电量过低异常">
+	</F986>
+	<F987 AlarmName="987 M69工位9θ1轴 轴异常">
+	</F987>
+	<F988 AlarmName="988 M69工位9θ1轴 过软体负极限">
+	</F988>
+	<F989 AlarmName="989 M69工位9θ1轴 过软体正极限">
+	</F989>
+
+	<F990 AlarmName="990 M70工位9θ2轴 原点复归失败">
+	</F990>
+	<F991 AlarmName="991 M70工位9θ2轴 过硬体负极限">
+	</F991>
+	<F992 AlarmName="992 M70工位9θ2轴 过硬体正极限">
+	</F992>
+	<F993 AlarmName="993 M70工位9θ2轴 周期行程超范围">
+	</F993>
+	<F994 AlarmName="994 M70工位9θ2轴 模组通用异常">
+	</F994>
+	<F995 AlarmName="995 M70工位9θ2轴 伺服驱动器异常">
+	</F995>
+	<F996 AlarmName="996 M70工位9θ2轴 电池电量过低异常">
+	</F996>
+	<F997 AlarmName="997 M70工位9θ2轴 轴异常">
+	</F997>
+	<F998 AlarmName="998 M70工位9θ2轴 过软体负极限">
+	</F998>
+	<F999 AlarmName="999 M70工位9θ2轴 过软体正极限">
+	</F999>
+
+	<F1000 AlarmName="1000 M71工位9X1轴 原点复归失败">
+	</F1000>
+	<F1001 AlarmName="1001 M71工位9X1轴 过硬体负极限">
+	</F1001>
+	<F1002 AlarmName="1002 M71工位9X1轴 过硬体正极限">
+	</F1002>
+	<F1003 AlarmName="1003 M71工位9X1轴 周期行程超范围">
+	</F1003>
+	<F1004 AlarmName="1004 M71工位9X1轴 模组通用异常">
+	</F1004>
+	<F1005 AlarmName="1005 M71工位9X1轴 伺服驱动器异常">
+	</F1005>
+	<F1006 AlarmName="1006 M71工位9X1轴 电池电量过低异常">
+	</F1006>
+	<F1007 AlarmName="1007 M71工位9X1轴 轴异常">
+	</F1007>
+	<F1008 AlarmName="1008 M71工位9X1轴 过软体负极限">
+	</F1008>
+	<F1009 AlarmName="1009 M71工位9X1轴 过软体正极限">
+	</F1009>
+
+	<F1010 AlarmName="1010 M72工位9X2轴 原点复归失败">
+	</F1010>
+	<F1011 AlarmName="1011 M72工位9X2轴  过硬体负极限">
+	</F1011>
+	<F1012 AlarmName="工位一PGS模式切换失败">
+	</F1012>
+	<F1013 AlarmName="1013 M72工位9X2轴 周期行程超范围">
+	</F1013>
+	<F1014 AlarmName="1014 M72工位9X2轴 模组通用异常">
+	</F1014>
+	<F1015 AlarmName="1015 M72工位9X2轴 伺服驱动器异常">
+	</F1015>
+	<F1016 AlarmName="1016 M72工位9X2轴 电池电量过低异常">
+	</F1016>
+	<F1017 AlarmName="1017 M72工位9X2轴 轴异常">
+	</F1017>
+	<F1018 AlarmName="1018 M72工位9X2轴 过软体负极限">
+	</F1018>
+	<F1019 AlarmName="1019 M72工位9X2轴 过软体正极限">
+	</F1019>
+
+	<F1020 AlarmName="1020 M73 Spare 原点复归失败">
+	</F1020>
+	<F1021 AlarmName="1021 M73 Spare 过硬体负极限">
+	</F1021>
+	<F1022 AlarmName="1022 M73 Spare 过硬体正极限">
+	</F1022>
+	<F1023 AlarmName="1023 M73 Spare 周期行程超范围">
+	</F1023>
+	<F1024 AlarmName="1024 M73 Spare 模组通用异常">
+	</F1024>
+	<F1025 AlarmName="1025 M73 Spare 伺服驱动器异常">
+	</F1025>
+	<F1026 AlarmName="1026 M73 Spare 电池电量过低异常">
+	</F1026>
+	<F1027 AlarmName="1027 M73 Spare 轴异常">
+	</F1027>
+	<F1028 AlarmName="1028 M73 Spare 过软体负极限">
+	</F1028>
+	<F1029 AlarmName="1029 M73 Spare 过软体正极限">
+	</F1029>
+
+	<F1030 AlarmName="1030 M74 Spare 原点复归失败">
+	</F1030>
+	<F1031 AlarmName="1031 M74 Spare 过硬体负极限">
+	</F1031>
+	<F1032 AlarmName="1032 M74 Spare 过硬体正极限">
+	</F1032>
+	<F1033 AlarmName="1033 M74 Spare 周期行程超范围">
+	</F1033>
+	<F1034 AlarmName="1034 M74 Spare 模组通用异常">
+	</F1034>
+	<F1035 AlarmName="1035 M74 Spare 伺服驱动器异常">
+	</F1035>
+	<F1036 AlarmName="1036 M74 Spare 电池电量过低异常">
+	</F1036>
+	<F1037 AlarmName="1037 M74 Spare 轴异常">
+	</F1037>
+	<F1038 AlarmName="1038 M74 Spare 过软体负极限">
+	</F1038>
+	<F1039 AlarmName="1039 M74 Spare 过软体正极限">
+	</F1039>
+
+	<F1040 AlarmName="1040 M75 Spare 原点复归失败">
+	</F1040>
+	<F1041 AlarmName="1041 M75 Spare 过硬体负极限">
+	</F1041>
+	<F1042 AlarmName=" 1042 M75 Spare 过硬体正极限">
+	</F1042>
+	<F1043 AlarmName="1043 M75 Spare 周期行程超范围">
+	</F1043>
+	<F1044 AlarmName="1044 M75 Spare 模组通用异常">
+	</F1044>
+	<F1045 AlarmName="1045 M75 Spare 伺服驱动器异常">
+	</F1045>
+	<F1046 AlarmName="1046 M75 Spare 电池电量过低异常">
+	</F1046>
+	<F1047 AlarmName="1047 M75 Spare 轴异常">
+	</F1047>
+	<F1048 AlarmName="1048 M75 Spare 过软体负极限">
+	</F1048>
+	<F1049 AlarmName="1049 M75 Spare 过软体正极限">
+	</F1049>
+
+	<F1050 AlarmName="1050 M76 Spare 原点复归失败">
+	</F1050>
+	<F1051 AlarmName="1051 M76 Spare 过硬体负极限">
+	</F1051>
+	<F1052 AlarmName="1052 M76 Spare 过硬体正极限">
+	</F1052>
+	<F1053 AlarmName="1053 M76 Spare 周期行程超范围">
+	</F1053>
+	<F1054 AlarmName="1054 M76 Spare 模组通用异常">
+	</F1054>
+	<F1055 AlarmName="1055 M76 Spare 伺服驱动器异常">
+	</F1055>
+	<F1056 AlarmName="1056 M76 Spare 电池电量过低异常">
+	</F1056>
+	<F1057 AlarmName="1057 M76 Spare 轴异常">
+	</F1057>
+	<F1058 AlarmName="1058 M76 Spare 过软体负极限">
+	</F1058>
+	<F1059 AlarmName="1059 M76 Spare 过软体正极限">
+	</F1059>
+
+	<F1060 AlarmName="1060 M77 Spare 原点复归失败">
+	</F1060>
+	<F1061 AlarmName="1061 M77 Spare 过硬体负极限">
+	</F1061>
+	<F1062 AlarmName="1062 M77 Spare 过硬体正极限">
+	</F1062>
+	<F1063 AlarmName="1063 M77 Spare 周期行程超范围">
+	</F1063>
+	<F1064 AlarmName="1064 M77 Spare 模组通用异常">
+	</F1064>
+	<F1065 AlarmName="1065 M77 Spare 伺服驱动器异常">
+	</F1065>
+	<F1066 AlarmName="1066 M77 Spare 电池电量过低异常">
+	</F1066>
+	<F1067 AlarmName="1067 M77 Spare 轴异常">
+	</F1067>
+	<F1068 AlarmName="1068 M77 Spare 过软体负极限">
+	</F1068>
+	<F1069 AlarmName="1069 M77 Spare 过软体正极限">
+	</F1069>
+
+	<F1070 AlarmName="1070 M78 Spare 原点复归失败">
+	</F1070>
+	<F1071 AlarmName="1071 M78 Spare 过硬体负极限">
+	</F1071>
+	<F1072 AlarmName="1072 M78 Spare 过硬体正极限">
+	</F1072>
+	<F1073 AlarmName="1073 M78 Spare 周期行程超范围">
+	</F1073>
+	<F1074 AlarmName="1074 M78 Spare 模组通用异常">
+	</F1074>
+	<F1075 AlarmName="1075 M78 Spare 伺服驱动器异常">
+	</F1075>
+	<F1076 AlarmName="1076 M78 Spare 电池电量过低异常">
+	</F1076>
+	<F1077 AlarmName="1077 M78 Spare 轴异常">
+	</F1077>
+	<F1078 AlarmName="1078 M78 Spare 过软体负极限">
+	</F1078>
+	<F1079 AlarmName="1079 M78 Spare 过软体正极限">
+	</F1079>
+
+	<F1080 AlarmName="1080 M79 Spare 原点复归失败">
+	</F1080>
+	<F1081 AlarmName="1081 M79 Spare 过硬体负极限">
+	</F1081>
+	<F1082 AlarmName="1082 M79 Spare 过硬体正极限">
+	</F1082>
+	<F1083 AlarmName="1083 M79 Spare 周期行程超范围">
+	</F1083>
+	<F1084 AlarmName="1084 M79 Spare 模组通用异常">
+	</F1084>
+	<F1085 AlarmName="1085 M79 Spare 伺服驱动器异常">
+	</F1085>
+	<F1086 AlarmName="1086 M79 Spare 电池电量过低异常">
+	</F1086>
+	<F1087 AlarmName="1087 M79 Spare 轴异常">
+	</F1087>
+	<F1088 AlarmName="1088 M79 Spare 过软体负极限">
+	</F1088>
+	<F1089 AlarmName="1089 M79 Spare 过软体正极限">
+	</F1089>
+
+	<F1090 AlarmName="1090 M80 Spare 原点复归失败">
+	</F1090>
+	<F1091 AlarmName="1091 M80 Spare 过硬体负极限">
+	</F1091>
+	<F1092 AlarmName="1092 M80 Spare 过硬体正极限">
+	</F1092>
+	<F1093 AlarmName="1093 M80 Spare 周期行程超范围">
+	</F1093>
+	<F1094 AlarmName="1094 M80 Spare 模组通用异常">
+	</F1094>
+	<F1095 AlarmName="1095 M80 Spare 伺服驱动器异常">
+	</F1095>
+	<F1096 AlarmName="1096 M80 Spare 电池电量过低异常">
+	</F1096>
+	<F1097 AlarmName="1097 M80 Spare 轴异常">
+	</F1097>
+	<F1098 AlarmName="1098 M80 Spare 过软体负极限">
+	</F1098>
+	<F1099 AlarmName="1099 M80 Spare 过软体正极限">
+	</F1099>
+
+	<F1100 AlarmName="1100 M81工位5Y1轴 原点复归失败">
+	</F1100>
+	<F1101 AlarmName="1101 M81工位5Y1轴 过硬体负极限">
+	</F1101>
+	<F1102 AlarmName="1102 M81工位5Y1轴 过硬体正极限">
+	</F1102>
+	<F1103 AlarmName="1103 M81工位5Y1轴 周期行程超范围">
+	</F1103>
+	<F1104 AlarmName="1104 M81工位5Y1轴 模组通用异常">
+	</F1104>
+	<F1105 AlarmName="1105 M81工位5Y1轴 伺服驱动器异常">
+	</F1105>
+	<F1106 AlarmName="1106 M81工位5Y1轴 电池电量过低异常">
+	</F1106>
+	<F1107 AlarmName="1107 M81工位5Y1轴 轴异常">
+	</F1107>
+	<F1108 AlarmName="1108 M81工位5Y1轴 过软体负极限">
+	</F1108>
+	<F1109 AlarmName="1109 M81工位5Y1轴 过软体正极限">
+	</F1109>
+
+	<F1110 AlarmName="1110 M82工位5Y2轴 原点复归失败">
+	</F1110>
+	<F1111 AlarmName="1111 M82工位5Y2轴 过硬体负极限">
+	</F1111>
+	<F1112 AlarmName="1112 M82工位5Y2轴 过硬体正极限">
+	</F1112>
+	<F1113 AlarmName="1113 M82工位5Y2轴 周期行程超范围">
+	</F1113>
+	<F1114 AlarmName="1114 M82工位5Y2轴 模组通用异常">
+	</F1114>
+	<F1115 AlarmName="1115 M82工位5Y2轴 伺服驱动器异常">
+	</F1115>
+	<F1116 AlarmName="1116 M82工位5Y2轴 电池电量过低异常">
+	</F1116>
+	<F1117 AlarmName="1117 M82工位5Y2轴 轴异常">
+	</F1117>
+	<F1118 AlarmName="1118 M82工位5Y2轴 过软体负极限">
+	</F1118>
+	<F1119 AlarmName="1119 M82工位5Y2轴 过软体正极限">
+	</F1119>
+
+	<F1120 AlarmName="1120 M83工位5Z1轴 原点复归失败">
+	</F1120>
+	<F1121 AlarmName="1121 M83工位5Z1轴 过硬体负极限">
+	</F1121>
+	<F1122 AlarmName="1122 M83工位5Z1轴 过硬体正极限">
+	</F1122>
+	<F1123 AlarmName="1123 M83工位5Z1轴 周期行程超范围">
+	</F1123>
+	<F1124 AlarmName="1124 M83工位5Z1轴 模组通用异常">
+	</F1124>
+	<F1125 AlarmName="1125 M83工位5Z1轴 伺服驱动器异常">
+	</F1125>
+	<F1126 AlarmName="1126 M83工位5Z1轴 电池电量过低异常">
+	</F1126>
+	<F1127 AlarmName="1127 M83工位5Z1轴 轴异常">
+	</F1127>
+	<F1128 AlarmName="1128 M83工位5Z1轴 过软体负极限">
+	</F1128>
+	<F1129 AlarmName="1129 M83工位5Z1轴 过软体正极限">
+	</F1129>
+
+	<F1130 AlarmName="1130 M84工位5Z2轴 原点复归失败">
+	</F1130>
+	<F1131 AlarmName="1131 M84工位5Z2轴 过硬体负极限">
+	</F1131>
+	<F1132 AlarmName="1132 M84工位5Z2轴 过硬体正极限">
+	</F1132>
+	<F1133 AlarmName="1133 M84工位5Z2轴 周期行程超范围">
+	</F1133>
+	<F1134 AlarmName="1134 M84工位5Z2轴 模组通用异常">
+	</F1134>
+	<F1135 AlarmName="1135 M84工位5Z2轴 伺服驱动器异常">
+	</F1135>
+	<F1136 AlarmName="1136 M84工位5Z2轴 电池电量过低异常">
+	</F1136>
+	<F1137 AlarmName="1137 M84工位5Z2轴 轴异常">
+	</F1137>
+	<F1138 AlarmName="1138 M84工位5Z2轴 过软体负极限">
+	</F1138>
+	<F1139 AlarmName="1139 M84工位5Z2轴 过软体正极限">
+	</F1139>
+
+	<F1140 AlarmName="1140 M85工位6Y1轴 原点复归失败">
+	</F1140>
+	<F1141 AlarmName="1141 M85工位6Y1轴 过硬体负极限">
+	</F1141>
+	<F1142 AlarmName="1142 M85工位6Y1轴 过硬体正极限">
+	</F1142>
+	<F1143 AlarmName="1143 M85工位6Y1轴 周期行程超范围">
+	</F1143>
+	<F1144 AlarmName="1144 M85工位6Y1轴 模组通用异常">
+	</F1144>
+	<F1145 AlarmName="1145 M85工位6Y1轴 伺服驱动器异常">
+	</F1145>
+	<F1146 AlarmName="1146 M85工位6Y1轴 电池电量过低异常">
+	</F1146>
+	<F1147 AlarmName="1147 M85工位6Y1轴 轴异常">
+	</F1147>
+	<F1148 AlarmName="1148 M85工位6Y1轴 过软体负极限">
+	</F1148>
+	<F1149 AlarmName="1149 M85工位6Y1轴 过软体正极限">
+	</F1149>
+
+	<F1150 AlarmName="1150 M86工位6Y2轴 原点复归失败">
+	</F1150>
+	<F1151 AlarmName="1151 M86工位6Y2轴 过硬体负极限">
+	</F1151>
+	<F1152 AlarmName="1152 M86工位6Y2轴 过硬体正极限">
+	</F1152>
+	<F1153 AlarmName="1153 M86工位6Y2轴 周期行程超范围">
+	</F1153>
+	<F1154 AlarmName="1154 M86工位6Y2轴 模组通用异常">
+	</F1154>
+	<F1155 AlarmName="1155 M86工位6Y2轴 伺服驱动器异常">
+	</F1155>
+	<F1156 AlarmName="1156 M86工位6Y2轴 电池电量过低异常">
+	</F1156>
+	<F1157 AlarmName="1157 M86工位6Y2轴 轴异常">
+	</F1157>
+	<F1158 AlarmName="1158 M86工位6Y2轴 软体负极限">
+	</F1158>
+	<F1159 AlarmName="1159 M86工位6Y2轴 过软体正极限">
+	</F1159>
+
+	<F1160 AlarmName="1160 M87工位6Z1轴 原点复归失败">
+	</F1160>
+	<F1161 AlarmName="1161 M87工位6Z1轴 过硬体负极限">
+	</F1161>
+	<F1162 AlarmName="1162 M87工位6Z1轴 过硬体正极限">
+	</F1162>
+	<F1163 AlarmName="1163 M87工位6Z1轴 周期行程超范围">
+	</F1163>
+	<F1164 AlarmName="1164 M87工位6Z1轴 模组通用异常">
+	</F1164>
+	<F1165 AlarmName="1165 M87工位6Z1轴 伺服驱动器异常">
+	</F1165>
+	<F1166 AlarmName="1166 M87工位6Z1轴 电池电量过低异常">
+	</F1166>
+	<F1167 AlarmName="1167 M87工位6Z1轴 轴异常">
+	</F1167>
+	<F1168 AlarmName="1168 M87工位6Z1轴 过软体负极限">
+	</F1168>
+	<F1169 AlarmName="1169 M87工位6Z1轴 过软体正极限">
+	</F1169>
+
+	<F1170 AlarmName="1170 M88工位6Z2轴 原点复归失败">
+	</F1170>
+	<F1171 AlarmName="1171 M88工位6Z2轴 过硬体负极限">
+	</F1171>
+	<F1172 AlarmName="1172 M88工位6Z2轴 过硬体正极限">
+	</F1172>
+	<F1173 AlarmName="1173 M88工位6Z2轴 周期行程超范围">
+	</F1173>
+	<F1174 AlarmName="1174 M88工位6Z2轴 模组通用异常">
+	</F1174>
+	<F1175 AlarmName="1175 M88工位6Z2轴 伺服驱动器异常">
+	</F1175>
+	<F1176 AlarmName="1176 M88工位6Z2轴 电池电量过低异常">
+	</F1176>
+	<F1177 AlarmName="1177 M88工位6Z2轴 轴异常">
+	</F1177>
+	<F1178 AlarmName="1178 M88工位6Z2轴 过软体负极限">
+	</F1178>
+	<F1179 AlarmName="1179 M88工位6Z2轴 过软体正极限">
+	</F1179>
+
+	<F1180 AlarmName="1180 M89工位7Y1轴 原点复归失败">
+	</F1180>
+	<F1181 AlarmName="1181 M89工位7Y1轴 过硬体负极限">
+	</F1181>
+	<F1182 AlarmName="1182 M89工位7Y1轴 过硬体正极限">
+	</F1182>
+	<F1183 AlarmName="1183 M89工位7Y1轴 周期行程超范围">
+	</F1183>
+	<F1184 AlarmName="1184 M89工位7Y1轴 模组通用异常">
+	</F1184>
+	<F1185 AlarmName="1185 M89工位7Y1轴 伺服驱动器异常">
+	</F1185>
+	<F1186 AlarmName="1186 M89工位7Y1轴 电池电量过低异常">
+	</F1186>
+	<F1187 AlarmName="1187 M89工位7Y1轴 轴异常">
+	</F1187>
+	<F1188 AlarmName="1188 M89工位7Y1轴 过软体负极限">
+	</F1188>
+	<F1189 AlarmName="1189 M89工位7Y1轴 过软体正极限">
+	</F1189>
+
+	<F1190 AlarmName="1190 M90工位7Y2轴 原点复归失败">
+	</F1190>
+	<F1191 AlarmName="1191 M90工位7Y2轴 过硬体负极限">
+	</F1191>
+	<F1192 AlarmName="1192 M90工位7Y2轴 过硬体正极限">
+	</F1192>
+	<F1193 AlarmName="1193 M90工位7Y2轴 周期行程超范围">
+	</F1193>
+	<F1194 AlarmName="1194 M90工位7Y2轴 模组通用异常">
+	</F1194>
+	<F1195 AlarmName="1195 M90工位7Y2轴 伺服驱动器异常">
+	</F1195>
+	<F1196 AlarmName="1196 M90工位7Y2轴 电池电量过低异常">
+	</F1196>
+	<F1197 AlarmName="1197 M90工位7Y2轴 轴异常">
+	</F1197>
+	<F1198 AlarmName="1198 M90工位7Y2轴 过软体负极限">
+	</F1198>
+	<F1199 AlarmName="1199 M90工位7Y2轴 过软体正极限">
+	</F1199>
+
+	<F1200 AlarmName="1200 M91工位7Z1轴 原点复归失败">
+	</F1200>
+	<F1201 AlarmName="1201 M91工位7Z1轴 过硬体负极限">
+	</F1201>
+	<F1202 AlarmName="1202 M91工位7Z1轴 过硬体正极限">
+	</F1202>
+	<F1203 AlarmName="1203 M91工位7Z1轴 周期行程超范围">
+	</F1203>
+	<F1204 AlarmName="1204 M91工位7Z1轴 模组通用异常">
+	</F1204>
+	<F1205 AlarmName="1205 M91工位7Z1轴 伺服驱动器异常">
+	</F1205>
+	<F1206 AlarmName="1206 M91工位7Z1轴 电池电量过低异常">
+	</F1206>
+	<F1207 AlarmName="1207 M91工位7Z1轴 轴异常">
+	</F1207>
+	<F1208 AlarmName="1208 M91工位7Z1轴 过软体负极限">
+	</F1208>
+	<F1209 AlarmName="1209 M91工位7Z1轴 过软体正极限">
+	</F1209>
+
+	<F1210 AlarmName="1210 M92工位7Z2轴 原点复归失败">
+	</F1210>
+	<F1211 AlarmName="1211 M92工位7Z2轴 过硬体负极限">
+	</F1211>
+	<F1212 AlarmName="1212 M92工位7Z2轴 过硬体正极限">
+	</F1212>
+	<F1213 AlarmName="1213 M92工位7Z2轴 周期行程超范围">
+	</F1213>
+	<F1214 AlarmName="1214 M92工位7Z2轴 模组通用异常">
+	</F1214>
+	<F1215 AlarmName="1215 M92工位7Z2轴 伺服驱动器异常">
+	</F1215>
+	<F1216 AlarmName="1216 M92工位7Z2轴 电池电量过低异常">
+	</F1216>
+	<F1217 AlarmName="1217 M92工位7Z2轴 轴异常">
+	</F1217>
+	<F1218 AlarmName="1218 M92工位7Z2轴 过软体负极限">
+	</F1218>
+	<F1219 AlarmName="1219 M92工位7Z2轴 过软体正极限">
+	</F1219>
+
+	<F1220 AlarmName="1220 M93工位8Y1轴 原点复归失败">
+	</F1220>
+	<F1221 AlarmName="1221 M93工位8Y1轴 过硬体负极限">
+	</F1221>
+	<F1222 AlarmName="1222 M93工位8Y1轴 过硬体正极限">
+	</F1222>
+	<F1223 AlarmName="1223 M93工位8Y1轴 周期行程超范围">
+	</F1223>
+	<F1224 AlarmName="1224 M93工位8Y1轴 模组通用异常">
+	</F1224>
+	<F1225 AlarmName="1225 M93工位8Y1轴 伺服驱动器异常">
+	</F1225>
+	<F1226 AlarmName="1226 M93工位8Y1轴 电池电量过低异常">
+	</F1226>
+	<F1227 AlarmName="1227 M93工位8Y1轴 轴异常">
+	</F1227>
+	<F1228 AlarmName="1228 M93工位8Y1轴 过软体负极限">
+	</F1228>
+	<F1229 AlarmName="1229 M93工位8Y1轴 过软体正极限">
+	</F1229>
+
+	<F1230 AlarmName="1230 M94工位8Y2轴 原点复归失败">
+	</F1230>
+	<F1231 AlarmName="1231 M94工位8Y2轴 过硬体负极限">
+	</F1231>
+	<F1232 AlarmName="1232 M94工位8Y2轴 过硬体正极限">
+	</F1232>
+	<F1233 AlarmName="1233 M94工位8Y2轴 周期行程超范围">
+	</F1233>
+	<F1234 AlarmName="1234 M94工位8Y2轴 模组通用异常">
+	</F1234>
+	<F1235 AlarmName="1235 M94工位8Y2轴 伺服驱动器异常">
+	</F1235>
+	<F1236 AlarmName="1236 M94工位8Y2轴 电池电量过低异常">
+	</F1236>
+	<F1237 AlarmName="1237 M94工位8Y2轴 轴异常">
+	</F1237>
+	<F1238 AlarmName="1238 M94工位8Y2轴 过软体负极限">
+	</F1238>
+	<F1239 AlarmName="1239 M94工位8Y2轴 过软体正极限">
+	</F1239>
+
+	<F1240 AlarmName="1240 M95工位8Z1轴 原点复归失败">
+	</F1240>
+	<F1241 AlarmName="1241 M95工位8Z1轴 过硬体负极限">
+	</F1241>
+	<F1242 AlarmName="1242 M95工位8Z1轴 过硬体正极限">
+	</F1242>
+	<F1243 AlarmName="1243 M95工位8Z1轴 周期行程超范围">
+	</F1243>
+	<F1244 AlarmName="1244 M95工位8Z1轴 模组通用异常">
+	</F1244>
+	<F1245 AlarmName="1245 M95工位8Z1轴 伺服驱动器异常">
+	</F1245>
+	<F1246 AlarmName="1246 M95工位8Z1轴 电池电量过低异常">
+	</F1246>
+	<F1247 AlarmName="1247 M95工位8Z1轴 轴异常">
+	</F1247>
+	<F1248 AlarmName="1248 M95工位8Z1轴 过软体负极限">
+	</F1248>
+	<F1249 AlarmName="1249 M95工位8Z1轴 过软体正极限">
+	</F1249>
+
+	<F1250 AlarmName="1250 M96工位8Z2轴 原点复归失败">
+	</F1250>
+	<F1251 AlarmName="1251 M96工位8Z2轴 过硬体负极限">
+	</F1251>
+	<F1252 AlarmName="1252 M96工位8Z2轴 过硬体正极限">
+	</F1252>
+	<F1253 AlarmName="1253 M96工位8Z2轴 周期行程超范围">
+	</F1253>
+	<F1254 AlarmName="1254 M96工位8Z2轴 模组通用异常">
+	</F1254>
+	<F1255 AlarmName="1255 M96工位8Z2轴 伺服驱动器异常">
+	</F1255>
+	<F1256 AlarmName="1256 M96工位8Z2轴 电池电量过低异常">
+	</F1256>
+	<F1257 AlarmName="1257 M96工位8Z2轴 轴异常">
+	</F1257>
+	<F1258 AlarmName="1258 M96工位8Z2轴 过软体负极限">
+	</F1258>
+	<F1259 AlarmName="1259 M96工位8Z2轴 过软体正极限">
+	</F1259>
+
+	<F1260 AlarmName="1260 M97工位5θ1轴 原点复归失败">
+	</F1260>
+	<F1261 AlarmName="1261 M97工位5θ1轴 过硬体负极限">
+	</F1261>
+	<F1262 AlarmName="1262 M97工位5θ1轴 过硬体正极限">
+	</F1262>
+	<F1263 AlarmName="1263 M97工位5θ1轴 周期行程超范围">
+	</F1263>
+	<F1264 AlarmName="1264 M97工位5θ1轴 模组通用异常">
+	</F1264>
+	<F1265 AlarmName="1265 M97工位5θ1轴 伺服驱动器异常">
+	</F1265>
+	<F1266 AlarmName="1266 M97工位5θ1轴 电池电量过低异常">
+	</F1266>
+	<F1267 AlarmName="1267 M97工位5θ1轴 轴异常">
+	</F1267>
+	<F1268 AlarmName="1268 M97工位5θ1轴 过软体负极限">
+	</F1268>
+	<F1269 AlarmName="1269 M97工位5θ1轴 过软体正极限">
+	</F1269>
+
+	<F1270 AlarmName="1270 M98工位5θ2轴 原点复归失败">
+	</F1270>
+	<F1271 AlarmName="1271 M98工位5θ2轴 过硬体负极限">
+	</F1271>
+	<F1272 AlarmName="1272 M98工位5θ2轴 过硬体正极限">
+	</F1272>
+	<F1273 AlarmName="1273 M98工位5θ2轴 周期行程超范围">
+	</F1273>
+	<F1274 AlarmName="1274 M98工位5θ2轴 模组通用异常">
+	</F1274>
+	<F1275 AlarmName="1275 M98工位5θ2轴 伺服驱动器异常">
+	</F1275>
+	<F1276 AlarmName="1276 M98工位5θ2轴 电池电量过低异常">
+	</F1276>
+	<F1277 AlarmName="1277 M98工位5θ2轴 轴异常">
+	</F1277>
+	<F1278 AlarmName="1278 M98工位5θ2轴 过软体负极限">
+	</F1278>
+	<F1279 AlarmName="1279 M98工位5θ2轴 过软体正极限">
+	</F1279>
+
+	<F1280 AlarmName="1280 M99工位5X1轴 原点复归失败">
+	</F1280>
+	<F1281 AlarmName="1281 M99工位5X1轴 过硬体负极限">
+	</F1281>
+	<F1282 AlarmName="1282 M99工位5X1轴 过硬体正极限">
+	</F1282>
+	<F1283 AlarmName="1283 M99工位5X1轴 周期行程超范围">
+	</F1283>
+	<F1284 AlarmName="1284 M99工位5X1轴 模组通用异常">
+	</F1284>
+	<F1285 AlarmName="1285 M99工位5X1轴 伺服驱动器异常">
+	</F1285>
+	<F1286 AlarmName="1286 M99工位5X1轴 电池电量过低异常">
+	</F1286>
+	<F1287 AlarmName="1287 M99工位5X1轴 轴异常">
+	</F1287>
+	<F1288 AlarmName="1288 M99工位5X1轴 过软体负极限">
+	</F1288>
+	<F1289 AlarmName="1289 M99工位5X1轴 过软体正极限">
+	</F1289>
+
+	<F1290 AlarmName="1290 M100工位5X2轴 原点复归失败">
+	</F1290>
+	<F1291 AlarmName="1291 M100工位5X2轴 过硬体负极限">
+	</F1291>
+	<F1292 AlarmName="1292 M100工位5X2轴 过硬体正极限">
+	</F1292>
+	<F1293 AlarmName="1293 M100工位5X2轴 周期行程超范围">
+	</F1293>
+	<F1294 AlarmName="1294 M100工位5X2轴 模组通用异常">
+	</F1294>
+	<F1295 AlarmName="1295 M100工位5X2轴 伺服驱动器异常">
+	</F1295>
+	<F1296 AlarmName="1296 M100工位5X2轴 电池电量过低异">
+	</F1296>
+	<F1297 AlarmName="1297 M100工位5X2轴 轴异常">
+	</F1297>
+	<F1298 AlarmName="1298 M100工位5X2轴 过软体负极限">
+	</F1298>
+	<F1299 AlarmName="1299 M100工位5X2轴 过软体正极限">
+	</F1299>
+
+	<F1300 AlarmName="1300 M101工位3θ1轴 原点复归失败">
+	</F1300>
+	<F1301 AlarmName="1301 M101工位3θ1轴 过硬体负极限">
+	</F1301>
+	<F1302 AlarmName="1302 M101工位3θ1轴 过硬体正极限">
+	</F1302>
+	<F1303 AlarmName="1303 M101工位3θ1轴 周期行程超范围">
+	</F1303>
+	<F1304 AlarmName="1304 M101工位3θ1轴 模组通用异常">
+	</F1304>
+	<F1305 AlarmName="1305 M101工位3θ1轴 伺服驱动器异常">
+	</F1305>
+	<F1306 AlarmName="1306 M101工位3θ1轴 电池电量过低异">
+	</F1306>
+	<F1307 AlarmName="1307 M101工位3θ1轴 轴异常">
+	</F1307>
+	<F1308 AlarmName="1308 M101工位3θ1轴 过软体负极限">
+	</F1308>
+	<F1309 AlarmName="1309 M101工位3θ1轴 过软体正极限">
+	</F1309>
+
+	<F1310 AlarmName="1310 M102工位3θ2轴 原点复归失败">
+	</F1310>
+	<F1311 AlarmName="1311 M102工位3θ2轴 过硬体负极限">
+	</F1311>
+	<F1312 AlarmName="1312 M102工位3θ2轴 过硬体正极限">
+	</F1312>
+	<F1313 AlarmName="1313 M102工位3θ2轴 周期行程超范围">
+	</F1313>
+	<F1314 AlarmName="1314 M102工位3θ2轴 模组通用异常">
+	</F1314>
+	<F1315 AlarmName="1315 M102工位3θ2轴 伺服驱动器异常">
+	</F1315>
+	<F1316 AlarmName="1316 M102工位3θ2轴 电池电量过低异">
+	</F1316>
+	<F1317 AlarmName="1317 M102工位3θ2轴 轴异常">
+	</F1317>
+	<F1318 AlarmName="1318 M102工位3θ2轴 过软体负极限">
+	</F1318>
+	<F1319 AlarmName="1319 M102工位3θ2轴 过软体正极限">
+	</F1319>
+
+	<F1320 AlarmName="1320 M103工位3X1轴 原点复归失败">
+	</F1320>
+	<F1321 AlarmName="1321 M103工位3X1轴 过硬体负极限">
+	</F1321>
+	<F1322 AlarmName="1322 M103工位3X1轴 过硬体正极限">
+	</F1322>
+	<F1323 AlarmName="1323 M103工位3X1轴 周期行程超范围">
+	</F1323>
+	<F1324 AlarmName="1324 M103工位3X1轴 模组通用异常">
+	</F1324>
+	<F1325 AlarmName="1325 M103工位3X1轴 伺服驱动器异常">
+	</F1325>
+	<F1326 AlarmName="1326 M103工位3X1轴 电池电量过低异">
+	</F1326>
+	<F1327 AlarmName="1327 M103工位3X1轴 轴异常">
+	</F1327>
+	<F1328 AlarmName="1328 M103工位3X1轴 过软体负极限">
+	</F1328>
+	<F1329 AlarmName="1329 M103工位3X1轴 过软体正极限">
+	</F1329>
+
+	<F1330 AlarmName="1330 M104工位3X2轴 原点复归失败">
+	</F1330>
+	<F1331 AlarmName="1331 M104工位3X2轴 过硬体负极限">
+	</F1331>
+	<F1332 AlarmName="1332 M104工位3X2轴 过硬体正极限">
+	</F1332>
+	<F1333 AlarmName="1333 M104工位3X2轴 周期行程超范围">
+	</F1333>
+	<F1334 AlarmName="1334 M104工位3X2轴 模组通用异常">
+	</F1334>
+	<F1335 AlarmName="1335 M104工位3X2轴 伺服驱动器异常">
+	</F1335>
+	<F1336 AlarmName="1336 M104工位3X2轴 电池电量过低异">
+	</F1336>
+	<F1337 AlarmName="1337 M104工位3X2轴 轴异常">
+	</F1337>
+	<F1338 AlarmName="1338 M104工位3X2轴 过软体负极限">
+	</F1338>
+	<F1339 AlarmName="1339 M104工位3X2轴 过软体正极限">
+	</F1339>
+
+	<F1340 AlarmName="1340 M105工位5θ1轴 原点复归失败">
+	</F1340>
+	<F1341 AlarmName="1341 M105工位5θ1轴 过硬体负极限">
+	</F1341>
+	<F1342 AlarmName="1342 M105工位5θ1轴 过硬体正极限">
+	</F1342>
+	<F1343 AlarmName="1343 M105工位5θ1轴 周期行程超范围">
+	</F1343>
+	<F1344 AlarmName="1344 M105工位5θ1轴 模组通用异常">
+	</F1344>
+	<F1345 AlarmName="1345 M105工位5θ1轴 伺服驱动器异常">
+	</F1345>
+	<F1346 AlarmName="1346 M105工位5θ1轴 电池电量过低异">
+	</F1346>
+	<F1347 AlarmName="1347 M105工位5θ1轴 轴异常">
+	</F1347>
+	<F1348 AlarmName="1348 M105工位5θ1轴 过软体负极限">
+	</F1348>
+	<F1349 AlarmName="1349 M105工位5θ1轴 过软体正极限">
+	</F1349>
+
+	<F1350 AlarmName="1350 M106工位5θ2轴 原点复归失败">
+	</F1350>
+	<F1351 AlarmName="1351 M106工位5θ2轴 过硬体负极限">
+	</F1351>
+	<F1352 AlarmName="1352 M106工位5θ2轴 过硬体正极限">
+	</F1352>
+	<F1353 AlarmName="1353 M106工位5θ2轴 周期行程超范围">
+	</F1353>
+	<F1354 AlarmName="1354 M106工位5θ2轴 模组通用异常">
+	</F1354>
+	<F1355 AlarmName="1355 M106工位5θ2轴 伺服驱动器异常">
+	</F1355>
+	<F1356 AlarmName="1356 M106工位5θ2轴 电池电量过低异">
+	</F1356>
+	<F1357 AlarmName="1357 M106工位5θ2轴 轴异常">
+	</F1357>
+	<F1358 AlarmName="1358 M106工位5θ2轴 过软体负极限">
+	</F1358>
+	<F1359 AlarmName="1359 M106工位5θ2轴 过软体正极限">
+	</F1359>
+
+	<F1360 AlarmName="1360 M107工位5X1轴 原点复归失败">
+	</F1360>
+	<F1361 AlarmName="1361 M107工位5X1轴 过硬体负极限">
+	</F1361>
+	<F1362 AlarmName="1362 M107工位5X1轴 过硬体正极限">
+	</F1362>
+	<F1363 AlarmName="1363 M107工位5X1轴 周期行程超范围">
+	</F1363>
+	<F1364 AlarmName="1364 M107工位5X1轴 模组通用异常">
+	</F1364>
+	<F1365 AlarmName="1365 M107工位5X1轴 伺服驱动器异常">
+	</F1365>
+	<F1366 AlarmName="1366 M107工位5X1轴 电池电量过低异">
+	</F1366>
+	<F1367 AlarmName="1367 M107工位5X1轴 轴异常">
+	</F1367>
+	<F1368 AlarmName="1368 M107工位5X1轴 过软体负极限">
+	</F1368>
+	<F1369 AlarmName="1369 M107工位5X1轴 过软体正极限">
+	</F1369>
+
+	<F1370 AlarmName="1370 M108工位5X2轴 原点复归失败">
+	</F1370>
+	<F1371 AlarmName="1371 M108工位5X2轴 过硬体负极限">
+	</F1371>
+	<F1372 AlarmName="1372 M108工位5X2轴 过硬体正极限">
+	</F1372>
+	<F1373 AlarmName="1373 M108工位5X2轴 周期行程超范围">
+	</F1373>
+	<F1374 AlarmName="1374 M108工位5X2轴 模组通用异常">
+	</F1374>
+	<F1375 AlarmName="1375 M108工位5X2轴 伺服驱动器异常">
+	</F1375>
+	<F1376 AlarmName="1376 M108工位5X2轴 电池电量过低异">
+	</F1376>
+	<F1377 AlarmName="1377 M108工位5X2轴 轴异常">
+	</F1377>
+	<F1378 AlarmName="1378 M108工位5X2轴 过软体负极限">
+	</F1378>
+	<F1379 AlarmName="1379 M108工位5X2轴 过软体正极限">
+	</F1379>
+
+	<F1380 AlarmName="1380 M109工位7θ1轴 原点复归失败">
+	</F1380>
+	<F1381 AlarmName="1381 M109工位7θ1轴 过硬体负极限">
+	</F1381>
+	<F1382 AlarmName="1382 M109工位7θ1轴 过硬体正极限">
+	</F1382>
+	<F1383 AlarmName="1383 M109工位7θ1轴 周期行程超范围">
+	</F1383>
+	<F1384 AlarmName="1384 M109工位7θ1轴 模组通用异常">
+	</F1384>
+	<F1385 AlarmName="1385 M109工位7θ1轴 伺服驱动器异常">
+	</F1385>
+	<F1386 AlarmName="1386 M109工位7θ1轴 电池电量过低异">
+	</F1386>
+	<F1387 AlarmName="1387 M109工位7θ1轴 轴异常">
+	</F1387>
+	<F1388 AlarmName="1388 M109工位7θ1轴 过软体负极限">
+	</F1388>
+	<F1389 AlarmName="1389 M109工位7θ1轴 过软体正极限">
+	</F1389>
+
+	<F1390 AlarmName="1390 M110工位7θ2轴 原点复归失败">
+	</F1390>
+	<F1391 AlarmName="1391 M110工位7θ2轴 过硬体负极限">
+	</F1391>
+	<F1392 AlarmName="1392 M110工位7θ2轴 过硬体正极限">
+	</F1392>
+	<F1393 AlarmName="1393 M110工位7θ2轴 周期行程超范围">
+	</F1393>
+	<F1394 AlarmName="1394 M110工位7θ2轴 模组通用异常">
+	</F1394>
+	<F1395 AlarmName="1395 M110工位7θ2轴 伺服驱动器异常">
+	</F1395>
+	<F1396 AlarmName="1396 M110工位7θ2轴 电池电量过低异">
+	</F1396>
+	<F1397 AlarmName="1397 M110工位7θ2轴 轴异常">
+	</F1397>
+	<F1398 AlarmName="1398 M110工位7θ2轴 过软体负极限">
+	</F1398>
+	<F1399 AlarmName="1399 M110工位7θ2轴 过软体正极限">
+	</F1399>
+
+	<F1400 AlarmName="1400 M111工位7X1轴 原点复归失败">
+	</F1400>
+	<F1401 AlarmName="1401 M111工位7X1轴 过硬体负极限">
+	</F1401>
+	<F1402 AlarmName="1402 M111工位7X1轴 过硬体正极限">
+	</F1402>
+	<F1403 AlarmName="1403 M111工位7X1轴 周期行程超范围">
+	</F1403>
+	<F1404 AlarmName="1404 M111工位7X1轴 模组通用异常">
+	</F1404>
+	<F1405 AlarmName="1405 M111工位7X1轴 伺服驱动器异常">
+	</F1405>
+	<F1406 AlarmName="1406 M111工位7X1轴 电池电量过低异">
+	</F1406>
+	<F1407 AlarmName="1407 M111工位7X1轴 轴异常">
+	</F1407>
+	<F1408 AlarmName="1408 M111工位7X1轴 过软体负极限">
+	</F1408>
+	<F1409 AlarmName="1409 M111工位7X1轴 过软体正极限">
+	</F1409>
+
+	<F1410 AlarmName="1410 M112工位7X2轴 原点复归失败">
+	</F1410>
+	<F1411 AlarmName="1411 M112工位7X2轴 过硬体负极限">
+	</F1411>
+	<F1412 AlarmName="1412 M112工位7X2轴 过硬体正极限">
+	</F1412>
+	<F1413 AlarmName="1413 M112工位7X2轴 周期行程超范围">
+	</F1413>
+	<F1414 AlarmName="1414 M112工位7X2轴 模组通用异常">
+	</F1414>
+	<F1415 AlarmName="1415 M112工位7X2轴 伺服驱动器异常">
+	</F1415>
+	<F1416 AlarmName="1416 M112工位7X2轴 电池电量过低异">
+	</F1416>
+	<F1417 AlarmName="1417 M112工位7X2轴 轴异常">
+	</F1417>
+	<F1418 AlarmName="1418 M112工位7X2轴 过软体负极限">
+	</F1418>
+	<F1419 AlarmName="1419 M112工位7X2轴 过软体正极限">
+	</F1419>
+
+	<F1420 AlarmName="1420 M113工位6θ1 原点复归失败">
+	</F1420>
+	<F1421 AlarmName="1421 M113工位6θ1 过硬体负极限">
+	</F1421>
+	<F1422 AlarmName="1422 M113工位6θ1轴过硬体正极限">
+	</F1422>
+	<F1423 AlarmName="1423 M113工位6θ1周期行程超范围">
+	</F1423>
+	<F1424 AlarmName="1424 M113工位6θ1 模组通用异常">
+	</F1424>
+	<F1425 AlarmName="1425 M113工位6θ1伺服驱动器异常">
+	</F1425>
+	<F1426 AlarmName="1426 M113工位6θ 电池电量过低异">
+	</F1426>
+	<F1427 AlarmName="1427 M113工位6θ1轴(右)轴异常">
+	</F1427>
+	<F1428 AlarmName="1428 M113工位6θ1轴过软体负极限">
+	</F1428>
+	<F1429 AlarmName="1429 M113工位6θ1轴过软体正极限">
+	</F1429>
+
+	<F1430 AlarmName="1430 M114工位6θ2 原点复归失败">
+	</F1430>
+	<F1431 AlarmName="1431 M114工位6θ2轴过硬体负极限">
+	</F1431>
+	<F1432 AlarmName="1432 M114工位6θ2轴过硬体正极限">
+	</F1432>
+	<F1433 AlarmName="1433 M114工位6θ 周期行程超范围">
+	</F1433>
+	<F1434 AlarmName="1434 M114工位6θ2 模组通用异常">
+	</F1434>
+	<F1435 AlarmName="1435 M114工位6θ2伺服驱动器异常">
+	</F1435>
+	<F1436 AlarmName="1436 M114工位6θ2电池电量过低异">
+	</F1436>
+	<F1437 AlarmName="1437 M114工位6θ2轴(左)轴异常">
+	</F1437>
+	<F1438 AlarmName="1438 M114工位6θ2轴过软体负极限">
+	</F1438>
+	<F1439 AlarmName="1439 M114工位6θ2轴过软体正极限">
+	</F1439>
+
+	<F1440 AlarmName="1440 M115工位6X1轴 原点复归失败">
+	</F1440>
+	<F1441 AlarmName="1441 M115工位6X1轴 过硬体负极限">
+	</F1441>
+	<F1442 AlarmName="1442 M115工位6X1轴 过硬体正极限">
+	</F1442>
+	<F1443 AlarmName="1443 M115工位6X1轴 周期行程超范围">
+	</F1443>
+	<F1444 AlarmName="1444 M115工位6X1轴 模组通用异常">
+	</F1444>
+	<F1445 AlarmName="1445 M115工位6X1轴 伺服驱动器异常">
+	</F1445>
+	<F1446 AlarmName="1446 M115工位6X1轴 电池电量过低异">
+	</F1446>
+	<F1447 AlarmName="1447 M115工位6X1轴 轴异常">
+	</F1447>
+	<F1448 AlarmName="1448 M115工位6X1轴 过软体负极限">
+	</F1448>
+	<F1449 AlarmName="1449 M115工位6X1轴 过软体正极限">
+	</F1449>
+
+	<F1450 AlarmName="1450 M116工位6X2轴 原点复归失败">
+	</F1450>
+	<F1451 AlarmName="1451 M116工位6X2轴 过硬体负极限">
+	</F1451>
+	<F1452 AlarmName="1452 M116工位6X2轴 过硬体正极限">
+	</F1452>
+	<F1453 AlarmName="1453 M116工位6X2轴 周期行程超范围">
+	</F1453>
+	<F1454 AlarmName="1454 M116工位6X2轴 模组通用异常">
+	</F1454>
+	<F1455 AlarmName="1455 M116工位6X2轴 伺服驱动器异常">
+	</F1455>
+	<F1456 AlarmName="1456 M116工位6X2轴 电池电量过低异">
+	</F1456>
+	<F1457 AlarmName="1457 M116工位6X2轴 轴异常">
+	</F1457>
+	<F1458 AlarmName="1458 M116工位6X2轴 过软体负极限">
+	</F1458>
+	<F1459 AlarmName="1459 M116工位6X2轴 过软体正极限">
+	</F1459>
+
+	<F1460 AlarmName="1460 M117 Spare 原点复归失败">
+	</F1460>
+	<F1461 AlarmName="1461 M117 Spare 过硬体负极限">
+	</F1461>
+	<F1462 AlarmName="1462 M117 Spare 过硬体正极限">
+	</F1462>
+	<F1463 AlarmName="1463 M117 Spare 周期行程超范围">
+	</F1463>
+	<F1464 AlarmName="1464 M117 Spare 模组通用异常">
+	</F1464>
+	<F1465 AlarmName="1465 M117 Spare 伺服驱动器异常">
+	</F1465>
+	<F1466 AlarmName="1466 M117 Spare 电池电量过低异">
+	</F1466>
+	<F1467 AlarmName="1467 M117 Spare 轴异常">
+	</F1467>
+	<F1468 AlarmName="1468 M117 Spare 过软体负极限">
+	</F1468>
+	<F1469 AlarmName="1469 M117 Spare 过软体正极限">
+	</F1469>
+
+	<F1470 AlarmName="1470 M118 Spare 原点复归失败">
+	</F1470>
+	<F1471 AlarmName="1471 M118 Spare 过硬体负极限">
+	</F1471>
+	<F1472 AlarmName="1472 M118 Spare 过硬体正极限">
+	</F1472>
+	<F1473 AlarmName="1473 M118 Spare 周期行程超范围">
+	</F1473>
+	<F1474 AlarmName="1474 M118 Spare 模组通用异常">
+	</F1474>
+	<F1475 AlarmName="1475 M118 Spare 伺服驱动器异常">
+	</F1475>
+	<F1476 AlarmName="1476 M118 Spare 电池电量过低异">
+	</F1476>
+	<F1477 AlarmName="1477 M118 Spare 轴异常">
+	</F1477>
+	<F1478 AlarmName="1478 M118 Spare 过软体负极限">
+	</F1478>
+	<F1479 AlarmName="1479 M118 Spare 过软体正极限">
+	</F1479>
+
+	<F1480 AlarmName="1480 M119 Spare 原点复归失败">
+	</F1480>
+	<F1481 AlarmName="1481 M119 Spare 过硬体负极限">
+	</F1481>
+	<F1482 AlarmName="1482 M119 Spare 过硬体正极限">
+	</F1482>
+	<F1483 AlarmName="1483 M119 Spare 周期行程超范围">
+	</F1483>
+	<F1484 AlarmName="1484 M119 Spare 模组通用异常">
+	</F1484>
+	<F1485 AlarmName="1485 M119 Spare 伺服驱动器异常">
+	</F1485>
+	<F1486 AlarmName="1486 M119 Spare 电池电量过低异">
+	</F1486>
+	<F1487 AlarmName="1487 M119 Spare 轴异常">
+	</F1487>
+	<F1488 AlarmName="1488 M119 Spare 过软体负极限">
+	</F1488>
+	<F1489 AlarmName="1489 M119 Spare 过软体正极限">
+	</F1489>
+
+	<F1490 AlarmName="1490 M120 Spare 原点复归失败">
+	</F1490>
+	<F1491 AlarmName="1491 M120 Spare 过硬体负极限">
+	</F1491>
+	<F1492 AlarmName="1492 M120 Spare 过硬体正极限">
+	</F1492>
+	<F1493 AlarmName="1493 M120 Spare 周期行程超范围">
+	</F1493>
+	<F1494 AlarmName="1494 M120 Spare 模组通用异常">
+	</F1494>
+	<F1495 AlarmName="1495 M120 Spare 伺服驱动器异常">
+	</F1495>
+	<F1496 AlarmName="1496 M120 Spare 电池电量过低异">
+	</F1496>
+	<F1497 AlarmName="1497 M120 Spare 轴异常">
+	</F1497>
+	<F1498 AlarmName="1498 M120 Spare 过软体负极限">
+	</F1498>
+	<F1499 AlarmName="1499 M120 Spare 过软体正极限">
+	</F1499>
+
+	<F1500 AlarmName="1500 M121 Spare 原点复归失败">
+	</F1500>
+	<F1501 AlarmName="1501 M121 Spare 过硬体负极限">
+	</F1501>
+	<F1502 AlarmName="1502 M121 Spare 过硬体正极限">
+	</F1502>
+	<F1503 AlarmName="1503 M121 Spare 周期行程超范围">
+	</F1503>
+	<F1504 AlarmName="1504 M121 Spare 模组通用异常">
+	</F1504>
+	<F1505 AlarmName="1505 M121 Spare 伺服驱动器异常">
+	</F1505>
+	<F1506 AlarmName="1506 M121 Spare 电池电量过低异">
+	</F1506>
+	<F1507 AlarmName="1507 M121 Spare 轴异常">
+	</F1507>
+	<F1508 AlarmName="1508 M121 Spare 过软体负极限">
+	</F1508>
+	<F1509 AlarmName="1509 M121 Spare 过软体正极限">
+	</F1509>
+
+	<F1510 AlarmName="1510 M122 Spare 原点复归失败">
+	</F1510>
+	<F1511 AlarmName="1511 M122 Spare 过硬体负极限">
+	</F1511>
+	<F1512 AlarmName="1512 M122 Spare 过硬体正极限">
+	</F1512>
+	<F1513 AlarmName="1513 M122 Spare 周期行程超范围">
+	</F1513>
+	<F1514 AlarmName="1514 M122 Spare 模组通用异常">
+	</F1514>
+	<F1515 AlarmName="1515 M122 Spare 伺服驱动器异常">
+	</F1515>
+	<F1516 AlarmName="1516 M122 Spare 电池电量过低异">
+	</F1516>
+	<F1517 AlarmName="1517 M122 Spare 轴异常">
+	</F1517>
+	<F1518 AlarmName="1518 M122 Spare 过软体负极限">
+	</F1518>
+	<F1519 AlarmName="1519 M122 Spare 过软体正极限">
+	</F1519>
+
+	<F1520 AlarmName="1520 M123 Spare 原点复归失败">
+	</F1520>
+	<F1521 AlarmName="1521 M123 Spare 过硬体负极限">
+	</F1521>
+	<F1522 AlarmName="1522 M123 Spare 过硬体正极限">
+	</F1522>
+	<F1523 AlarmName="1523 M123 Spare 周期行程超范围">
+	</F1523>
+	<F1524 AlarmName="1524 M123 Spare 模组通用异常">
+	</F1524>
+	<F1525 AlarmName="1525 M123 Spare 伺服驱动器异常">
+	</F1525>
+	<F1526 AlarmName="1526 M123 Spare 电池电量过低异">
+	</F1526>
+	<F1527 AlarmName="1527 M123 Spare 轴异常">
+	</F1527>
+	<F1528 AlarmName="1528 M123 Spare 过软体负极限">
+	</F1528>
+	<F1529 AlarmName="1529 M123 Spare 过软体正极限">
+	</F1529>
+
+	<F1530 AlarmName="1530 M124 Spare 原点复归失败">
+	</F1530>
+	<F1531 AlarmName="1531 M124 Spare 过硬体负极限">
+	</F1531>
+	<F1532 AlarmName="1532 M124 Spare 过硬体正极限">
+	</F1532>
+	<F1533 AlarmName="1533 M124 Spare 周期行程超范围">
+	</F1533>
+	<F1534 AlarmName="1534 M124 Spare 模组通用异常">
+	</F1534>
+	<F1535 AlarmName="1535 M124 Spare 伺服驱动器异常">
+	</F1535>
+	<F1536 AlarmName="1536 M124 Spare 电池电量过低异">
+	</F1536>
+	<F1537 AlarmName="1537 M124 Spare 轴异常">
+	</F1537>
+	<F1538 AlarmName="1538 M124 Spare 过软体负极限">
+	</F1538>
+	<F1539 AlarmName="1539 M124 Spare 过软体正极限">
+	</F1539>
+
+	<F1540 AlarmName="1540 M125 Spare 原点复归失败">
+	</F1540>
+	<F1541 AlarmName="1541 M125 Spare 过硬体负极限">
+	</F1541>
+	<F1542 AlarmName="1542 M125 Spare 过硬体正极限">
+	</F1542>
+	<F1543 AlarmName="1543 M125 Spare 周期行程超范围">
+	</F1543>
+	<F1544 AlarmName="1544 M125 Spare 模组通用异常">
+	</F1544>
+	<F1545 AlarmName="1545 M125 Spare 伺服驱动器异常">
+	</F1545>
+	<F1546 AlarmName="1546 M125 Spare 电池电量过低异">
+	</F1546>
+	<F1547 AlarmName="1547 M125 Spare 轴异常">
+	</F1547>
+	<F1548 AlarmName="1548 M125 Spare 过软体负极限">
+	</F1548>
+	<F1549 AlarmName="1549 M125 Spare 过软体正极限">
+	</F1549>
+
+	<F1550 AlarmName="1550 M126 Spare 原点复归失败">
+	</F1550>
+	<F1551 AlarmName="1551 M126 Spare 过硬体负极限">
+	</F1551>
+	<F1552 AlarmName="1552 M126 Spare 过硬体正极限">
+	</F1552>
+	<F1553 AlarmName="1553 M126 Spare 周期行程超范围">
+	</F1553>
+	<F1554 AlarmName="1554 M126 Spare 模组通用异常">
+	</F1554>
+	<F1555 AlarmName="1555 M126 Spare 伺服驱动器异常">
+	</F1555>
+	<F1556 AlarmName="1556 M126 Spare 电池电量过低异">
+	</F1556>
+	<F1557 AlarmName="1557 M126 Spare 轴异常">
+	</F1557>
+	<F1558 AlarmName="1558 M126 Spare 过软体负极限">
+	</F1558>
+	<F1559 AlarmName="1559 M126 Spare 过软体正极限">
+	</F1559>
+
+	<F1560 AlarmName="1560 M127 Spare 原点复归失败">
+	</F1560>
+	<F1561 AlarmName="1561 M127 Spare 过硬体负极限">
+	</F1561>
+	<F1562 AlarmName="1562 M127 Spare 过硬体正极限">
+	</F1562>
+	<F1563 AlarmName="1563 M127 Spare 周期行程超范围">
+	</F1563>
+	<F1564 AlarmName="1564 M127 Spare 模组通用异常">
+	</F1564>
+	<F1565 AlarmName="1565 M127 Spare 伺服驱动器异常">
+	</F1565>
+	<F1566 AlarmName="1566 M127 Spare 电池电量过低异">
+	</F1566>
+	<F1567 AlarmName="1567 M127 Spare 轴异常">
+	</F1567>
+	<F1568 AlarmName="1568 M127 Spare 过软体负极限">
+	</F1568>
+	<F1569 AlarmName="1569 M127 Spare 过软体正极限">
+	</F1569>
+
+	<F1570 AlarmName="1570 M128 Spare 原点复归失败">
+	</F1570>
+	<F1571 AlarmName="1571 M128 Spare 过硬体负极限">
+	</F1571>
+	<F1572 AlarmName="1572 M128 Spare 过硬体正极限">
+	</F1572>
+	<F1573 AlarmName="1573 M128 Spare 周期行程超范围">
+	</F1573>
+	<F1574 AlarmName="1574 M128 Spare 模组通用异常">
+	</F1574>
+	<F1575 AlarmName="1575 M128 Spare 伺服驱动器异常">
+	</F1575>
+	<F1576 AlarmName="1576 M128 Spare 电池电量过低异">
+	</F1576>
+	<F1577 AlarmName="1577 M128 Spare 轴异常">
+	</F1577>
+	<F1578 AlarmName="1578 M128 Spare 过软体负极限">
+	</F1578>
+	<F1579 AlarmName="1579 M128 Spare 过软体正极限">
+	</F1579>
+
+	<F1580 AlarmName="1580 M129工位7θ1轴 原点复归失败">
+	</F1580>
+	<F1581 AlarmName="1581 M129工位7θ1轴 过硬体负极限">
+	</F1581>
+	<F1582 AlarmName="1582 M129工位7θ1轴 过硬体正极限">
+	</F1582>
+	<F1583 AlarmName="1583 M129工位7θ1轴 周期行程超范围">
+	</F1583>
+	<F1584 AlarmName="1584 M129工位7θ1轴 模组通用异常">
+	</F1584>
+	<F1585 AlarmName="1585 M129工位7θ1轴 伺服驱动器异常">
+	</F1585>
+	<F1586 AlarmName="1586 M129工位7θ1轴 电池电量过低异">
+	</F1586>
+	<F1587 AlarmName="1587 M129工位7θ1轴 轴异常">
+	</F1587>
+	<F1588 AlarmName="1588 M129工位7θ1轴 过软体负极限">
+	</F1588>
+	<F1589 AlarmName="1589 M129工位7θ1轴 过软体正极限">
+	</F1589>
+
+	<F1590 AlarmName="1590 M130工位7θ2轴 原点复归失败">
+	</F1590>
+	<F1591 AlarmName="1591 M130工位7θ2轴 过硬体负极限">
+	</F1591>
+	<F1592 AlarmName="1592 M130工位7θ2轴 过硬体正极限">
+	</F1592>
+	<F1593 AlarmName="1593 M130工位7θ2轴 周期行程超范围">
+	</F1593>
+	<F1594 AlarmName="1594 M130工位7θ2轴 模组通用异常">
+	</F1594>
+	<F1595 AlarmName="1595 M130工位7θ2轴 伺服驱动器异常">
+	</F1595>
+	<F1596 AlarmName="1596 M130工位7θ2轴 电池电量过低异">
+	</F1596>
+	<F1597 AlarmName="1597 M130工位7θ2轴 轴异常">
+	</F1597>
+	<F1598 AlarmName="1598 M130工位7θ2轴 过软体负极限">
+	</F1598>
+	<F1599 AlarmName="1599 M130工位7θ2轴 过软体正极限">
+	</F1599>
+
+	<F1600 AlarmName="1600 M131工位7X1轴 原点复归失败">
+	</F1600>
+	<F1601 AlarmName="1601 M131工位7X1轴 过硬体负极限">
+	</F1601>
+	<F1602 AlarmName="1602 M131工位7X1轴 过硬体正极限">
+	</F1602>
+	<F1603 AlarmName="1603 M131工位7X1轴 周期行程超范围">
+	</F1603>
+	<F1604 AlarmName="1604 M131工位7X1轴 模组通用异常">
+	</F1604>
+	<F1605 AlarmName="1605 M131工位7X1轴 伺服驱动器异常">
+	</F1605>
+	<F1606 AlarmName="1606 M131工位7X1轴 电池电量过低异">
+	</F1606>
+	<F1607 AlarmName="1607 M131工位7X1轴 轴异常">
+	</F1607>
+	<F1608 AlarmName="1608 M131工位7X1轴 过软体负极限">
+	</F1608>
+	<F1609 AlarmName="1609 M131工位7X1轴 过软体正极限">
+	</F1609>
+
+	<F1610 AlarmName="1610 M132工位7X2轴 原点复归失败">
+	</F1610>
+	<F1611 AlarmName="1611 M132工位7X2轴 过硬体负极限">
+	</F1611>
+	<F1612 AlarmName="1612 M132工位7X2轴 过硬体正极限">
+	</F1612>
+	<F1613 AlarmName="1613 M132工位7X2轴 周期行程超范围">
+	</F1613>
+	<F1614 AlarmName="1614 M132工位7X2轴 模组通用异常">
+	</F1614>
+	<F1615 AlarmName="1615 M132工位7X2轴 伺服驱动器异常">
+	</F1615>
+	<F1616 AlarmName="1616 M132工位7X2轴 电池电量过低异">
+	</F1616>
+	<F1617 AlarmName="1617 M132工位7X2轴 轴异常">
+	</F1617>
+	<F1618 AlarmName="1618 M132工位7X2轴 过软体负极限">
+	</F1618>
+	<F1619 AlarmName="1619 M132工位7X2轴 过软体正极限">
+	</F1619>
+
+	<F1620 AlarmName="1620 M133 Spare 原点复归失败">
+	</F1620>
+	<F1621 AlarmName="1621 M133 Spare 过硬体负极限">
+	</F1621>
+	<F1622 AlarmName="1622 M133 Spare 过硬体正极限">
+	</F1622>
+	<F1623 AlarmName="1623 M133 Spare 周期行程超范围">
+	</F1623>
+	<F1624 AlarmName="1624 M133 Spare 模组通用异常">
+	</F1624>
+	<F1625 AlarmName="1625 M133 Spare 伺服驱动器异常">
+	</F1625>
+	<F1626 AlarmName="1626 M133 Spare 电池电量过低异">
+	</F1626>
+	<F1627 AlarmName="1627 M133 Spare 轴异常">
+	</F1627>
+	<F1628 AlarmName="1628 M133 Spare 过软体负极限">
+	</F1628>
+	<F1629 AlarmName="1629 M133 Spare 过软体正极限">
+	</F1629>
+
+	<F1630 AlarmName="1630 M134 Spare 原点复归失败">
+	</F1630>
+	<F1631 AlarmName="1631 M134 Spare 过硬体负极限">
+	</F1631>
+	<F1632 AlarmName="1632 M134 Spare 过硬体正极限">
+	</F1632>
+	<F1633 AlarmName="1633 M134 Spare 周期行程超范围">
+	</F1633>
+	<F1634 AlarmName="1634 M134 Spare 模组通用异常">
+	</F1634>
+	<F1635 AlarmName="1635 M134 Spare 伺服驱动器异常">
+	</F1635>
+	<F1636 AlarmName="1636 M134 Spare 电池电量过低异">
+	</F1636>
+	<F1637 AlarmName="1637 M134 Spare 轴异常">
+	</F1637>
+	<F1638 AlarmName="1638 M134 Spare 过软体负极限">
+	</F1638>
+	<F1639 AlarmName="1639 M134 Spare 过软体正极限">
+	</F1639>
+
+	<F1640 AlarmName="1640 M135 Spare 原点复归失败">
+	</F1640>
+	<F1641 AlarmName="1641 M135 Spare 过硬体负极限">
+	</F1641>
+	<F1642 AlarmName="1642 M135 Spare 过硬体正极限">
+	</F1642>
+	<F1643 AlarmName="1643 M135 Spare 周期行程超范围">
+	</F1643>
+	<F1644 AlarmName="1644 M135 Spare 模组通用异常">
+	</F1644>
+	<F1645 AlarmName="1645 M135 Spare 伺服驱动器异常">
+	</F1645>
+	<F1646 AlarmName="1646 M135 Spare 电池电量过低异">
+	</F1646>
+	<F1647 AlarmName="1647 M135 Spare 轴异常">
+	</F1647>
+	<F1648 AlarmName="1648 M135 Spare 过软体负极限">
+	</F1648>
+	<F1649 AlarmName="1649 M135 Spare 过软体正极限">
+	</F1649>
+
+	<F1650 AlarmName="1650 M136 Spare 原点复归失败">
+	</F1650>
+	<F1651 AlarmName="1651 M136 Spare 过硬体负极限">
+	</F1651>
+	<F1652 AlarmName="1652 M136 Spare 过硬体正极限">
+	</F1652>
+	<F1653 AlarmName="1653 M136 Spare 周期行程超范围">
+	</F1653>
+	<F1654 AlarmName="1654 M136 Spare 模组通用异常">
+	</F1654>
+	<F1655 AlarmName="1655 M136 Spare 伺服驱动器异常">
+	</F1655>
+	<F1656 AlarmName="1656 M136 Spare 电池电量过低异">
+	</F1656>
+	<F1657 AlarmName="1657 M136 Spare 轴异常">
+	</F1657>
+	<F1658 AlarmName="1658 M136 Spare 过软体负极限">
+	</F1658>
+	<F1659 AlarmName="1659 M136 Spare 过软体正极限">
+	</F1659>
+
+	<F1660 AlarmName="1660 M137 Spare 原点复归失败">
+	</F1660>
+	<F1661 AlarmName="1661 M137 Spare 过硬体负极限">
+	</F1661>
+	<F1662 AlarmName="1662 M137 Spare 过硬体正极限">
+	</F1662>
+	<F1663 AlarmName="1663 M137 Spare 周期行程超范围">
+	</F1663>
+	<F1664 AlarmName="1664 M137 Spare 模组通用异常">
+	</F1664>
+	<F1665 AlarmName="1665 M137 Spare 伺服驱动器异常">
+	</F1665>
+	<F1666 AlarmName="1666 M137 Spare 电池电量过低异">
+	</F1666>
+	<F1667 AlarmName="1667 M137 Spare 轴异常">
+	</F1667>
+	<F1668 AlarmName="1668 M137 Spare 过软体负极限">
+	</F1668>
+	<F1669 AlarmName="1669 M137 Spare 过软体正极限">
+	</F1669>
+
+	<F1670 AlarmName="1670 M138 Spare 原点复归失败">
+	</F1670>
+	<F1671 AlarmName="1671 M138 Spare 过硬体负极限">
+	</F1671>
+	<F1672 AlarmName="1672 M138 Spare 过硬体正极限">
+	</F1672>
+	<F1673 AlarmName="1673 M138 Spare 周期行程超范围">
+	</F1673>
+	<F1674 AlarmName="1674 M138 Spare 模组通用异常">
+	</F1674>
+	<F1675 AlarmName="1675 M138 Spare 伺服驱动器异常">
+	</F1675>
+	<F1676 AlarmName="1676 M138 Spare 电池电量过低异">
+	</F1676>
+	<F1677 AlarmName="1677 M138 Spare 轴异">
+	</F1677>
+	<F1678 AlarmName="1678 M138 Spare 过软体负极限">
+	</F1678>
+	<F1679 AlarmName="1679 M138 Spare 过软体正极限">
+	</F1679>
+
+	<F1680 AlarmName="1680 M139 Spare 原点复归失败">
+	</F1680>
+	<F1681 AlarmName="1681 M139 Spare 过硬体负极限">
+	</F1681>
+	<F1682 AlarmName="1682 M139 Spare 过硬体正极限">
+	</F1682>
+	<F1683 AlarmName="1683 M139 Spare 周期行程超范围">
+	</F1683>
+	<F1684 AlarmName="1684 M139 Spare 模组通用异常">
+	</F1684>
+	<F1685 AlarmName="1685 M139 Spare 伺服驱动器异常">
+	</F1685>
+	<F1686 AlarmName="1686 M139 Spare 电池电量过低异">
+	</F1686>
+	<F1687 AlarmName="1687 M139 Spare 轴异常">
+	</F1687>
+	<F1688 AlarmName="1688 M139 Spare 过软体负极限">
+	</F1688>
+	<F1689 AlarmName="1689 M139 Spare 过软体正极限">
+	</F1689>
+
+	<F1690 AlarmName="1690 M140 Spare 原点复归失败">
+	</F1690>
+	<F1691 AlarmName="1691 M140 Spare 过硬体负极限">
+	</F1691>
+	<F1692 AlarmName="1692 M140 Spare 过硬体正极限">
+	</F1692>
+	<F1693 AlarmName="1693 M140 Spare 周期行程超范围">
+	</F1693>
+	<F1694 AlarmName="1694 M140 Spare 模组通用异常">
+	</F1694>
+	<F1695 AlarmName="1695 M140 Spare 伺服驱动器异常">
+	</F1695>
+	<F1696 AlarmName="1696 M140 Spare 电池电量过低异">
+	</F1696>
+	<F1697 AlarmName="1697 M140 Spare 轴异常">
+	</F1697>
+	<F1698 AlarmName="1698 M140 Spare 过软体负极限">
+	</F1698>
+	<F1699 AlarmName="1699 M140 Spare 过软体正极限">
+	</F1699>
+
+	<F1700 AlarmName="1700 M141 Spare 原点复归失败">
+	</F1700>
+	<F1701 AlarmName="1701 M141 Spare 过硬体负极限">
+	</F1701>
+	<F1702 AlarmName="1702 M141 Spare 过硬体正极限">
+	</F1702>
+	<F1703 AlarmName="1703 M141 Spare 周期行程超范围">
+	</F1703>
+	<F1704 AlarmName="1704 M141 Spare 模组通用异常">
+	</F1704>
+	<F1705 AlarmName="1705 M141 Spare 伺服驱动器异常">
+	</F1705>
+	<F1706 AlarmName="1706 M141 Spare 电池电量过低异">
+	</F1706>
+	<F1707 AlarmName="1707 M141 Spare 轴异常">
+	</F1707>
+	<F1708 AlarmName="1708 M141 Spare 过软体负极限">
+	</F1708>
+	<F1709 AlarmName="1709 M141 Spare 过软体正极限">
+	</F1709>
+
+	<F1710 AlarmName="1710 M142 Spare 原点复归失败">
+	</F1710>
+	<F1711 AlarmName="1711 M142 Spare 过硬体负极限">
+	</F1711>
+	<F1712 AlarmName="1712 M142 Spare 过硬体正极限">
+	</F1712>
+	<F1713 AlarmName="1713 M142 Spare 周期行程超范围">
+	</F1713>
+	<F1714 AlarmName="1714 M142 Spare 模组通用异常">
+	</F1714>
+	<F1715 AlarmName="1715 M142 Spare 伺服驱动器异常">
+	</F1715>
+	<F1716 AlarmName="1716 M142 Spare 电池电量过低异">
+	</F1716>
+	<F1717 AlarmName="1717 M142 Spare 轴异常">
+	</F1717>
+	<F1718 AlarmName="1718 M142 Spare 过软体负极限">
+	</F1718>
+	<F1719 AlarmName="1719 M142 Spare 过软体正极限">
+	</F1719>
+
+	<F1720 AlarmName="1720 M143 Spare 原点复归失败">
+	</F1720>
+	<F1721 AlarmName="1721 M143 Spare 过硬体负极限">
+	</F1721>
+	<F1722 AlarmName="1722 M143 Spare 过硬体正极限">
+	</F1722>
+	<F1723 AlarmName="1723 M143 Spare 周期行程超范围">
+	</F1723>
+	<F1724 AlarmName="1724 M143 Spare 模组通用异常">
+	</F1724>
+	<F1725 AlarmName="1725 M143 Spare 伺服驱动器异常">
+	</F1725>
+	<F1726 AlarmName="1726 M143 Spare 电池电量过低异">
+	</F1726>
+	<F1727 AlarmName="1727 M143 Spare 轴异常">
+	</F1727>
+	<F1728 AlarmName="1728 M143 Spare 过软体负极限">
+	</F1728>
+	<F1729 AlarmName="1729 M143 Spare 过软体正极限">
+	</F1729>
+
+	<F1730 AlarmName="1730 M144 Spare 原点复归失败">
+	</F1730>
+	<F1731 AlarmName="1731 M144 Spare 过硬体负极限">
+	</F1731>
+	<F1732 AlarmName="1732 M144 Spare 过硬体正极限">
+	</F1732>
+	<F1733 AlarmName="1733 M144 Spare 周期行程超范围">
+	</F1733>
+	<F1734 AlarmName="1734 M144 Spare 模组通用异常">
+	</F1734>
+	<F1735 AlarmName="1735 M144 Spare 伺服驱动器异常">
+	</F1735>
+	<F1736 AlarmName="1736 M144 Spare 电池电量过低异">
+	</F1736>
+	<F1737 AlarmName="1737 M144 Spare 轴异常">
+	</F1737>
+	<F1738 AlarmName="1738 M144 Spare 过软体负极限">
+	</F1738>
+	<F1739 AlarmName="1739 M144 Spare 过软体正极限">
+	</F1739>
+
+	<F1740 AlarmName="1740 M145工位8θ1轴 原点复归失败">
+	</F1740>
+	<F1741 AlarmName="1741 M145工位8θ1轴 过硬体负极限">
+	</F1741>
+	<F1742 AlarmName="1742 M145工位8θ1轴 过硬体正极限">
+	</F1742>
+	<F1743 AlarmName="1743 M145工位8θ1轴 周期行程超范围">
+	</F1743>
+	<F1744 AlarmName="1744 M145工位8θ1轴 模组通用异常">
+	</F1744>
+	<F1745 AlarmName="1745 M145工位8θ1轴 伺服驱动器异常">
+	</F1745>
+	<F1746 AlarmName="1746 M145工位8θ1轴 电池电量过低异">
+	</F1746>
+	<F1747 AlarmName="1747 M145工位8θ1轴 轴异常">
+	</F1747>
+	<F1748 AlarmName="1748 M145工位8θ1轴 过软体负极限">
+	</F1748>
+	<F1749 AlarmName="1749 M145工位8θ1轴 过软体正极限">
+	</F1749>
+
+	<F1750 AlarmName="1750 M146工位8θ2轴 原点复归失败">
+	</F1750>
+	<F1751 AlarmName="1751 M146工位8θ2轴 过硬体负极限">
+	</F1751>
+	<F1752 AlarmName="1752 M146工位8θ2轴 过硬体正极限">
+	</F1752>
+	<F1753 AlarmName="1753 M146工位8θ2轴 周期行程超范围">
+	</F1753>
+	<F1754 AlarmName="1754 M146工位8θ2轴 模组通用异常">
+	</F1754>
+	<F1755 AlarmName="1755 M146工位8θ2轴 伺服驱动器异常">
+	</F1755>
+	<F1756 AlarmName="1756 M146工位8θ2轴 电池电量过低异">
+	</F1756>
+	<F1757 AlarmName="1757 M146工位8θ2轴 轴异常">
+	</F1757>
+	<F1758 AlarmName="1758 M146工位8θ2轴 过软体负极限">
+	</F1758>
+	<F1759 AlarmName="1759 M146工位8θ2轴 过软体正极限">
+	</F1759>
+
+	<F1760 AlarmName="1760 M147工位8X1轴 原点复归失败">
+	</F1760>
+	<F1761 AlarmName="1761 M147工位8X1轴 过硬体负极限">
+	</F1761>
+	<F1762 AlarmName="1762 M147工位8X1轴 过硬体正极限">
+	</F1762>
+	<F1763 AlarmName="1763 M147工位8X1轴 周期行程超范围">
+	</F1763>
+	<F1764 AlarmName="1764 M147工位8X1轴 模组通用异常">
+	</F1764>
+	<F1765 AlarmName="1765 M147工位8X1轴 伺服驱动器异常">
+	</F1765>
+	<F1766 AlarmName="1766 M147工位8X1轴 电池电量过低异">
+	</F1766>
+	<F1767 AlarmName="1767 M147工位8X1轴 轴异常">
+	</F1767>
+	<F1768 AlarmName="1768 M147工位8X1轴 过软体负极限">
+	</F1768>
+	<F1769 AlarmName="1769 M147工位8X1轴 过软体正极限">
+	</F1769>
+
+	<F1770 AlarmName="1770 M148工位8X2轴 原点复归失败">
+	</F1770>
+	<F1771 AlarmName="1771 M148工位8X2轴 过硬体负极限">
+	</F1771>
+	<F1772 AlarmName="1772 M148工位8X2轴 过硬体正极限">
+	</F1772>
+	<F1773 AlarmName="1773 M148工位8X2轴 周期行程超范围">
+	</F1773>
+	<F1774 AlarmName="1774 M148工位8X2轴 模组通用异常">
+	</F1774>
+	<F1775 AlarmName="1775 M148工位8X2轴 伺服驱动器异常">
+	</F1775>
+	<F1776 AlarmName="1776 M148工位8X2轴 电池电量过低异">
+	</F1776>
+	<F1777 AlarmName="1777 M148工位8X2轴 轴异常">
+	</F1777>
+	<F1778 AlarmName="1778 M148工位8X2轴 过软体负极限">
+	</F1778>
+	<F1779 AlarmName="1779 M148工位8X2轴 过软体正极限">
+	</F1779>
+
+	<F1780 AlarmName="1780 M149 Spare 原点复归失败">
+	</F1780>
+	<F1781 AlarmName="1781 M149 Spare 过硬体负极限">
+	</F1781>
+	<F1782 AlarmName="1782 M149 Spare 过硬体正极限">
+	</F1782>
+	<F1783 AlarmName="1783 M149 Spare 周期行程超范围">
+	</F1783>
+	<F1784 AlarmName="1784 M149 Spare 模组通用异常">
+	</F1784>
+	<F1785 AlarmName="1785 M149 Spare 伺服驱动器异常">
+	</F1785>
+	<F1786 AlarmName="1786 M149 Spare 电池电量过低异">
+	</F1786>
+	<F1787 AlarmName="1787 M149 Spare 轴异常">
+	</F1787>
+	<F1788 AlarmName="1788 M149 Spare 过软体负极限">
+	</F1788>
+	<F1789 AlarmName="1789 M149 Spare 过软体正极限">
+	</F1789>
+
+	<F1790 AlarmName="1790 M150 Spare 原点复归失败">
+	</F1790>
+	<F1791 AlarmName="1791 M150 Spare 过硬体负极限">
+	</F1791>
+	<F1792 AlarmName="1792 M150 Spare 过硬体正极限">
+	</F1792>
+	<F1793 AlarmName="1793 M150 Spare 周期行程超范围">
+	</F1793>
+	<F1794 AlarmName="1794 M150 Spare 模组通用异常">
+	</F1794>
+	<F1795 AlarmName="1795 M150 Spare 伺服驱动器异常">
+	</F1795>
+	<F1796 AlarmName="1796 M150 Spare 电池电量过低异">
+	</F1796>
+	<F1797 AlarmName="1797 M150 Spare 轴异常">
+	</F1797>
+	<F1798 AlarmName="1798 M150 Spare 过软体负极限">
+	</F1798>
+	<F1799 AlarmName="1799 M150 Spare 过软体正极限">
+	</F1799>
+
+	<F1800 AlarmName=" ">
+	</F1800>
+	<F1801 AlarmName=" ">
+	</F1801>
+	<F1802 AlarmName="  ">
+	</F1802>
+	<F1803 AlarmName="  ">
+	</F1803>
+	<F1804 AlarmName=" ">
+	</F1804>
+	<F1805 AlarmName=" ">
+	</F1805>
+	<F1806 AlarmName=" ">
+	</F1806>
+	<F1807 AlarmName=" ">
+	</F1807>
+	<F1808 AlarmName=" ">
+	</F1808>
+	<F1809 AlarmName=" ">
+	</F1809>
+
+	<F1810 AlarmName=" ">
+	</F1810>
+	<F1811 AlarmName=" ">
+	</F1811>
+	<F1812 AlarmName=" ">
+	</F1812>
+	<F1813 AlarmName=" ">
+	</F1813>
+	<F1814 AlarmName=" ">
+	</F1814>
+	<F1815 AlarmName=" ">
+	</F1815>
+	<F1816 AlarmName=" ">
+	</F1816>
+	<F1817 AlarmName=" ">
+	</F1817>
+	<F1818 AlarmName=" ">
+	</F1818>
+	<F1819 AlarmName=" ">
+	</F1819>
+
+	<F1820 AlarmName=" ">
+	</F1820>
+	<F1821 AlarmName=" ">
+	</F1821>
+	<F1822 AlarmName=" ">
+	</F1822>
+	<F1823 AlarmName=" ">
+	</F1823>
+	<F1824 AlarmName=" ">
+	</F1824>
+	<F1825 AlarmName=" ">
+	</F1825>
+	<F1826 AlarmName=" ">
+	</F1826>
+	<F1827 AlarmName=" ">
+	</F1827>
+	<F1828 AlarmName=" ">
+	</F1828>
+	<F1829 AlarmName=" ">
+	</F1829>
+
+	<F1830 AlarmName=" ">
+	</F1830>
+	<F1831 AlarmName=" ">
+	</F1831>
+	<F1832 AlarmName=" ">
+	</F1832>
+	<F1833 AlarmName=" ">
+	</F1833>
+	<F1834 AlarmName=" ">
+	</F1834>
+	<F1835 AlarmName=" ">
+	</F1835>
+	<F1836 AlarmName=" ">
+	</F1836>
+	<F1837 AlarmName=" ">
+	</F1837>
+	<F1838 AlarmName=" ">
+	</F1838>
+	<F1839 AlarmName=" ">
+	</F1839>
+
+	<F1840 AlarmName=" ">
+	</F1840>
+	<F1841 AlarmName=" ">
+	</F1841>
+	<F1842 AlarmName="  ">
+	</F1842>
+	<F1843 AlarmName=" ">
+	</F1843>
+	<F1844 AlarmName=" ">
+	</F1844>
+	<F1845 AlarmName=" ">
+	</F1845>
+	<F1846 AlarmName=" ">
+	</F1846>
+	<F1847 AlarmName=" ">
+	</F1847>
+	<F1848 AlarmName=" ">
+	</F1848>
+	<F1849 AlarmName=" ">
+	</F1849>
+
+	<F1850 AlarmName=" F1850工站七直线电机防撞感应异常">
+	</F1850>
+	<F1851 AlarmName=" F1851工站七 EMO急停按钮">
+	</F1851>
+	<F1852 AlarmName=" F1852工站七 内维修门左异常">
+	</F1852>
+	<F1853 AlarmName=" F1853工站七 内维修门右异常">
+	</F1853>
+	<F1854 AlarmName=" F1854工站七 吸真空异常">
+	</F1854>
+	<F1855 AlarmName=" F1855工站七 UNIT-7 原点复归失败">
+	</F1855>
+	<F1856 AlarmName=" F1856 7工位X1轴伺服ALM">
+	</F1856>
+	<F1857 AlarmName=" F1857 7工位X2轴伺服ALM">
+	</F1857>
+	<F1858 AlarmName=" F1858 7工位θ1轴伺服ALM">
+	</F1858>
+	<F1859 AlarmName=" F1859 7工位θ2轴伺服ALM">
+	</F1859>
+
+	<F1860 AlarmName=" ">
+	</F1860>
+	<F1861 AlarmName=" ">
+	</F1861>
+	<F1862 AlarmName="  ">
+	</F1862>
+	<F1863 AlarmName=" ">
+	</F1863>
+	<F1864 AlarmName=" ">
+	</F1864>
+	<F1865 AlarmName=" ">
+	</F1865>
+	<F1866 AlarmName=" ">
+	</F1866>
+	<F1867 AlarmName=" ">
+	</F1867>
+	<F1868 AlarmName=" ">
+	</F1868>
+	<F1869 AlarmName=" ">
+	</F1869>
+
+	<F1870 AlarmName=" ">
+	</F1870>
+	<F1871 AlarmName=" ">
+	</F1871>
+	<F1872 AlarmName=" ">
+	</F1872>
+	<F1873 AlarmName=" ">
+	</F1873>
+	<F1874 AlarmName=" ">
+	</F1874>
+	<F1875 AlarmName=" ">
+	</F1875>
+	<F1876 AlarmName=" ">
+	</F1876>
+	<F1877 AlarmName=" ">
+	</F1877>
+	<F1878 AlarmName=" ">
+	</F1878>
+	<F1879 AlarmName=" ">
+	</F1879>
+
+	<F1880 AlarmName=" ">
+	</F1880>
+	<F1881 AlarmName=" ">
+	</F1881>
+	<F1882 AlarmName="  ">
+	</F1882>
+	<F1883 AlarmName=" ">
+	</F1883>
+	<F1884 AlarmName=" ">
+	</F1884>
+	<F1885 AlarmName=" ">
+	</F1885>
+	<F1886 AlarmName=" ">
+	</F1886>
+	<F1887 AlarmName=" ">
+	</F1887>
+	<F1888 AlarmName=" ">
+	</F1888>
+	<F1889 AlarmName=" ">
+	</F1889>
+
+	<F1890 AlarmName=" ">
+	</F1890>
+	<F1891 AlarmName=" ">
+	</F1891>
+	<F1892 AlarmName="  ">
+	</F1892>
+	<F1893 AlarmName=" ">
+	</F1893>
+	<F1894 AlarmName=" ">
+	</F1894>
+	<F1895 AlarmName=" ">
+	</F1895>
+	<F1896 AlarmName=" ">
+	</F1896>
+	<F1897 AlarmName=" ">
+	</F1897>
+	<F1898 AlarmName=" ">
+	</F1898>
+	<F1899 AlarmName=" ">
+	</F1899>
+
+
+	<F1900 AlarmName=" ">
+	</F1900>
+	<F1901 AlarmName=" ">
+	</F1901>
+	<F1902 AlarmName="  ">
+	</F1902>
+	<F1903 AlarmName="  ">
+	</F1903>
+	<F1904 AlarmName=" ">
+	</F1904>
+	<F1905 AlarmName=" ">
+	</F1905>
+	<F1906 AlarmName=" ">
+	</F1906>
+	<F1907 AlarmName=" ">
+	</F1907>
+	<F1908 AlarmName=" ">
+	</F1908>
+	<F1909 AlarmName=" ">
+	</F1909>
+
+	<F1910 AlarmName=" ">
+	</F1910>
+	<F1911 AlarmName=" ">
+	</F1911>
+	<F1912 AlarmName=" ">
+	</F1912>
+	<F1913 AlarmName=" ">
+	</F1913>
+	<F1914 AlarmName=" ">
+	</F1914>
+	<F1915 AlarmName=" ">
+	</F1915>
+	<F1916 AlarmName=" ">
+	</F1916>
+	<F1917 AlarmName=" ">
+	</F1917>
+	<F1918 AlarmName=" ">
+	</F1918>
+	<F1919 AlarmName=" ">
+	</F1919>
+
+	<F1920 AlarmName=" ">
+	</F1920>
+	<F1921 AlarmName=" ">
+	</F1921>
+	<F1922 AlarmName=" ">
+	</F1922>
+	<F1923 AlarmName=" ">
+	</F1923>
+	<F1924 AlarmName=" ">
+	</F1924>
+	<F1925 AlarmName=" ">
+	</F1925>
+	<F1926 AlarmName=" ">
+	</F1926>
+	<F1927 AlarmName=" ">
+	</F1927>
+	<F1928 AlarmName=" ">
+	</F1928>
+	<F1929 AlarmName=" ">
+	</F1929>
+
+	<F1930 AlarmName=" ">
+	</F1930>
+	<F1931 AlarmName=" ">
+	</F1931>
+	<F1932 AlarmName=" ">
+	</F1932>
+	<F1933 AlarmName=" ">
+	</F1933>
+	<F1934 AlarmName=" ">
+	</F1934>
+	<F1935 AlarmName=" ">
+	</F1935>
+	<F1936 AlarmName=" ">
+	</F1936>
+	<F1937 AlarmName=" ">
+	</F1937>
+	<F1938 AlarmName=" ">
+	</F1938>
+	<F1939 AlarmName=" ">
+	</F1939>
+
+	<F1940 AlarmName=" ">
+	</F1940>
+	<F1941 AlarmName=" ">
+	</F1941>
+	<F1942 AlarmName="  ">
+	</F1942>
+	<F1943 AlarmName=" ">
+	</F1943>
+	<F1944 AlarmName=" ">
+	</F1944>
+	<F1945 AlarmName=" ">
+	</F1945>
+	<F1946 AlarmName=" ">
+	</F1946>
+	<F1947 AlarmName=" ">
+	</F1947>
+	<F1948 AlarmName=" ">
+	</F1948>
+	<F1949 AlarmName=" ">
+	</F1949>
+
+	<F1950 AlarmName=" ">
+	</F1950>
+	<F1951 AlarmName=" ">
+	</F1951>
+	<F1952 AlarmName="  ">
+	</F1952>
+	<F1953 AlarmName=" ">
+	</F1953>
+	<F1954 AlarmName=" ">
+	</F1954>
+	<F1955 AlarmName=" ">
+	</F1955>
+	<F1956 AlarmName=" ">
+	</F1956>
+	<F1957 AlarmName=" ">
+	</F1957>
+	<F1958 AlarmName=" ">
+	</F1958>
+	<F1959 AlarmName=" ">
+	</F1959>
+
+	<F1960 AlarmName=" ">
+	</F1960>
+	<F1961 AlarmName=" ">
+	</F1961>
+	<F1962 AlarmName="  ">
+	</F1962>
+	<F1963 AlarmName=" ">
+	</F1963>
+	<F1964 AlarmName=" ">
+	</F1964>
+	<F1965 AlarmName=" ">
+	</F1965>
+	<F1966 AlarmName=" ">
+	</F1966>
+	<F1967 AlarmName=" ">
+	</F1967>
+	<F1968 AlarmName=" ">
+	</F1968>
+	<F1969 AlarmName=" ">
+	</F1969>
+
+	<F1970 AlarmName=" ">
+	</F1970>
+	<F1971 AlarmName=" ">
+	</F1971>
+	<F1972 AlarmName=" ">
+	</F1972>
+	<F1973 AlarmName=" ">
+	</F1973>
+	<F1974 AlarmName=" ">
+	</F1974>
+	<F1975 AlarmName=" ">
+	</F1975>
+	<F1976 AlarmName=" ">
+	</F1976>
+	<F1977 AlarmName=" ">
+	</F1977>
+	<F1978 AlarmName=" ">
+	</F1978>
+	<F1979 AlarmName=" ">
+	</F1979>
+
+	<F1980 AlarmName=" ">
+	</F1980>
+	<F1981 AlarmName="一工位重复扎针三次">
+	</F1981>
+	<F1982 AlarmName="二工位重复扎针三次">
+	</F1982>
+	<F1983 AlarmName="三工位重复扎针三次">
+	</F1983>
+	<F1984 AlarmName="四工位重复扎针三次">
+	</F1984>
+	<F1985 AlarmName="五工位重复扎针三次">
+	</F1985>
+	<F1986 AlarmName="六工位重复扎针三次">
+	</F1986>
+	<F1987 AlarmName="七工位重复扎针三次">
+	</F1987>
+	<F1988 AlarmName="八工位重复扎针三次">
+	</F1988>
+	<F1989 AlarmName=" ">
+	</F1989>
+
+	<F1990 AlarmName=" ">
+	</F1990>
+	<F1991 AlarmName=" ">
+	</F1991>
+	<F1992 AlarmName="  ">
+	</F1992>
+	<F1993 AlarmName=" ">
+	</F1993>
+	<F1994 AlarmName=" ">
+	</F1994>
+	<F1995 AlarmName=" ">
+	</F1995>
+	<F1996 AlarmName=" ">
+	</F1996>
+	<F1997 AlarmName=" ">
+	</F1997>
+	<F1998 AlarmName=" ">
+	</F1998>
+	<F1999 AlarmName=" ">
+	</F1999>
+
+	<F2000 AlarmName="F2000 工位1直线电机防撞感应异常">
+	</F2000>
+	<F2001 AlarmName="F2001 工位1内维修门左异常">
+	</F2001>
+	<F2002 AlarmName="F2002 工位1内维修门右异常">
+	</F2002>
+	<F2003 AlarmName="F2003 工位1X1轴伺服ALM">
+	</F2003>
+	<F2004 AlarmName="F2004 工位1X2轴伺服ALM">
+	</F2004>
+	<F2005 AlarmName="F2005 工位1θ1轴伺服ALM">
+	</F2005>
+	<F2006 AlarmName="F2006 工位1θ2轴伺服ALM">
+	</F2006>
+	<F2007 AlarmName="F2007 工位1吸真空超时">
+	</F2007>
+	<F2008 AlarmName="F2008 工位1破真空超时">
+	</F2008>
+	<F2009 AlarmName="F2009 工位1PC心跳超时">
+	</F2009>
+
+	<F2010 AlarmName="F2010 工位1右拍照失败">
+	</F2010>
+	<F2011 AlarmName="F2011 工位1左拍照失败">
+	</F2011>
+	<F2012 AlarmName="F2012 工位1PGS自动模式切换失败">
+	</F2012>
+	<F2013 AlarmName="F2013 工位1PGS手动模式切换失败">
+	</F2013>
+	<F2014 AlarmName="F2014 工位1开电失败">
+	</F2014>
+	<F2015 AlarmName="F2015 工位1关电失败">
+	</F2015>
+	<F2016 AlarmName="F2016 工位1PJS停止信号">
+	</F2016>
+	<F2017 AlarmName=" ">
+	</F2017>
+	<F2018 AlarmName=" ">
+	</F2018>
+	<F2019 AlarmName=" ">
+	</F2019>
+
+	<F2020 AlarmName=" ">
+	</F2020>
+	<F2021 AlarmName="一工位松针超时30S报警">
+	</F2021>
+	<F2022 AlarmName="二工位松针超时30S报警">
+	</F2022>
+	<F2023 AlarmName="三工位松针超时30S报警">
+	</F2023>
+	<F2024 AlarmName="四工位松针超时30S报警">
+	</F2024>
+	<F2025 AlarmName="五工位松针超时30S报警">
+	</F2025>
+	<F2026 AlarmName="六工位松针超时30S报警">
+	</F2026>
+	<F2027 AlarmName="七工位松针超时30S报警">
+	</F2027>
+	<F2028 AlarmName="八工位松针超时30S报警">
+	</F2028>
+	<F2029 AlarmName=" ">
+	</F2029>
+
+	<F2030 AlarmName=" ">
+	</F2030>
+	<F2031 AlarmName=" ">
+	</F2031>
+	<F2032 AlarmName=" ">
+	</F2032>
+	<F2033 AlarmName=" ">
+	</F2033>
+	<F2034 AlarmName=" ">
+	</F2034>
+	<F2035 AlarmName=" ">
+	</F2035>
+	<F2036 AlarmName=" ">
+	</F2036>
+	<F2037 AlarmName=" ">
+	</F2037>
+	<F2038 AlarmName=" ">
+	</F2038>
+	<F2039 AlarmName=" ">
+	</F2039>
+
+	<F2040 AlarmName=" ">
+	</F2040>
+	<F2041 AlarmName=" ">
+	</F2041>
+	<F2042 AlarmName="  ">
+	</F2042>
+	<F2043 AlarmName=" ">
+	</F2043>
+	<F2044 AlarmName=" ">
+	</F2044>
+	<F2045 AlarmName=" ">
+	</F2045>
+	<F2046 AlarmName=" ">
+	</F2046>
+	<F2047 AlarmName=" ">
+	</F2047>
+	<F2048 AlarmName=" ">
+	</F2048>
+	<F2049 AlarmName=" ">
+	</F2049>
+
+	<F2050 AlarmName=" ">
+	</F2050>
+	<F2051 AlarmName=" ">
+	</F2051>
+	<F2052 AlarmName="  ">
+	</F2052>
+	<F2053 AlarmName=" ">
+	</F2053>
+	<F2054 AlarmName=" ">
+	</F2054>
+	<F2055 AlarmName=" ">
+	</F2055>
+	<F2056 AlarmName=" ">
+	</F2056>
+	<F2057 AlarmName=" ">
+	</F2057>
+	<F2058 AlarmName=" ">
+	</F2058>
+	<F2059 AlarmName=" ">
+	</F2059>
+
+	<F2060 AlarmName=" ">
+	</F2060>
+	<F2061 AlarmName=" ">
+	</F2061>
+	<F2062 AlarmName="  ">
+	</F2062>
+	<F2063 AlarmName=" ">
+	</F2063>
+	<F2064 AlarmName=" ">
+	</F2064>
+	<F2065 AlarmName=" ">
+	</F2065>
+	<F2066 AlarmName=" ">
+	</F2066>
+	<F2067 AlarmName=" ">
+	</F2067>
+	<F2068 AlarmName=" ">
+	</F2068>
+	<F2069 AlarmName=" ">
+	</F2069>
+
+	<F2070 AlarmName=" ">
+	</F2070>
+	<F2071 AlarmName=" ">
+	</F2071>
+	<F2072 AlarmName=" ">
+	</F2072>
+	<F2073 AlarmName=" ">
+	</F2073>
+	<F2074 AlarmName=" ">
+	</F2074>
+	<F2075 AlarmName=" ">
+	</F2075>
+	<F2076 AlarmName=" ">
+	</F2076>
+	<F2077 AlarmName=" ">
+	</F2077>
+	<F2078 AlarmName=" ">
+	</F2078>
+	<F2079 AlarmName=" ">
+	</F2079>
+
+	<F2080 AlarmName=" ">
+	</F2080>
+	<F2081 AlarmName=" ">
+	</F2081>
+	<F2082 AlarmName="  ">
+	</F2082>
+	<F2083 AlarmName=" ">
+	</F2083>
+	<F2084 AlarmName=" ">
+	</F2084>
+	<F2085 AlarmName=" ">
+	</F2085>
+	<F2086 AlarmName=" ">
+	</F2086>
+	<F2087 AlarmName=" ">
+	</F2087>
+	<F2088 AlarmName=" ">
+	</F2088>
+	<F2089 AlarmName=" ">
+	</F2089>
+
+	<F2090 AlarmName=" ">
+	</F2090>
+	<F2091 AlarmName=" ">
+	</F2091>
+	<F2092 AlarmName="  ">
+	</F2092>
+	<F2093 AlarmName=" ">
+	</F2093>
+	<F2094 AlarmName=" ">
+	</F2094>
+	<F2095 AlarmName=" ">
+	</F2095>
+	<F2096 AlarmName=" ">
+	</F2096>
+	<F2097 AlarmName=" ">
+	</F2097>
+	<F2098 AlarmName=" ">
+	</F2098>
+	<F2099 AlarmName=" ">
+	</F2099>
+
+	<F2100 AlarmName="F2100 工位2直线电机防撞感应异常">
+	</F2100>
+	<F2101 AlarmName="F2101 工位2内维修门左异常">
+	</F2101>
+	<F2102 AlarmName="F2102 工位2内维修门右异常">
+	</F2102>
+	<F2103 AlarmName="F2103 工位2X1轴伺服ALM">
+	</F2103>
+	<F2104 AlarmName="F2104 工位2X2轴伺服ALM">
+	</F2104>
+	<F2105 AlarmName="F2105 工位2θ1轴伺服ALM">
+	</F2105>
+	<F2106 AlarmName="F2106 工位2θ2轴伺服ALM">
+	</F2106>
+	<F2107 AlarmName="F2107 工位2吸真空超时">
+	</F2107>
+	<F2108 AlarmName="F2108 工位2破真空超时">
+	</F2108>
+	<F2109 AlarmName="F2109 工位2PC心跳超时">
+	</F2109>
+
+	<F2110 AlarmName="F2110 工位2右拍照失败">
+	</F2110>
+	<F2111 AlarmName="F2111 工位2左拍照失败">
+	</F2111>
+	<F2112 AlarmName="F2112 工位2PGS模式切换失败">
+	</F2112>
+	<F2113 AlarmName="F2113 工位2PGS模式切换失败">
+	</F2113>
+	<F2114 AlarmName="F2114 工位2开电失败">
+	</F2114>
+	<F2115 AlarmName="F2115 工位2关电失败">
+	</F2115>
+	<F2116 AlarmName="F2116 工位2PJS停止信号">
+	</F2116>
+	<F2117 AlarmName=" ">
+	</F2117>
+	<F2118 AlarmName=" ">
+	</F2118>
+	<F2119 AlarmName=" ">
+	</F2119>
+
+	<F2120 AlarmName=" ">
+	</F2120>
+	<F2121 AlarmName=" ">
+	</F2121>
+	<F2122 AlarmName=" ">
+	</F2122>
+	<F2123 AlarmName=" ">
+	</F2123>
+	<F2124 AlarmName=" ">
+	</F2124>
+	<F2125 AlarmName=" ">
+	</F2125>
+	<F2126 AlarmName=" ">
+	</F2126>
+	<F2127 AlarmName=" ">
+	</F2127>
+	<F2128 AlarmName=" ">
+	</F2128>
+	<F2129 AlarmName=" ">
+	</F2129>
+
+	<F2130 AlarmName=" ">
+	</F2130>
+	<F2131 AlarmName=" ">
+	</F2131>
+	<F2132 AlarmName=" ">
+	</F2132>
+	<F2133 AlarmName=" ">
+	</F2133>
+	<F2134 AlarmName=" ">
+	</F2134>
+	<F2135 AlarmName=" ">
+	</F2135>
+	<F2136 AlarmName=" ">
+	</F2136>
+	<F2137 AlarmName=" ">
+	</F2137>
+	<F2138 AlarmName=" ">
+	</F2138>
+	<F2139 AlarmName=" ">
+	</F2139>
+
+	<F2140 AlarmName=" ">
+	</F2140>
+	<F2141 AlarmName=" ">
+	</F2141>
+	<F2142 AlarmName="  ">
+	</F2142>
+	<F2143 AlarmName=" ">
+	</F2143>
+	<F2144 AlarmName=" ">
+	</F2144>
+	<F2145 AlarmName=" ">
+	</F2145>
+	<F2146 AlarmName=" ">
+	</F2146>
+	<F2147 AlarmName=" ">
+	</F2147>
+	<F2148 AlarmName=" ">
+	</F2148>
+	<F2149 AlarmName=" ">
+	</F2149>
+
+	<F2150 AlarmName=" ">
+	</F2150>
+	<F2151 AlarmName=" ">
+	</F2151>
+	<F2152 AlarmName="  ">
+	</F2152>
+	<F2153 AlarmName=" ">
+	</F2153>
+	<F2154 AlarmName=" ">
+	</F2154>
+	<F2155 AlarmName=" ">
+	</F2155>
+	<F2156 AlarmName=" ">
+	</F2156>
+	<F2157 AlarmName=" ">
+	</F2157>
+	<F2158 AlarmName=" ">
+	</F2158>
+	<F2159 AlarmName=" ">
+	</F2159>
+
+	<F2160 AlarmName=" ">
+	</F2160>
+	<F2161 AlarmName=" ">
+	</F2161>
+	<F2162 AlarmName="  ">
+	</F2162>
+	<F2163 AlarmName=" ">
+	</F2163>
+	<F2164 AlarmName=" ">
+	</F2164>
+	<F2165 AlarmName=" ">
+	</F2165>
+	<F2166 AlarmName=" ">
+	</F2166>
+	<F2167 AlarmName=" ">
+	</F2167>
+	<F2168 AlarmName=" ">
+	</F2168>
+	<F2169 AlarmName=" ">
+	</F2169>
+
+	<F2170 AlarmName=" ">
+	</F2170>
+	<F2171 AlarmName=" ">
+	</F2171>
+	<F2172 AlarmName=" ">
+	</F2172>
+	<F2173 AlarmName=" ">
+	</F2173>
+	<F2174 AlarmName=" ">
+	</F2174>
+	<F2175 AlarmName=" ">
+	</F2175>
+	<F2176 AlarmName=" ">
+	</F2176>
+	<F2177 AlarmName=" ">
+	</F2177>
+	<F2178 AlarmName=" ">
+	</F2178>
+	<F2179 AlarmName=" ">
+	</F2179>
+
+	<F2180 AlarmName=" ">
+	</F2180>
+	<F2181 AlarmName=" ">
+	</F2181>
+	<F2182 AlarmName="  ">
+	</F2182>
+	<F2183 AlarmName=" ">
+	</F2183>
+	<F2184 AlarmName=" ">
+	</F2184>
+	<F2185 AlarmName=" ">
+	</F2185>
+	<F2186 AlarmName=" ">
+	</F2186>
+	<F2187 AlarmName=" ">
+	</F2187>
+	<F2188 AlarmName=" ">
+	</F2188>
+	<F2189 AlarmName=" ">
+	</F2189>
+
+	<F2190 AlarmName=" ">
+	</F2190>
+	<F2191 AlarmName=" ">
+	</F2191>
+	<F2192 AlarmName="  ">
+	</F2192>
+	<F2193 AlarmName=" ">
+	</F2193>
+	<F2194 AlarmName=" ">
+	</F2194>
+	<F2195 AlarmName=" ">
+	</F2195>
+	<F2196 AlarmName=" ">
+	</F2196>
+	<F2197 AlarmName=" ">
+	</F2197>
+	<F2198 AlarmName=" ">
+	</F2198>
+	<F2199 AlarmName=" ">
+	</F2199>
+
+	<F2200 AlarmName="F2200 工位3直线电机防撞感应异常">
+	</F2200>
+	<F2201 AlarmName="F2201 工位3内维修门左异常">
+	</F2201>
+	<F2202 AlarmName="F2202 工位3内维修门右异常">
+	</F2202>
+	<F2203 AlarmName="F2203 工位3X1轴伺服ALM">
+	</F2203>
+	<F2204 AlarmName="F2204 工位3X2轴伺服ALM">
+	</F2204>
+	<F2205 AlarmName="F2205 工位3θ1轴伺服ALM">
+	</F2205>
+	<F2206 AlarmName="F2206 工位3θ2轴伺服ALM">
+	</F2206>
+	<F2207 AlarmName="F2207 工位3吸真空超时">
+	</F2207>
+	<F2208 AlarmName="F2208 工位3破真空超时">
+	</F2208>
+	<F2209 AlarmName="F2209 工位3PC心跳超时">
+	</F2209>
+
+	<F2210 AlarmName="F2210 工位3右拍照失败">
+	</F2210>
+	<F2211 AlarmName="F2211 工位3左拍照失败">
+	</F2211>
+	<F2212 AlarmName="F2212 工位3PGS模式切换失败">
+	</F2212>
+	<F2213 AlarmName="F2213 工位3PGS模式切换失败">
+	</F2213>
+	<F2214 AlarmName="F2214 工位3开电失败">
+	</F2214>
+	<F2215 AlarmName="F2215 工位3关电失败">
+	</F2215>
+	<F2216 AlarmName=" ">
+	</F2216>
+	<F2217 AlarmName=" ">
+	</F2217>
+	<F2218 AlarmName=" ">
+	</F2218>
+	<F2219 AlarmName=" ">
+	</F2219>
+
+	<F2220 AlarmName=" ">
+	</F2220>
+	<F2221 AlarmName=" ">
+	</F2221>
+	<F2222 AlarmName=" ">
+	</F2222>
+	<F2223 AlarmName=" ">
+	</F2223>
+	<F2224 AlarmName=" ">
+	</F2224>
+	<F2225 AlarmName=" ">
+	</F2225>
+	<F2226 AlarmName=" ">
+	</F2226>
+	<F2227 AlarmName=" ">
+	</F2227>
+	<F2228 AlarmName=" ">
+	</F2228>
+	<F2229 AlarmName=" ">
+	</F2229>
+
+	<F2230 AlarmName=" ">
+	</F2230>
+	<F2231 AlarmName=" ">
+	</F2231>
+	<F2232 AlarmName=" ">
+	</F2232>
+	<F2233 AlarmName=" ">
+	</F2233>
+	<F2234 AlarmName=" ">
+	</F2234>
+	<F2235 AlarmName=" ">
+	</F2235>
+	<F2236 AlarmName=" ">
+	</F2236>
+	<F2237 AlarmName=" ">
+	</F2237>
+	<F2238 AlarmName=" ">
+	</F2238>
+	<F2239 AlarmName=" ">
+	</F2239>
+
+	<F2240 AlarmName=" ">
+	</F2240>
+	<F2241 AlarmName=" ">
+	</F2241>
+	<F2242 AlarmName="  ">
+	</F2242>
+	<F2243 AlarmName=" ">
+	</F2243>
+	<F2244 AlarmName=" ">
+	</F2244>
+	<F2245 AlarmName=" ">
+	</F2245>
+	<F2246 AlarmName=" ">
+	</F2246>
+	<F2247 AlarmName=" ">
+	</F2247>
+	<F2248 AlarmName=" ">
+	</F2248>
+	<F2249 AlarmName=" ">
+	</F2249>
+
+	<F2250 AlarmName=" ">
+	</F2250>
+	<F2251 AlarmName=" ">
+	</F2251>
+	<F2252 AlarmName="  ">
+	</F2252>
+	<F2253 AlarmName=" ">
+	</F2253>
+	<F2254 AlarmName=" ">
+	</F2254>
+	<F2255 AlarmName=" ">
+	</F2255>
+	<F2256 AlarmName=" ">
+	</F2256>
+	<F2257 AlarmName=" ">
+	</F2257>
+	<F2258 AlarmName=" ">
+	</F2258>
+	<F2259 AlarmName=" ">
+	</F2259>
+
+	<F2260 AlarmName=" ">
+	</F2260>
+	<F2261 AlarmName=" ">
+	</F2261>
+	<F2262 AlarmName="  ">
+	</F2262>
+	<F2263 AlarmName=" ">
+	</F2263>
+	<F2264 AlarmName=" ">
+	</F2264>
+	<F2265 AlarmName=" ">
+	</F2265>
+	<F2266 AlarmName=" ">
+	</F2266>
+	<F2267 AlarmName=" ">
+	</F2267>
+	<F2268 AlarmName=" ">
+	</F2268>
+	<F2269 AlarmName=" ">
+	</F2269>
+
+	<F2270 AlarmName=" ">
+	</F2270>
+	<F2271 AlarmName=" ">
+	</F2271>
+	<F2272 AlarmName=" ">
+	</F2272>
+	<F2273 AlarmName=" ">
+	</F2273>
+	<F2274 AlarmName=" ">
+	</F2274>
+	<F2275 AlarmName=" ">
+	</F2275>
+	<F2276 AlarmName=" ">
+	</F2276>
+	<F2277 AlarmName=" ">
+	</F2277>
+	<F2278 AlarmName=" ">
+	</F2278>
+	<F2279 AlarmName=" ">
+	</F2279>
+
+	<F2280 AlarmName=" ">
+	</F2280>
+	<F2281 AlarmName=" ">
+	</F2281>
+	<F2282 AlarmName="  ">
+	</F2282>
+	<F2283 AlarmName=" ">
+	</F2283>
+	<F2284 AlarmName=" ">
+	</F2284>
+	<F2285 AlarmName=" ">
+	</F2285>
+	<F2286 AlarmName=" ">
+	</F2286>
+	<F2287 AlarmName=" ">
+	</F2287>
+	<F2288 AlarmName=" ">
+	</F2288>
+	<F2289 AlarmName=" ">
+	</F2289>
+
+	<F2290 AlarmName=" ">
+	</F2290>
+	<F2291 AlarmName=" ">
+	</F2291>
+	<F2292 AlarmName="  ">
+	</F2292>
+	<F2293 AlarmName=" ">
+	</F2293>
+	<F2294 AlarmName=" ">
+	</F2294>
+	<F2295 AlarmName=" ">
+	</F2295>
+	<F2296 AlarmName=" ">
+	</F2296>
+	<F2297 AlarmName=" ">
+	</F2297>
+	<F2298 AlarmName=" ">
+	</F2298>
+	<F2299 AlarmName=" ">
+	</F2299>
+
+	<F2300 AlarmName="F2300 工位4直线电机防撞感应异常">
+	</F2300>
+	<F2301 AlarmName="F2301 工位4内维修门左异常">
+	</F2301>
+	<F2302 AlarmName="F2302 工位4内维修门右异常">
+	</F2302>
+	<F2303 AlarmName="F2303 工位4X1轴伺服ALM">
+	</F2303>
+	<F2304 AlarmName="F2304 工位4X2轴伺服ALM">
+	</F2304>
+	<F2305 AlarmName="F2305 工位4θ1轴伺服ALM">
+	</F2305>
+	<F2306 AlarmName="F2306 工位4θ2轴伺服ALM">
+	</F2306>
+	<F2307 AlarmName="F2307 工位4吸真空超时">
+	</F2307>
+	<F2308 AlarmName="F2308 工位4破真空超时">
+	</F2308>
+	<F2309 AlarmName="F2309 工位4PC心跳超时">
+	</F2309>
+
+	<F2310 AlarmName="F2310 工位4右拍照失败">
+	</F2310>
+	<F2311 AlarmName="F2311 工位4左拍照失败">
+	</F2311>
+	<F2312 AlarmName="F2312 工位4PGS模式切换失败">
+	</F2312>
+	<F2313 AlarmName="F2313 工位4PGS模式切换失败">
+	</F2313>
+	<F2314 AlarmName="F2314 工位4开电失败">
+	</F2314>
+	<F2315 AlarmName="F2315 工位4关电失败">
+	</F2315>
+	<F2316 AlarmName=" ">
+	</F2316>
+	<F2317 AlarmName=" ">
+	</F2317>
+	<F2318 AlarmName=" ">
+	</F2318>
+	<F2319 AlarmName=" ">
+	</F2319>
+
+	<F2320 AlarmName=" ">
+	</F2320>
+	<F2321 AlarmName=" ">
+	</F2321>
+	<F2322 AlarmName=" ">
+	</F2322>
+	<F2323 AlarmName=" ">
+	</F2323>
+	<F2324 AlarmName=" ">
+	</F2324>
+	<F2325 AlarmName=" ">
+	</F2325>
+	<F2326 AlarmName=" ">
+	</F2326>
+	<F2327 AlarmName=" ">
+	</F2327>
+	<F2328 AlarmName=" ">
+	</F2328>
+	<F2329 AlarmName=" ">
+	</F2329>
+
+	<F2330 AlarmName=" ">
+	</F2330>
+	<F2331 AlarmName=" ">
+	</F2331>
+	<F2332 AlarmName=" ">
+	</F2332>
+	<F2333 AlarmName=" ">
+	</F2333>
+	<F2334 AlarmName=" ">
+	</F2334>
+	<F2335 AlarmName=" ">
+	</F2335>
+	<F2336 AlarmName=" ">
+	</F2336>
+	<F2337 AlarmName=" ">
+	</F2337>
+	<F2338 AlarmName=" ">
+	</F2338>
+	<F2339 AlarmName=" ">
+	</F2339>
+
+	<F2340 AlarmName=" ">
+	</F2340>
+	<F2341 AlarmName=" ">
+	</F2341>
+	<F2342 AlarmName="  ">
+	</F2342>
+	<F2343 AlarmName=" ">
+	</F2343>
+	<F2344 AlarmName=" ">
+	</F2344>
+	<F2345 AlarmName=" ">
+	</F2345>
+	<F2346 AlarmName=" ">
+	</F2346>
+	<F2347 AlarmName=" ">
+	</F2347>
+	<F2348 AlarmName=" ">
+	</F2348>
+	<F2349 AlarmName=" ">
+	</F2349>
+
+	<F2350 AlarmName=" ">
+	</F2350>
+	<F2351 AlarmName=" ">
+	</F2351>
+	<F2352 AlarmName="  ">
+	</F2352>
+	<F2353 AlarmName=" ">
+	</F2353>
+	<F2354 AlarmName=" ">
+	</F2354>
+	<F2355 AlarmName=" ">
+	</F2355>
+	<F2356 AlarmName=" ">
+	</F2356>
+	<F2357 AlarmName=" ">
+	</F2357>
+	<F2358 AlarmName=" ">
+	</F2358>
+	<F2359 AlarmName=" ">
+	</F2359>
+
+	<F2360 AlarmName=" ">
+	</F2360>
+	<F2361 AlarmName=" ">
+	</F2361>
+	<F2362 AlarmName="  ">
+	</F2362>
+	<F2363 AlarmName=" ">
+	</F2363>
+	<F2364 AlarmName=" ">
+	</F2364>
+	<F2365 AlarmName=" ">
+	</F2365>
+	<F2366 AlarmName=" ">
+	</F2366>
+	<F2367 AlarmName=" ">
+	</F2367>
+	<F2368 AlarmName=" ">
+	</F2368>
+	<F2369 AlarmName=" ">
+	</F2369>
+
+	<F2370 AlarmName=" ">
+	</F2370>
+	<F2371 AlarmName=" ">
+	</F2371>
+	<F2372 AlarmName=" ">
+	</F2372>
+	<F2373 AlarmName=" ">
+	</F2373>
+	<F2374 AlarmName=" ">
+	</F2374>
+	<F2375 AlarmName=" ">
+	</F2375>
+	<F2376 AlarmName=" ">
+	</F2376>
+	<F2377 AlarmName=" ">
+	</F2377>
+	<F2378 AlarmName=" ">
+	</F2378>
+	<F2379 AlarmName=" ">
+	</F2379>
+
+	<F2380 AlarmName=" ">
+	</F2380>
+	<F2381 AlarmName=" ">
+	</F2381>
+	<F2382 AlarmName="  ">
+	</F2382>
+	<F2383 AlarmName=" ">
+	</F2383>
+	<F2384 AlarmName=" ">
+	</F2384>
+	<F2385 AlarmName=" ">
+	</F2385>
+	<F2386 AlarmName=" ">
+	</F2386>
+	<F2387 AlarmName=" ">
+	</F2387>
+	<F2388 AlarmName=" ">
+	</F2388>
+	<F2389 AlarmName=" ">
+	</F2389>
+
+	<F2390 AlarmName=" ">
+	</F2390>
+	<F2391 AlarmName=" ">
+	</F2391>
+	<F2392 AlarmName="  ">
+	</F2392>
+	<F2393 AlarmName=" ">
+	</F2393>
+	<F2394 AlarmName=" ">
+	</F2394>
+	<F2395 AlarmName=" ">
+	</F2395>
+	<F2396 AlarmName=" ">
+	</F2396>
+	<F2397 AlarmName=" ">
+	</F2397>
+	<F2398 AlarmName=" ">
+	</F2398>
+	<F2399 AlarmName=" ">
+	</F2399>
+
+	<F2400 AlarmName="F2400 工位5直线电机防撞感应异常">
+	</F2400>
+	<F2401 AlarmName="F2401 工位5内维修门左异常">
+	</F2401>
+	<F2402 AlarmName="F2402 工位5内维修门右异常">
+	</F2402>
+	<F2403 AlarmName="F2403 工位5X1轴伺服ALM">
+	</F2403>
+	<F2404 AlarmName="F2404 工位5X2轴伺服ALM">
+	</F2404>
+	<F2405 AlarmName="F2405 工位5θ1轴伺服ALM">
+	</F2405>
+	<F2406 AlarmName="F2406 工位5θ2轴伺服ALM">
+	</F2406>
+	<F2407 AlarmName="F2407 工位5吸真空超时">
+	</F2407>
+	<F2408 AlarmName="F2408 工位5破真空超时">
+	</F2408>
+	<F2409 AlarmName="F2409 工位5PC心跳超时">
+	</F2409>
+
+	<F2410 AlarmName="F2410 工位5右拍照失败">
+	</F2410>
+	<F2411 AlarmName="F2411 工位5左拍照失败">
+	</F2411>
+	<F2412 AlarmName="F2412 工位5PGS模式切换失败">
+	</F2412>
+	<F2413 AlarmName="F2413 工位5PGS模式切换失败">
+	</F2413>
+	<F2414 AlarmName="F2414 工位5开电失败">
+	</F2414>
+	<F2415 AlarmName="F2415 工位5关电失败">
+	</F2415>
+	<F2416 AlarmName=" ">
+	</F2416>
+	<F2417 AlarmName=" ">
+	</F2417>
+	<F2418 AlarmName=" ">
+	</F2418>
+	<F2419 AlarmName=" ">
+	</F2419>
+
+	<F2420 AlarmName=" ">
+	</F2420>
+	<F2421 AlarmName=" ">
+	</F2421>
+	<F2422 AlarmName=" ">
+	</F2422>
+	<F2423 AlarmName=" ">
+	</F2423>
+	<F2424 AlarmName=" ">
+	</F2424>
+	<F2425 AlarmName=" ">
+	</F2425>
+	<F2426 AlarmName=" ">
+	</F2426>
+	<F2427 AlarmName=" ">
+	</F2427>
+	<F2428 AlarmName=" ">
+	</F2428>
+	<F2429 AlarmName=" ">
+	</F2429>
+
+	<F2430 AlarmName=" ">
+	</F2430>
+	<F2431 AlarmName=" ">
+	</F2431>
+	<F2432 AlarmName=" ">
+	</F2432>
+	<F2433 AlarmName=" ">
+	</F2433>
+	<F2434 AlarmName=" ">
+	</F2434>
+	<F2435 AlarmName=" ">
+	</F2435>
+	<F2436 AlarmName=" ">
+	</F2436>
+	<F2437 AlarmName=" ">
+	</F2437>
+	<F2438 AlarmName=" ">
+	</F2438>
+	<F2439 AlarmName=" ">
+	</F2439>
+
+	<F2440 AlarmName=" ">
+	</F2440>
+	<F2441 AlarmName=" ">
+	</F2441>
+	<F2442 AlarmName="  ">
+	</F2442>
+	<F2443 AlarmName=" ">
+	</F2443>
+	<F2444 AlarmName=" ">
+	</F2444>
+	<F2445 AlarmName=" ">
+	</F2445>
+	<F2446 AlarmName=" ">
+	</F2446>
+	<F2447 AlarmName=" ">
+	</F2447>
+	<F2448 AlarmName=" ">
+	</F2448>
+	<F2449 AlarmName=" ">
+	</F2449>
+
+	<F2450 AlarmName=" ">
+	</F2450>
+	<F2451 AlarmName=" ">
+	</F2451>
+	<F2452 AlarmName="  ">
+	</F2452>
+	<F2453 AlarmName=" ">
+	</F2453>
+	<F2454 AlarmName=" ">
+	</F2454>
+	<F2455 AlarmName=" ">
+	</F2455>
+	<F2456 AlarmName=" ">
+	</F2456>
+	<F2457 AlarmName=" ">
+	</F2457>
+	<F2458 AlarmName=" ">
+	</F2458>
+	<F2459 AlarmName=" ">
+	</F2459>
+
+	<F2460 AlarmName=" ">
+	</F2460>
+	<F2461 AlarmName=" ">
+	</F2461>
+	<F2462 AlarmName="  ">
+	</F2462>
+	<F2463 AlarmName=" ">
+	</F2463>
+	<F2464 AlarmName=" ">
+	</F2464>
+	<F2465 AlarmName=" ">
+	</F2465>
+	<F2466 AlarmName=" ">
+	</F2466>
+	<F2467 AlarmName=" ">
+	</F2467>
+	<F2468 AlarmName=" ">
+	</F2468>
+	<F2469 AlarmName=" ">
+	</F2469>
+
+	<F2470 AlarmName=" ">
+	</F2470>
+	<F2471 AlarmName=" ">
+	</F2471>
+	<F2472 AlarmName=" ">
+	</F2472>
+	<F2473 AlarmName=" ">
+	</F2473>
+	<F2474 AlarmName=" ">
+	</F2474>
+	<F2475 AlarmName=" ">
+	</F2475>
+	<F2476 AlarmName=" ">
+	</F2476>
+	<F2477 AlarmName=" ">
+	</F2477>
+	<F2478 AlarmName=" ">
+	</F2478>
+	<F2479 AlarmName=" ">
+	</F2479>
+
+	<F2480 AlarmName=" ">
+	</F2480>
+	<F2481 AlarmName=" ">
+	</F2481>
+	<F2482 AlarmName="  ">
+	</F2482>
+	<F2483 AlarmName=" ">
+	</F2483>
+	<F2484 AlarmName=" ">
+	</F2484>
+	<F2485 AlarmName=" ">
+	</F2485>
+	<F2486 AlarmName=" ">
+	</F2486>
+	<F2487 AlarmName=" ">
+	</F2487>
+	<F2488 AlarmName=" ">
+	</F2488>
+	<F2489 AlarmName=" ">
+	</F2489>
+
+	<F2490 AlarmName=" ">
+	</F2490>
+	<F2491 AlarmName=" ">
+	</F2491>
+	<F2492 AlarmName="  ">
+	</F2492>
+	<F2493 AlarmName=" ">
+	</F2493>
+	<F2494 AlarmName=" ">
+	</F2494>
+	<F2495 AlarmName=" ">
+	</F2495>
+	<F2496 AlarmName=" ">
+	</F2496>
+	<F2497 AlarmName=" ">
+	</F2497>
+	<F2498 AlarmName=" ">
+	</F2498>
+	<F2499 AlarmName=" ">
+	</F2499>
+
+	<F2500 AlarmName="F2500 工位6直线电机防撞感应异常">
+	</F2500>
+	<F2501 AlarmName="F2501 工位6内维修门左异常">
+	</F2501>
+	<F2502 AlarmName="F2502 工位6内维修门右异常">
+	</F2502>
+	<F2503 AlarmName="F2503 工位6X1轴伺服ALM">
+	</F2503>
+	<F2504 AlarmName="F2504 工位6X2轴伺服ALM">
+	</F2504>
+	<F2505 AlarmName="F2505 工位6θ1轴伺服ALM">
+	</F2505>
+	<F2506 AlarmName="F2506 工位6θ2轴伺服ALM">
+	</F2506>
+	<F2507 AlarmName="F2507 工位6吸真空超时">
+	</F2507>
+	<F2508 AlarmName="F2508 工位6破真空超时">
+	</F2508>
+	<F2509 AlarmName="F2509 工位6PC心跳超时">
+	</F2509>
+
+	<F2510 AlarmName="F2510 工位6右拍照失败">
+	</F2510>
+	<F2511 AlarmName="F2511 工位6左拍照失败">
+	</F2511>
+	<F2512 AlarmName="F2512 工位6PGS模式切换失败">
+	</F2512>
+	<F2513 AlarmName="F2513 工位6PGS模式切换失败">
+	</F2513>
+	<F2514 AlarmName="F2514 工位6开电失败">
+	</F2514>
+	<F2515 AlarmName="F2515 工位6关电失败">
+	</F2515>
+	<F2516 AlarmName="F2516 M03工位1Z1轴 未到安全位">
+	</F2516>
+	<F2517 AlarmName="F2517 M04工位1Z2轴 未到安全位">
+	</F2517>
+	<F2518 AlarmName="F2518 M07工位1Z1轴 未到安全位">
+	</F2518>
+	<F2519 AlarmName="F2519 M08工位1Z2轴 未到安全位">
+	</F2519>
+
+	<F2520 AlarmName="F2520 M11工位2Z1轴 未在安全位">
+	</F2520>
+	<F2521 AlarmName="F2521 M12工位2Z2轴 未在安全位">
+	</F2521>
+	<F2522 AlarmName=" ">
+	</F2522>
+	<F2523 AlarmName=" ">
+	</F2523>
+	<F2524 AlarmName="F2524 M11工位3Z1轴未在安全位">
+	</F2524>
+	<F2525 AlarmName="F2525 M12工位3Z2轴未在安全位">
+	</F2525>
+	<F2526 AlarmName=" ">
+	</F2526>
+	<F2527 AlarmName=" ">
+	</F2527>
+	<F2528 AlarmName="F2528 M15工位4Z1轴未在安全位">
+	</F2528>
+	<F2529 AlarmName="F2529 M16工位4Z2轴未在安全位">
+	</F2529>
+
+	<F2530 AlarmName=" ">
+	</F2530>
+	<F2531 AlarmName=" ">
+	</F2531>
+	<F2532 AlarmName="F2532 M03 工位1Z1轴未到安全位">
+	</F2532>
+	<F2533 AlarmName="F2533 M04 工位1Z2轴未到安全位">
+	</F2533>
+	<F2534 AlarmName="F2534 M03 工位1Z1轴未到安全位">
+	</F2534>
+	<F2535 AlarmName="F2535 M04 工位1Z2轴未到安全位">
+	</F2535>
+	<F2536 AlarmName="M07工位 2Z1轴未在安全位">
+	</F2536>
+	<F2537 AlarmName="M08工位 2 左Z轴未在安全位">
+	</F2537>
+	<F2538 AlarmName="M07工位 2Z1轴未在安全位">
+	</F2538>
+	<F2539 AlarmName="M08工位 2 左Z轴未在安全位">
+	</F2539>
+
+	<F2540 AlarmName="M11工位 3Z1轴未在安全位">
+	</F2540>
+	<F2541 AlarmName="M12工位 3Z2轴未在安全位">
+	</F2541>
+	<F2542 AlarmName="M11工位 3Z1轴未在安全位">
+	</F2542>
+	<F2543 AlarmName="M12工位 3Z2轴未在安全位">
+	</F2543>
+	<F2544 AlarmName="M15工位 4Z1轴未在安全位">
+	</F2544>
+	<F2545 AlarmName="M16工位 4Z2轴未在安全位">
+	</F2545>
+	<F2546 AlarmName="M15工位 4Z1轴未在安全位">
+	</F2546>
+	<F2547 AlarmName="M16工位 4Z2轴未在安全位">
+	</F2547>
+	<F2548 AlarmName=" ">
+	</F2548>
+	<F2549 AlarmName=" ">
+	</F2549>
+
+	<F2550 AlarmName=" ">
+	</F2550>
+	<F2551 AlarmName=" ">
+	</F2551>
+	<F2552 AlarmName="  ">
+	</F2552>
+	<F2553 AlarmName=" ">
+	</F2553>
+	<F2554 AlarmName=" ">
+	</F2554>
+	<F2555 AlarmName=" ">
+	</F2555>
+	<F2556 AlarmName=" ">
+	</F2556>
+	<F2557 AlarmName=" ">
+	</F2557>
+	<F2558 AlarmName=" ">
+	</F2558>
+	<F2559 AlarmName=" ">
+	</F2559>
+
+	<F2560 AlarmName=" ">
+	</F2560>
+	<F2561 AlarmName=" ">
+	</F2561>
+	<F2562 AlarmName="  ">
+	</F2562>
+	<F2563 AlarmName=" ">
+	</F2563>
+	<F2564 AlarmName=" ">
+	</F2564>
+	<F2565 AlarmName=" ">
+	</F2565>
+	<F2566 AlarmName=" ">
+	</F2566>
+	<F2567 AlarmName=" ">
+	</F2567>
+	<F2568 AlarmName=" ">
+	</F2568>
+	<F2569 AlarmName=" ">
+	</F2569>
+
+	<F2570 AlarmName=" ">
+	</F2570>
+	<F2571 AlarmName=" ">
+	</F2571>
+	<F2572 AlarmName=" ">
+	</F2572>
+	<F2573 AlarmName=" ">
+	</F2573>
+	<F2574 AlarmName=" ">
+	</F2574>
+	<F2575 AlarmName=" ">
+	</F2575>
+	<F2576 AlarmName=" ">
+	</F2576>
+	<F2577 AlarmName=" ">
+	</F2577>
+	<F2578 AlarmName=" ">
+	</F2578>
+	<F2579 AlarmName=" ">
+	</F2579>
+
+	<F2580 AlarmName=" ">
+	</F2580>
+	<F2581 AlarmName=" ">
+	</F2581>
+	<F2582 AlarmName="  ">
+	</F2582>
+	<F2583 AlarmName=" ">
+	</F2583>
+	<F2584 AlarmName=" ">
+	</F2584>
+	<F2585 AlarmName=" ">
+	</F2585>
+	<F2586 AlarmName=" ">
+	</F2586>
+	<F2587 AlarmName=" ">
+	</F2587>
+	<F2588 AlarmName=" ">
+	</F2588>
+	<F2589 AlarmName=" ">
+	</F2589>
+
+	<F2590 AlarmName=" ">
+	</F2590>
+	<F2591 AlarmName=" ">
+	</F2591>
+	<F2592 AlarmName="  ">
+	</F2592>
+	<F2593 AlarmName=" ">
+	</F2593>
+	<F2594 AlarmName=" ">
+	</F2594>
+	<F2595 AlarmName=" ">
+	</F2595>
+	<F2596 AlarmName=" ">
+	</F2596>
+	<F2597 AlarmName=" ">
+	</F2597>
+	<F2598 AlarmName=" ">
+	</F2598>
+	<F2599 AlarmName=" ">
+	</F2599>
+
+	<F2600 AlarmName="F2600 工位7直线电机防撞感应异常">
+	</F2600>
+	<F2601 AlarmName="F2601 工位7内维修门左异常">
+	</F2601>
+	<F2602 AlarmName="F2602 工位7内维修门右异常">
+	</F2602>
+	<F2603 AlarmName="F2603 工位7X1轴伺服ALM">
+	</F2603>
+	<F2604 AlarmName="F2604 工位7X2轴伺服ALM">
+	</F2604>
+	<F2605 AlarmName="F2605 工位7θ1轴伺服ALM">
+	</F2605>
+	<F2606 AlarmName="F2606 工位7θ2轴伺服ALM">
+	</F2606>
+	<F2607 AlarmName="F2607 工位7吸真空超时">
+	</F2607>
+	<F2608 AlarmName="F2608 工位7破真空超时">
+	</F2608>
+	<F2609 AlarmName="F2609 工位7PC心跳超时">
+	</F2609>
+
+	<F2610 AlarmName="F2610 工位7右拍照失败">
+	</F2610>
+	<F2611 AlarmName="F2611 工位7左拍照失败">
+	</F2611>
+	<F2612 AlarmName="F2612 工位7PGS模式切换失败">
+	</F2612>
+	<F2613 AlarmName="F2613 工位7PGS模式切换失败">
+	</F2613>
+	<F2614 AlarmName="F2614 工位7开电失败">
+	</F2614>
+	<F2615 AlarmName="F2615 工位7关电失败">
+	</F2615>
+	<F2616 AlarmName=" ">
+	</F2616>
+	<F2617 AlarmName=" ">
+	</F2617>
+	<F2618 AlarmName=" ">
+	</F2618>
+	<F2619 AlarmName=" ">
+	</F2619>
+
+	<F2620 AlarmName=" ">
+	</F2620>
+	<F2621 AlarmName=" ">
+	</F2621>
+	<F2622 AlarmName=" ">
+	</F2622>
+	<F2623 AlarmName=" ">
+	</F2623>
+	<F2624 AlarmName=" ">
+	</F2624>
+	<F2625 AlarmName=" ">
+	</F2625>
+	<F2626 AlarmName=" ">
+	</F2626>
+	<F2627 AlarmName=" ">
+	</F2627>
+	<F2628 AlarmName=" ">
+	</F2628>
+	<F2629 AlarmName=" ">
+	</F2629>
+
+	<F2630 AlarmName=" ">
+	</F2630>
+	<F2631 AlarmName=" ">
+	</F2631>
+	<F2632 AlarmName=" ">
+	</F2632>
+	<F2633 AlarmName=" ">
+	</F2633>
+	<F2634 AlarmName=" ">
+	</F2634>
+	<F2635 AlarmName=" ">
+	</F2635>
+	<F2636 AlarmName=" ">
+	</F2636>
+	<F2637 AlarmName=" ">
+	</F2637>
+	<F2638 AlarmName=" ">
+	</F2638>
+	<F2639 AlarmName=" ">
+	</F2639>
+
+	<F2640 AlarmName=" ">
+	</F2640>
+	<F2641 AlarmName=" ">
+	</F2641>
+	<F2642 AlarmName="  ">
+	</F2642>
+	<F2643 AlarmName=" ">
+	</F2643>
+	<F2644 AlarmName=" ">
+	</F2644>
+	<F2645 AlarmName=" ">
+	</F2645>
+	<F2646 AlarmName=" ">
+	</F2646>
+	<F2647 AlarmName=" ">
+	</F2647>
+	<F2648 AlarmName=" ">
+	</F2648>
+	<F2649 AlarmName=" ">
+	</F2649>
+
+	<F2650 AlarmName=" ">
+	</F2650>
+	<F2651 AlarmName=" ">
+	</F2651>
+	<F2652 AlarmName="  ">
+	</F2652>
+	<F2653 AlarmName=" ">
+	</F2653>
+	<F2654 AlarmName=" ">
+	</F2654>
+	<F2655 AlarmName=" ">
+	</F2655>
+	<F2656 AlarmName=" ">
+	</F2656>
+	<F2657 AlarmName=" ">
+	</F2657>
+	<F2658 AlarmName=" ">
+	</F2658>
+	<F2659 AlarmName=" ">
+	</F2659>
+
+	<F2660 AlarmName=" ">
+	</F2660>
+	<F2661 AlarmName=" ">
+	</F2661>
+	<F2662 AlarmName="  ">
+	</F2662>
+	<F2663 AlarmName=" ">
+	</F2663>
+	<F2664 AlarmName=" ">
+	</F2664>
+	<F2665 AlarmName=" ">
+	</F2665>
+	<F2666 AlarmName=" ">
+	</F2666>
+	<F2667 AlarmName=" ">
+	</F2667>
+	<F2668 AlarmName=" ">
+	</F2668>
+	<F2669 AlarmName=" ">
+	</F2669>
+
+	<F2670 AlarmName=" ">
+	</F2670>
+	<F2671 AlarmName=" ">
+	</F2671>
+	<F2672 AlarmName=" ">
+	</F2672>
+	<F2673 AlarmName=" ">
+	</F2673>
+	<F2674 AlarmName=" ">
+	</F2674>
+	<F2675 AlarmName=" ">
+	</F2675>
+	<F2676 AlarmName=" ">
+	</F2676>
+	<F2677 AlarmName=" ">
+	</F2677>
+	<F2678 AlarmName=" ">
+	</F2678>
+	<F2679 AlarmName=" ">
+	</F2679>
+
+	<F2680 AlarmName=" ">
+	</F2680>
+	<F2681 AlarmName=" ">
+	</F2681>
+	<F2682 AlarmName="  ">
+	</F2682>
+	<F2683 AlarmName=" ">
+	</F2683>
+	<F2684 AlarmName=" ">
+	</F2684>
+	<F2685 AlarmName=" ">
+	</F2685>
+	<F2686 AlarmName=" ">
+	</F2686>
+	<F2687 AlarmName=" ">
+	</F2687>
+	<F2688 AlarmName=" ">
+	</F2688>
+	<F2689 AlarmName=" ">
+	</F2689>
+
+	<F2690 AlarmName=" ">
+	</F2690>
+	<F2691 AlarmName=" ">
+	</F2691>
+	<F2692 AlarmName="  ">
+	</F2692>
+	<F2693 AlarmName=" ">
+	</F2693>
+	<F2694 AlarmName=" ">
+	</F2694>
+	<F2695 AlarmName=" ">
+	</F2695>
+	<F2696 AlarmName=" ">
+	</F2696>
+	<F2697 AlarmName=" ">
+	</F2697>
+	<F2698 AlarmName=" ">
+	</F2698>
+	<F2699 AlarmName=" ">
+	</F2699>
+
+	<F2700 AlarmName="F2700 工位8直线电机防撞感应异常">
+	</F2700>
+	<F2701 AlarmName="F2701 工位8内维修门左异常">
+	</F2701>
+	<F2702 AlarmName="F2702 工位8内维修门右异常">
+	</F2702>
+	<F2703 AlarmName="F2703 工位8X1轴伺服ALM">
+	</F2703>
+	<F2704 AlarmName="F2704 工位8X2轴伺服ALM">
+	</F2704>
+	<F2705 AlarmName="F2705 工位8θ1轴伺服ALM">
+	</F2705>
+	<F2706 AlarmName="F2706 工位8θ2轴伺服ALM">
+	</F2706>
+	<F2707 AlarmName="F2707 工位8吸真空超时">
+	</F2707>
+	<F2708 AlarmName="F2708 工位8破真空超时">
+	</F2708>
+	<F2709 AlarmName="F2709 工位8PC心跳超时">
+	</F2709>
+
+	<F2710 AlarmName="F2710 工位8右拍照失败">
+	</F2710>
+	<F2711 AlarmName="F2711 工位8左拍照失败">
+	</F2711>
+	<F2712 AlarmName="F2712 工位8PGS模式切换失败">
+	</F2712>
+	<F2713 AlarmName="F2713 工位8PGS模式切换失败">
+	</F2713>
+	<F2714 AlarmName="F2714 工位8开电失败">
+	</F2714>
+	<F2715 AlarmName="F2715 工位8关电失败">
+	</F2715>
+	<F2716 AlarmName=" ">
+	</F2716>
+	<F2717 AlarmName=" ">
+	</F2717>
+	<F2718 AlarmName=" ">
+	</F2718>
+	<F2719 AlarmName=" ">
+	</F2719>
+
+	<F2720 AlarmName=" ">
+	</F2720>
+	<F2721 AlarmName=" ">
+	</F2721>
+	<F2722 AlarmName=" ">
+	</F2722>
+	<F2723 AlarmName=" ">
+	</F2723>
+	<F2724 AlarmName=" ">
+	</F2724>
+	<F2725 AlarmName=" ">
+	</F2725>
+	<F2726 AlarmName=" ">
+	</F2726>
+	<F2727 AlarmName=" ">
+	</F2727>
+	<F2728 AlarmName=" ">
+	</F2728>
+	<F2729 AlarmName=" ">
+	</F2729>
+
+	<F2730 AlarmName=" ">
+	</F2730>
+	<F2731 AlarmName=" ">
+	</F2731>
+	<F2732 AlarmName=" ">
+	</F2732>
+	<F2733 AlarmName=" ">
+	</F2733>
+	<F2734 AlarmName=" ">
+	</F2734>
+	<F2735 AlarmName=" ">
+	</F2735>
+	<F2736 AlarmName=" ">
+	</F2736>
+	<F2737 AlarmName=" ">
+	</F2737>
+	<F2738 AlarmName=" ">
+	</F2738>
+	<F2739 AlarmName=" ">
+	</F2739>
+
+	<F2740 AlarmName=" ">
+	</F2740>
+	<F2741 AlarmName=" ">
+	</F2741>
+	<F2742 AlarmName="  ">
+	</F2742>
+	<F2743 AlarmName=" ">
+	</F2743>
+	<F2744 AlarmName=" ">
+	</F2744>
+	<F2745 AlarmName=" ">
+	</F2745>
+	<F2746 AlarmName=" ">
+	</F2746>
+	<F2747 AlarmName=" ">
+	</F2747>
+	<F2748 AlarmName=" ">
+	</F2748>
+	<F2749 AlarmName=" ">
+	</F2749>
+
+	<F2750 AlarmName=" ">
+	</F2750>
+	<F2751 AlarmName=" ">
+	</F2751>
+	<F2752 AlarmName="  ">
+	</F2752>
+	<F2753 AlarmName=" ">
+	</F2753>
+	<F2754 AlarmName=" ">
+	</F2754>
+	<F2755 AlarmName=" ">
+	</F2755>
+	<F2756 AlarmName=" ">
+	</F2756>
+	<F2757 AlarmName=" ">
+	</F2757>
+	<F2758 AlarmName=" ">
+	</F2758>
+	<F2759 AlarmName=" ">
+	</F2759>
+
+	<F2760 AlarmName=" ">
+	</F2760>
+	<F2761 AlarmName=" ">
+	</F2761>
+	<F2762 AlarmName="  ">
+	</F2762>
+	<F2763 AlarmName=" ">
+	</F2763>
+	<F2764 AlarmName=" ">
+	</F2764>
+	<F2765 AlarmName=" ">
+	</F2765>
+	<F2766 AlarmName=" ">
+	</F2766>
+	<F2767 AlarmName=" ">
+	</F2767>
+	<F2768 AlarmName=" ">
+	</F2768>
+	<F2769 AlarmName=" ">
+	</F2769>
+
+	<F2770 AlarmName=" ">
+	</F2770>
+	<F2771 AlarmName=" ">
+	</F2771>
+	<F2772 AlarmName=" ">
+	</F2772>
+	<F2773 AlarmName=" ">
+	</F2773>
+	<F2774 AlarmName=" ">
+	</F2774>
+	<F2775 AlarmName=" ">
+	</F2775>
+	<F2776 AlarmName=" ">
+	</F2776>
+	<F2777 AlarmName=" ">
+	</F2777>
+	<F2778 AlarmName=" ">
+	</F2778>
+	<F2779 AlarmName=" ">
+	</F2779>
+
+	<F2780 AlarmName=" ">
+	</F2780>
+	<F2781 AlarmName=" ">
+	</F2781>
+	<F2782 AlarmName="  ">
+	</F2782>
+	<F2783 AlarmName=" ">
+	</F2783>
+	<F2784 AlarmName=" ">
+	</F2784>
+	<F2785 AlarmName=" ">
+	</F2785>
+	<F2786 AlarmName=" ">
+	</F2786>
+	<F2787 AlarmName=" ">
+	</F2787>
+	<F2788 AlarmName=" ">
+	</F2788>
+	<F2789 AlarmName=" ">
+	</F2789>
+
+	<F2790 AlarmName=" ">
+	</F2790>
+	<F2791 AlarmName=" ">
+	</F2791>
+	<F2792 AlarmName="  ">
+	</F2792>
+	<F2793 AlarmName=" ">
+	</F2793>
+	<F2794 AlarmName=" ">
+	</F2794>
+	<F2795 AlarmName=" ">
+	</F2795>
+	<F2796 AlarmName=" ">
+	</F2796>
+	<F2797 AlarmName=" ">
+	</F2797>
+	<F2798 AlarmName=" ">
+	</F2798>
+	<F2799 AlarmName=" ">
+	</F2799>
+
+	<F2800 AlarmName="F2800 工位8直线电机防撞感应异常">
+	</F2800>
+	<F2801 AlarmName="F2801 工位8内维修门左异常">
+	</F2801>
+	<F2802 AlarmName="F2802 工位7内维修门右异常">
+	</F2802>
+	<F2803 AlarmName="F2803 工位7X1轴伺服ALM">
+	</F2803>
+	<F2804 AlarmName="F2804 工位7X2轴伺服ALM">
+	</F2804>
+	<F2805 AlarmName="F2805 工位7θ1轴伺服ALM">
+	</F2805>
+	<F2806 AlarmName="F2806 工位7θ2轴伺服ALM">
+	</F2806>
+	<F2807 AlarmName="F2807 工位7吸真空超时">
+	</F2807>
+	<F2808 AlarmName="F2808 工位7破真空超时">
+	</F2808>
+	<F2809 AlarmName="F2809 工位7PC心跳超时">
+	</F2809>
+
+	<F2810 AlarmName="F2810 工位7右拍照失败">
+	</F2810>
+	<F2811 AlarmName="F2811 工位7左拍照失败">
+	</F2811>
+	<F2812 AlarmName="F2812 工位7PGS模式切换失败">
+	</F2812>
+	<F2813 AlarmName=" ">
+	</F2813>
+	<F2814 AlarmName=" ">
+	</F2814>
+	<F2815 AlarmName=" ">
+	</F2815>
+	<F2816 AlarmName=" ">
+	</F2816>
+	<F2817 AlarmName=" ">
+	</F2817>
+	<F2818 AlarmName=" ">
+	</F2818>
+	<F2819 AlarmName=" ">
+	</F2819>
+
+	<F2820 AlarmName="M83工位 5Z1轴未在安全位">
+	</F2820>
+	<F2821 AlarmName="M84工位 5Z2轴未在安全位">
+	</F2821>
+	<F2822 AlarmName=" ">
+	</F2822>
+	<F2823 AlarmName=" ">
+	</F2823>
+	<F2824 AlarmName=" ">
+	</F2824>
+	<F2825 AlarmName=" ">
+	</F2825>
+	<F2826 AlarmName=" ">
+	</F2826>
+	<F2827 AlarmName="M87工位 6Z1轴未在安全位">
+	</F2827>
+	<F2828 AlarmName="M88工位 6Z2轴未在安全位">
+	</F2828>
+	<F2829 AlarmName=" ">
+	</F2829>
+
+	<F2830 AlarmName=" ">
+	</F2830>
+	<F2831 AlarmName=" ">
+	</F2831>
+	<F2832 AlarmName=" ">
+	</F2832>
+	<F2833 AlarmName=" ">
+	</F2833>
+	<F2834 AlarmName=" ">
+	</F2834>
+	<F2835 AlarmName=" ">
+	</F2835>
+	<F2836 AlarmName=" ">
+	</F2836>
+	<F2837 AlarmName=" ">
+	</F2837>
+	<F2838 AlarmName=" ">
+	</F2838>
+	<F2839 AlarmName=" ">
+	</F2839>
+
+	<F2840 AlarmName=" ">
+	</F2840>
+	<F2841 AlarmName=" ">
+	</F2841>
+	<F2842 AlarmName="  ">
+	</F2842>
+	<F2843 AlarmName=" ">
+	</F2843>
+	<F2844 AlarmName=" ">
+	</F2844>
+	<F2845 AlarmName=" ">
+	</F2845>
+	<F2846 AlarmName=" ">
+	</F2846>
+	<F2847 AlarmName=" ">
+	</F2847>
+	<F2848 AlarmName=" ">
+	</F2848>
+	<F2849 AlarmName=" ">
+	</F2849>
+
+	<F2850 AlarmName=" ">
+	</F2850>
+	<F2851 AlarmName=" ">
+	</F2851>
+	<F2852 AlarmName="  ">
+	</F2852>
+	<F2853 AlarmName=" ">
+	</F2853>
+	<F2854 AlarmName=" ">
+	</F2854>
+	<F2855 AlarmName=" ">
+	</F2855>
+	<F2856 AlarmName=" ">
+	</F2856>
+	<F2857 AlarmName=" ">
+	</F2857>
+	<F2858 AlarmName=" ">
+	</F2858>
+	<F2859 AlarmName=" ">
+	</F2859>
+
+	<F2860 AlarmName=" ">
+	</F2860>
+	<F2861 AlarmName=" ">
+	</F2861>
+	<F2862 AlarmName="  ">
+	</F2862>
+	<F2863 AlarmName=" ">
+	</F2863>
+	<F2864 AlarmName=" ">
+	</F2864>
+	<F2865 AlarmName=" ">
+	</F2865>
+	<F2866 AlarmName=" ">
+	</F2866>
+	<F2867 AlarmName=" ">
+	</F2867>
+	<F2868 AlarmName=" ">
+	</F2868>
+	<F2869 AlarmName=" ">
+	</F2869>
+
+	<F2870 AlarmName="M91工位 7Z1轴未在安全位">
+	</F2870>
+	<F2871 AlarmName="M92工位 7Z2轴未在安全位">
+	</F2871>
+	<F2872 AlarmName=" ">
+	</F2872>
+	<F2873 AlarmName=" ">
+	</F2873>
+	<F2874 AlarmName=" ">
+	</F2874>
+	<F2875 AlarmName=" ">
+	</F2875>
+	<F2876 AlarmName=" ">
+	</F2876>
+	<F2877 AlarmName="M95工位 8Z1轴未在安全位">
+	</F2877>
+	<F2878 AlarmName="M96工位8Z2轴未在安全位">
+	</F2878>
+	<F2879 AlarmName=" ">
+	</F2879>
+
+	<F2880 AlarmName=" ">
+	</F2880>
+	<F2881 AlarmName=" ">
+	</F2881>
+	<F2882 AlarmName="  ">
+	</F2882>
+	<F2883 AlarmName=" ">
+	</F2883>
+	<F2884 AlarmName=" ">
+	</F2884>
+	<F2885 AlarmName=" ">
+	</F2885>
+	<F2886 AlarmName=" ">
+	</F2886>
+	<F2887 AlarmName=" ">
+	</F2887>
+	<F2888 AlarmName=" ">
+	</F2888>
+	<F2889 AlarmName=" ">
+	</F2889>
+
+	<F2890 AlarmName=" ">
+	</F2890>
+	<F2891 AlarmName=" ">
+	</F2891>
+	<F2892 AlarmName="  ">
+	</F2892>
+	<F2893 AlarmName=" ">
+	</F2893>
+	<F2894 AlarmName=" ">
+	</F2894>
+	<F2895 AlarmName=" ">
+	</F2895>
+	<F2896 AlarmName=" ">
+	</F2896>
+	<F2897 AlarmName=" ">
+	</F2897>
+	<F2898 AlarmName=" ">
+	</F2898>
+	<F2899 AlarmName=" ">
+	</F2899>
+
+
+	<F2900 AlarmName="F2900 工位9直线电机防撞感应异常">
+	</F2900>
+	<F2901 AlarmName="F2901 工位9内维修门左异常">
+	</F2901>
+	<F2902 AlarmName="F2902 工位9内维修门右异">
+	</F2902>
+	<F2903 AlarmName="F2903 工位9X1轴伺服ALM">
+	</F2903>
+	<F2904 AlarmName="F2904 工位9X2轴伺服ALM">
+	</F2904>
+	<F2905 AlarmName="F2905 工位9θ1轴伺服ALM">
+	</F2905>
+	<F2906 AlarmName="F2906 工位9θ2轴伺服ALM">
+	</F2906>
+	<F2907 AlarmName="F2907 工位9吸真空超时">
+	</F2907>
+	<F2908 AlarmName="F2908 工位9破真空超时">
+	</F2908>
+	<F2909 AlarmName="F2909 工位9PC心跳超时">
+	</F2909>
+
+	<F2910 AlarmName="F2910 工位9右拍照失败">
+	</F2910>
+	<F2911 AlarmName="F2911 工位9左拍照失败">
+	</F2911>
+	<F2912 AlarmName="F2912 工位9PGS模式切换失败">
+	</F2912>
+	<F2913 AlarmName=" ">
+	</F2913>
+	<F2914 AlarmName=" ">
+	</F2914>
+	<F2915 AlarmName=" ">
+	</F2915>
+	<F2916 AlarmName=" ">
+	</F2916>
+	<F2917 AlarmName=" ">
+	</F2917>
+	<F2918 AlarmName=" ">
+	</F2918>
+	<F2919 AlarmName=" ">
+	</F2919>
+
+	<F2920 AlarmName="M83工位 5Z1轴未在安全位">
+	</F2920>
+	<F2921 AlarmName="M84工位 5Z2轴未在安全位">
+	</F2921>
+	<F2922 AlarmName=" ">
+	</F2922>
+	<F2923 AlarmName=" ">
+	</F2923>
+	<F2924 AlarmName=" ">
+	</F2924>
+	<F2925 AlarmName="M83工位 5Z1轴未在安全位">
+	</F2925>
+	<F2926 AlarmName="M84工位 5Z2轴未在安全位">
+	</F2926>
+	<F2927 AlarmName=" ">
+	</F2927>
+	<F2928 AlarmName=" ">
+	</F2928>
+	<F2929 AlarmName=" ">
+	</F2929>
+
+	<F2930 AlarmName=" ">
+	</F2930>
+	<F2931 AlarmName=" ">
+	</F2931>
+	<F2932 AlarmName=" ">
+	</F2932>
+	<F2933 AlarmName=" ">
+	</F2933>
+	<F2934 AlarmName=" ">
+	</F2934>
+	<F2935 AlarmName=" ">
+	</F2935>
+	<F2936 AlarmName=" ">
+	</F2936>
+	<F2937 AlarmName=" ">
+	</F2937>
+	<F2938 AlarmName=" ">
+	</F2938>
+	<F2939 AlarmName=" ">
+	</F2939>
+
+	<F2940 AlarmName=" ">
+	</F2940>
+	<F2941 AlarmName=" ">
+	</F2941>
+	<F2942 AlarmName="  ">
+	</F2942>
+	<F2943 AlarmName=" ">
+	</F2943>
+	<F2944 AlarmName=" ">
+	</F2944>
+	<F2945 AlarmName=" ">
+	</F2945>
+	<F2946 AlarmName=" ">
+	</F2946>
+	<F2947 AlarmName=" ">
+	</F2947>
+	<F2948 AlarmName=" ">
+	</F2948>
+	<F2949 AlarmName=" ">
+	</F2949>
+
+	<F2950 AlarmName=" ">
+	</F2950>
+	<F2951 AlarmName=" ">
+	</F2951>
+	<F2952 AlarmName="  ">
+	</F2952>
+	<F2953 AlarmName=" ">
+	</F2953>
+	<F2954 AlarmName=" ">
+	</F2954>
+	<F2955 AlarmName=" ">
+	</F2955>
+	<F2956 AlarmName=" ">
+	</F2956>
+	<F2957 AlarmName=" ">
+	</F2957>
+	<F2958 AlarmName=" ">
+	</F2958>
+	<F2959 AlarmName=" ">
+	</F2959>
+
+	<F2960 AlarmName=" ">
+	</F2960>
+	<F2961 AlarmName=" ">
+	</F2961>
+	<F2962 AlarmName="  ">
+	</F2962>
+	<F2963 AlarmName=" ">
+	</F2963>
+	<F2964 AlarmName=" ">
+	</F2964>
+	<F2965 AlarmName=" ">
+	</F2965>
+	<F2966 AlarmName=" ">
+	</F2966>
+	<F2967 AlarmName=" ">
+	</F2967>
+	<F2968 AlarmName=" ">
+	</F2968>
+	<F2969 AlarmName=" ">
+	</F2969>
+
+	<F2970 AlarmName=" ">
+	</F2970>
+	<F2971 AlarmName=" ">
+	</F2971>
+	<F2972 AlarmName=" ">
+	</F2972>
+	<F2973 AlarmName=" ">
+	</F2973>
+	<F2974 AlarmName=" ">
+	</F2974>
+	<F2975 AlarmName=" ">
+	</F2975>
+	<F2976 AlarmName=" ">
+	</F2976>
+	<F2977 AlarmName=" ">
+	</F2977>
+	<F2978 AlarmName=" ">
+	</F2978>
+	<F2979 AlarmName=" ">
+	</F2979>
+
+	<F2980 AlarmName=" ">
+	</F2980>
+	<F2981 AlarmName=" ">
+	</F2981>
+	<F2982 AlarmName="  ">
+	</F2982>
+	<F2983 AlarmName=" ">
+	</F2983>
+	<F2984 AlarmName=" ">
+	</F2984>
+	<F2985 AlarmName=" ">
+	</F2985>
+	<F2986 AlarmName=" ">
+	</F2986>
+	<F2987 AlarmName=" ">
+	</F2987>
+	<F2988 AlarmName=" ">
+	</F2988>
+	<F2989 AlarmName=" ">
+	</F2989>
+
+	<F2990 AlarmName=" ">
+	</F2990>
+	<F2991 AlarmName=" ">
+	</F2991>
+	<F2992 AlarmName="  ">
+	</F2992>
+	<F2993 AlarmName=" ">
+	</F2993>
+	<F2994 AlarmName=" ">
+	</F2994>
+	<F2995 AlarmName=" ">
+	</F2995>
+	<F2996 AlarmName=" ">
+	</F2996>
+	<F2997 AlarmName=" ">
+	</F2997>
+	<F2998 AlarmName=" ">
+	</F2998>
+	<F2999 AlarmName=" ">
+	</F2999>
+
+	<F3000 AlarmName=" ">
+	</F3000>
+	<F3001 AlarmName=" ">
+	</F3001>
+	<F3002 AlarmName="  ">
+	</F3002>
+	<F3003 AlarmName="  ">
+	</F3003>
+	<F3004 AlarmName=" ">
+	</F3004>
+	<F3005 AlarmName=" ">
+	</F3005>
+	<F3006 AlarmName=" ">
+	</F3006>
+	<F3007 AlarmName=" ">
+	</F3007>
+	<F3008 AlarmName=" ">
+	</F3008>
+	<F3009 AlarmName=" ">
+	</F3009>
+
+	<F3010 AlarmName=" ">
+	</F3010>
+	<F3011 AlarmName=" ">
+	</F3011>
+	<F3012 AlarmName=" ">
+	</F3012>
+	<F3013 AlarmName=" ">
+	</F3013>
+	<F3014 AlarmName=" ">
+	</F3014>
+	<F3015 AlarmName=" ">
+	</F3015>
+	<F3016 AlarmName=" ">
+	</F3016>
+	<F3017 AlarmName=" ">
+	</F3017>
+	<F3018 AlarmName=" ">
+	</F3018>
+	<F3019 AlarmName=" ">
+	</F3019>
+
+	<F3020 AlarmName="M87工位 6Z1轴未在安全位">
+	</F3020>
+	<F3021 AlarmName="M88工位 6Z2轴未在安全位">
+	</F3021>
+	<F3022 AlarmName=" ">
+	</F3022>
+	<F3023 AlarmName=" ">
+	</F3023>
+	<F3024 AlarmName=" ">
+	</F3024>
+	<F3025 AlarmName="M87工位 6Z1轴未在安全位">
+	</F3025>
+	<F3026 AlarmName="M88工位 6Z2轴未在安全位">
+	</F3026>
+	<F3027 AlarmName=" ">
+	</F3027>
+	<F3028 AlarmName=" ">
+	</F3028>
+	<F3029 AlarmName=" ">
+	</F3029>
+
+	<F3030 AlarmName=" ">
+	</F3030>
+	<F3031 AlarmName=" ">
+	</F3031>
+	<F3032 AlarmName=" ">
+	</F3032>
+	<F3033 AlarmName=" ">
+	</F3033>
+	<F3034 AlarmName=" ">
+	</F3034>
+	<F3035 AlarmName=" ">
+	</F3035>
+	<F3036 AlarmName=" ">
+	</F3036>
+	<F3037 AlarmName=" ">
+	</F3037>
+	<F3038 AlarmName=" ">
+	</F3038>
+	<F3039 AlarmName=" ">
+	</F3039>
+
+	<F3040 AlarmName=" ">
+	</F3040>
+	<F3041 AlarmName=" ">
+	</F3041>
+	<F3042 AlarmName="  ">
+	</F3042>
+	<F3043 AlarmName=" ">
+	</F3043>
+	<F3044 AlarmName=" ">
+	</F3044>
+	<F3045 AlarmName=" ">
+	</F3045>
+	<F3046 AlarmName=" ">
+	</F3046>
+	<F3047 AlarmName=" ">
+	</F3047>
+	<F3048 AlarmName=" ">
+	</F3048>
+	<F3049 AlarmName=" ">
+	</F3049>
+
+	<F3050 AlarmName=" ">
+	</F3050>
+	<F3051 AlarmName=" ">
+	</F3051>
+	<F3052 AlarmName="  ">
+	</F3052>
+	<F3053 AlarmName=" ">
+	</F3053>
+	<F3054 AlarmName=" ">
+	</F3054>
+	<F3055 AlarmName=" ">
+	</F3055>
+	<F3056 AlarmName=" ">
+	</F3056>
+	<F3057 AlarmName=" ">
+	</F3057>
+	<F3058 AlarmName=" ">
+	</F3058>
+	<F3059 AlarmName=" ">
+	</F3059>
+
+	<F3060 AlarmName=" ">
+	</F3060>
+	<F3061 AlarmName=" ">
+	</F3061>
+	<F3062 AlarmName="  ">
+	</F3062>
+	<F3063 AlarmName=" ">
+	</F3063>
+	<F3064 AlarmName=" ">
+	</F3064>
+	<F3065 AlarmName=" ">
+	</F3065>
+	<F3066 AlarmName=" ">
+	</F3066>
+	<F3067 AlarmName=" ">
+	</F3067>
+	<F3068 AlarmName=" ">
+	</F3068>
+	<F3069 AlarmName=" ">
+	</F3069>
+
+	<F3070 AlarmName=" ">
+	</F3070>
+	<F3071 AlarmName=" ">
+	</F3071>
+	<F3072 AlarmName=" ">
+	</F3072>
+	<F3073 AlarmName=" ">
+	</F3073>
+	<F3074 AlarmName=" ">
+	</F3074>
+	<F3075 AlarmName=" ">
+	</F3075>
+	<F3076 AlarmName=" ">
+	</F3076>
+	<F3077 AlarmName=" ">
+	</F3077>
+	<F3078 AlarmName=" ">
+	</F3078>
+	<F3079 AlarmName="M91工位 7Z1轴未在安全位">
+	</F3079>
+
+	<F3080 AlarmName="M92工位 7Z2轴未在安全位">
+	</F3080>
+	<F3081 AlarmName=" ">
+	</F3081>
+	<F3082 AlarmName="  ">
+	</F3082>
+	<F3083 AlarmName=" ">
+	</F3083>
+	<F3084 AlarmName=" ">
+	</F3084>
+	<F3085 AlarmName=" ">
+	</F3085>
+	<F3086 AlarmName=" ">
+	</F3086>
+	<F3087 AlarmName=" ">
+	</F3087>
+	<F3088 AlarmName=" ">
+	</F3088>
+	<F3089 AlarmName=" ">
+	</F3089>
+
+	<F3090 AlarmName=" ">
+	</F3090>
+	<F3091 AlarmName=" ">
+	</F3091>
+	<F3092 AlarmName="  ">
+	</F3092>
+	<F3093 AlarmName=" ">
+	</F3093>
+	<F3094 AlarmName=" ">
+	</F3094>
+	<F3095 AlarmName=" ">
+	</F3095>
+	<F3096 AlarmName=" ">
+	</F3096>
+	<F3097 AlarmName=" ">
+	</F3097>
+	<F3098 AlarmName=" ">
+	</F3098>
+	<F3099 AlarmName=" ">
+	</F3099>
+
+	<F3100 AlarmName=" ">
+	</F3100>
+	<F3101 AlarmName=" ">
+	</F3101>
+	<F3102 AlarmName="  ">
+	</F3102>
+	<F3103 AlarmName="  ">
+	</F3103>
+	<F3104 AlarmName=" ">
+	</F3104>
+	<F3105 AlarmName=" ">
+	</F3105>
+	<F3106 AlarmName=" ">
+	</F3106>
+	<F3107 AlarmName=" ">
+	</F3107>
+	<F3108 AlarmName=" ">
+	</F3108>
+	<F3109 AlarmName=" ">
+	</F3109>
+
+	<F3110 AlarmName=" ">
+	</F3110>
+	<F3111 AlarmName=" ">
+	</F3111>
+	<F3112 AlarmName=" ">
+	</F3112>
+	<F3113 AlarmName=" ">
+	</F3113>
+	<F3114 AlarmName=" ">
+	</F3114>
+	<F3115 AlarmName=" ">
+	</F3115>
+	<F3116 AlarmName=" ">
+	</F3116>
+	<F3117 AlarmName=" ">
+	</F3117>
+	<F3118 AlarmName=" ">
+	</F3118>
+	<F3119 AlarmName=" ">
+	</F3119>
+
+	<F3120 AlarmName=" ">
+	</F3120>
+	<F3121 AlarmName=" ">
+	</F3121>
+	<F3122 AlarmName=" ">
+	</F3122>
+	<F3123 AlarmName=" ">
+	</F3123>
+	<F3124 AlarmName=" ">
+	</F3124>
+	<F3125 AlarmName=" ">
+	</F3125>
+	<F3126 AlarmName=" ">
+	</F3126>
+	<F3127 AlarmName=" ">
+	</F3127>
+	<F3128 AlarmName=" ">
+	</F3128>
+	<F3129 AlarmName=" ">
+	</F3129>
+
+	<F3130 AlarmName=" ">
+	</F3130>
+	<F3131 AlarmName=" ">
+	</F3131>
+	<F3132 AlarmName=" ">
+	</F3132>
+	<F3133 AlarmName=" ">
+	</F3133>
+	<F3134 AlarmName=" ">
+	</F3134>
+	<F3135 AlarmName=" ">
+	</F3135>
+	<F3136 AlarmName=" ">
+	</F3136>
+	<F3137 AlarmName=" ">
+	</F3137>
+	<F3138 AlarmName=" ">
+	</F3138>
+	<F3139 AlarmName=" ">
+	</F3139>
+
+	<F3140 AlarmName=" ">
+	</F3140>
+	<F3141 AlarmName=" ">
+	</F3141>
+	<F3142 AlarmName="  ">
+	</F3142>
+	<F3143 AlarmName=" ">
+	</F3143>
+	<F3144 AlarmName=" ">
+	</F3144>
+	<F3145 AlarmName=" ">
+	</F3145>
+	<F3146 AlarmName=" ">
+	</F3146>
+	<F3147 AlarmName=" ">
+	</F3147>
+	<F3148 AlarmName=" ">
+	</F3148>
+	<F3149 AlarmName=" ">
+	</F3149>
+
+	<F3150 AlarmName=" ">
+	</F3150>
+	<F3151 AlarmName=" ">
+	</F3151>
+	<F3152 AlarmName="  ">
+	</F3152>
+	<F3153 AlarmName=" ">
+	</F3153>
+	<F3154 AlarmName=" ">
+	</F3154>
+	<F3155 AlarmName=" ">
+	</F3155>
+	<F3156 AlarmName=" ">
+	</F3156>
+	<F3157 AlarmName=" ">
+	</F3157>
+	<F3158 AlarmName=" ">
+	</F3158>
+	<F3159 AlarmName=" ">
+	</F3159>
+
+	<F3160 AlarmName=" ">
+	</F3160>
+	<F3161 AlarmName=" ">
+	</F3161>
+	<F3162 AlarmName="  ">
+	</F3162>
+	<F3163 AlarmName=" ">
+	</F3163>
+	<F3164 AlarmName=" ">
+	</F3164>
+	<F3165 AlarmName=" ">
+	</F3165>
+	<F3166 AlarmName=" ">
+	</F3166>
+	<F3167 AlarmName=" ">
+	</F3167>
+	<F3168 AlarmName=" ">
+	</F3168>
+	<F3169 AlarmName=" ">
+	</F3169>
+
+	<F3170 AlarmName=" ">
+	</F3170>
+	<F3171 AlarmName=" ">
+	</F3171>
+	<F3172 AlarmName=" ">
+	</F3172>
+	<F3173 AlarmName=" ">
+	</F3173>
+	<F3174 AlarmName=" ">
+	</F3174>
+	<F3175 AlarmName=" ">
+	</F3175>
+	<F3176 AlarmName=" ">
+	</F3176>
+	<F3177 AlarmName=" ">
+	</F3177>
+	<F3178 AlarmName=" ">
+	</F3178>
+	<F3179 AlarmName=" ">
+	</F3179>
+
+	<F3180 AlarmName=" ">
+	</F3180>
+	<F3181 AlarmName=" ">
+	</F3181>
+	<F3182 AlarmName="  ">
+	</F3182>
+	<F3183 AlarmName=" ">
+	</F3183>
+	<F3184 AlarmName=" ">
+	</F3184>
+	<F3185 AlarmName=" ">
+	</F3185>
+	<F3186 AlarmName=" ">
+	</F3186>
+	<F3187 AlarmName=" ">
+	</F3187>
+	<F3188 AlarmName=" ">
+	</F3188>
+	<F3189 AlarmName=" ">
+	</F3189>
+
+	<F3190 AlarmName=" ">
+	</F3190>
+	<F3191 AlarmName=" ">
+	</F3191>
+	<F3192 AlarmName="  ">
+	</F3192>
+	<F3193 AlarmName=" ">
+	</F3193>
+	<F3194 AlarmName=" ">
+	</F3194>
+	<F3195 AlarmName=" ">
+	</F3195>
+	<F3196 AlarmName=" ">
+	</F3196>
+	<F3197 AlarmName=" ">
+	</F3197>
+	<F3198 AlarmName=" ">
+	</F3198>
+	<F3199 AlarmName=" ">
+	</F3199>
+
+	<F3200 AlarmName=" ">
+	</F3200>
+	<F3201 AlarmName=" ">
+	</F3201>
+	<F3202 AlarmName="  ">
+	</F3202>
+	<F3203 AlarmName="  ">
+	</F3203>
+	<F3204 AlarmName=" ">
+	</F3204>
+	<F3205 AlarmName=" ">
+	</F3205>
+	<F3206 AlarmName=" ">
+	</F3206>
+	<F3207 AlarmName=" ">
+	</F3207>
+	<F3208 AlarmName=" ">
+	</F3208>
+	<F3209 AlarmName=" ">
+	</F3209>
+
+	<F3210 AlarmName=" ">
+	</F3210>
+	<F3211 AlarmName=" ">
+	</F3211>
+	<F3212 AlarmName=" ">
+	</F3212>
+	<F3213 AlarmName=" ">
+	</F3213>
+	<F3214 AlarmName=" ">
+	</F3214>
+	<F3215 AlarmName=" ">
+	</F3215>
+	<F3216 AlarmName=" ">
+	</F3216>
+	<F3217 AlarmName=" ">
+	</F3217>
+	<F3218 AlarmName=" ">
+	</F3218>
+	<F3219 AlarmName=" ">
+	</F3219>
+
+	<F3220 AlarmName=" ">
+	</F3220>
+	<F3221 AlarmName=" ">
+	</F3221>
+	<F3222 AlarmName=" ">
+	</F3222>
+	<F3223 AlarmName=" ">
+	</F3223>
+	<F3224 AlarmName=" ">
+	</F3224>
+	<F3225 AlarmName=" ">
+	</F3225>
+	<F3226 AlarmName=" ">
+	</F3226>
+	<F3227 AlarmName=" ">
+	</F3227>
+	<F3228 AlarmName=" ">
+	</F3228>
+	<F3229 AlarmName=" ">
+	</F3229>
+
+	<F3230 AlarmName=" ">
+	</F3230>
+	<F3231 AlarmName=" ">
+	</F3231>
+	<F3232 AlarmName=" ">
+	</F3232>
+	<F3233 AlarmName=" ">
+	</F3233>
+	<F3234 AlarmName=" ">
+	</F3234>
+	<F3235 AlarmName=" ">
+	</F3235>
+	<F3236 AlarmName=" ">
+	</F3236>
+	<F3237 AlarmName=" ">
+	</F3237>
+	<F3238 AlarmName=" ">
+	</F3238>
+	<F3239 AlarmName=" ">
+	</F3239>
+
+	<F3240 AlarmName=" ">
+	</F3240>
+	<F3241 AlarmName=" ">
+	</F3241>
+	<F3242 AlarmName="  ">
+	</F3242>
+	<F3243 AlarmName=" ">
+	</F3243>
+	<F3244 AlarmName=" ">
+	</F3244>
+	<F3245 AlarmName=" ">
+	</F3245>
+	<F3246 AlarmName=" ">
+	</F3246>
+	<F3247 AlarmName=" ">
+	</F3247>
+	<F3248 AlarmName=" ">
+	</F3248>
+	<F3249 AlarmName=" ">
+	</F3249>
+
+	<F3250 AlarmName=" ">
+	</F3250>
+	<F3251 AlarmName=" ">
+	</F3251>
+	<F3252 AlarmName="  ">
+	</F3252>
+	<F3253 AlarmName=" ">
+	</F3253>
+	<F3254 AlarmName=" ">
+	</F3254>
+	<F3255 AlarmName=" ">
+	</F3255>
+	<F3256 AlarmName=" ">
+	</F3256>
+	<F3257 AlarmName=" ">
+	</F3257>
+	<F3258 AlarmName=" ">
+	</F3258>
+	<F3259 AlarmName=" ">
+	</F3259>
+
+	<F3260 AlarmName=" ">
+	</F3260>
+	<F3261 AlarmName=" ">
+	</F3261>
+	<F3262 AlarmName="  ">
+	</F3262>
+	<F3263 AlarmName=" ">
+	</F3263>
+	<F3264 AlarmName=" ">
+	</F3264>
+	<F3265 AlarmName=" ">
+	</F3265>
+	<F3266 AlarmName=" ">
+	</F3266>
+	<F3267 AlarmName=" ">
+	</F3267>
+	<F3268 AlarmName=" ">
+	</F3268>
+	<F3269 AlarmName=" ">
+	</F3269>
+
+	<F3270 AlarmName=" ">
+	</F3270>
+	<F3271 AlarmName=" ">
+	</F3271>
+	<F3272 AlarmName=" ">
+	</F3272>
+	<F3273 AlarmName=" ">
+	</F3273>
+	<F3274 AlarmName=" ">
+	</F3274>
+	<F3275 AlarmName=" ">
+	</F3275>
+	<F3276 AlarmName=" ">
+	</F3276>
+	<F3277 AlarmName=" ">
+	</F3277>
+	<F3278 AlarmName=" ">
+	</F3278>
+	<F3279 AlarmName=" ">
+	</F3279>
+
+	<F3280 AlarmName=" ">
+	</F3280>
+	<F3281 AlarmName=" ">
+	</F3281>
+	<F3282 AlarmName="  ">
+	</F3282>
+	<F3283 AlarmName=" ">
+	</F3283>
+	<F3284 AlarmName=" ">
+	</F3284>
+	<F3285 AlarmName=" ">
+	</F3285>
+	<F3286 AlarmName=" ">
+	</F3286>
+	<F3287 AlarmName=" ">
+	</F3287>
+	<F3288 AlarmName=" ">
+	</F3288>
+	<F3289 AlarmName=" ">
+	</F3289>
+
+	<F3290 AlarmName=" ">
+	</F3290>
+	<F3291 AlarmName=" ">
+	</F3291>
+	<F3292 AlarmName="  ">
+	</F3292>
+	<F3293 AlarmName=" ">
+	</F3293>
+	<F3294 AlarmName=" ">
+	</F3294>
+	<F3295 AlarmName=" ">
+	</F3295>
+	<F3296 AlarmName=" ">
+	</F3296>
+	<F3297 AlarmName=" ">
+	</F3297>
+	<F3298 AlarmName=" ">
+	</F3298>
+	<F3299 AlarmName=" ">
+	</F3299>
+
+	<F3300 AlarmName=" ">
+	</F3300>
+	<F3301 AlarmName=" ">
+	</F3301>
+	<F3302 AlarmName="  ">
+	</F3302>
+	<F3303 AlarmName="  ">
+	</F3303>
+	<F3304 AlarmName=" ">
+	</F3304>
+	<F3305 AlarmName=" ">
+	</F3305>
+	<F3306 AlarmName=" ">
+	</F3306>
+	<F3307 AlarmName=" ">
+	</F3307>
+	<F3308 AlarmName=" ">
+	</F3308>
+	<F3309 AlarmName=" ">
+	</F3309>
+
+	<F3310 AlarmName="M91工位 7Z1轴未在安全位">
+	</F3310>
+	<F3311 AlarmName=" ">
+	</F3311>
+	<F3312 AlarmName="M92工位 7Z2轴未在安全位">
+	</F3312>
+	<F3313 AlarmName=" ">
+	</F3313>
+	<F3314 AlarmName=" ">
+	</F3314>
+	<F3315 AlarmName=" ">
+	</F3315>
+	<F3316 AlarmName=" ">
+	</F3316>
+	<F3317 AlarmName=" ">
+	</F3317>
+	<F3318 AlarmName=" ">
+	</F3318>
+	<F3319 AlarmName=" ">
+	</F3319>
+
+	<F3320 AlarmName="M96工位8Z2轴未在安全位">
+	</F3320>
+	<F3321 AlarmName=" ">
+	</F3321>
+	<F3322 AlarmName=" ">
+	</F3322>
+	<F3323 AlarmName=" ">
+	</F3323>
+	<F3324 AlarmName="M95工位 8Z1轴未在安全位">
+	</F3324>
+	<F3325 AlarmName="M95工位 8Z1轴未在安全位">
+	</F3325>
+	<F3326 AlarmName="M95工位 8Z1轴未在安全位">
+	</F3326>
+	<F3327 AlarmName=" ">
+	</F3327>
+	<F3328 AlarmName=" ">
+	</F3328>
+	<F3329 AlarmName=" ">
+	</F3329>
+
+	<F3330 AlarmName=" ">
+	</F3330>
+	<F3331 AlarmName=" ">
+	</F3331>
+	<F3332 AlarmName=" ">
+	</F3332>
+	<F3333 AlarmName=" ">
+	</F3333>
+	<F3334 AlarmName=" ">
+	</F3334>
+	<F3335 AlarmName=" ">
+	</F3335>
+	<F3336 AlarmName=" ">
+	</F3336>
+	<F3337 AlarmName=" ">
+	</F3337>
+	<F3338 AlarmName=" ">
+	</F3338>
+	<F3339 AlarmName=" ">
+	</F3339>
+
+	<F3340 AlarmName=" ">
+	</F3340>
+	<F3341 AlarmName=" ">
+	</F3341>
+	<F3342 AlarmName="  ">
+	</F3342>
+	<F3343 AlarmName=" ">
+	</F3343>
+	<F3344 AlarmName=" ">
+	</F3344>
+	<F3345 AlarmName=" ">
+	</F3345>
+	<F3346 AlarmName=" ">
+	</F3346>
+	<F3347 AlarmName=" ">
+	</F3347>
+	<F3348 AlarmName=" ">
+	</F3348>
+	<F3349 AlarmName=" ">
+	</F3349>
+
+	<F3350 AlarmName=" ">
+	</F3350>
+	<F3351 AlarmName=" ">
+	</F3351>
+	<F3352 AlarmName="  ">
+	</F3352>
+	<F3353 AlarmName=" ">
+	</F3353>
+	<F3354 AlarmName=" ">
+	</F3354>
+	<F3355 AlarmName=" ">
+	</F3355>
+	<F3356 AlarmName=" ">
+	</F3356>
+	<F3357 AlarmName=" ">
+	</F3357>
+	<F3358 AlarmName=" ">
+	</F3358>
+	<F3359 AlarmName=" ">
+	</F3359>
+
+	<F3360 AlarmName=" ">
+	</F3360>
+	<F3361 AlarmName=" ">
+	</F3361>
+	<F3362 AlarmName="  ">
+	</F3362>
+	<F3363 AlarmName=" ">
+	</F3363>
+	<F3364 AlarmName=" ">
+	</F3364>
+	<F3365 AlarmName=" ">
+	</F3365>
+	<F3366 AlarmName=" ">
+	</F3366>
+	<F3367 AlarmName=" ">
+	</F3367>
+	<F3368 AlarmName=" ">
+	</F3368>
+	<F3369 AlarmName=" ">
+	</F3369>
+
+	<F3370 AlarmName=" ">
+	</F3370>
+	<F3371 AlarmName=" ">
+	</F3371>
+	<F3372 AlarmName=" ">
+	</F3372>
+	<F3373 AlarmName=" ">
+	</F3373>
+	<F3374 AlarmName=" ">
+	</F3374>
+	<F3375 AlarmName=" ">
+	</F3375>
+	<F3376 AlarmName=" ">
+	</F3376>
+	<F3377 AlarmName=" ">
+	</F3377>
+	<F3378 AlarmName=" ">
+	</F3378>
+	<F3379 AlarmName=" ">
+	</F3379>
+
+	<F3380 AlarmName=" ">
+	</F3380>
+	<F3381 AlarmName=" ">
+	</F3381>
+	<F3382 AlarmName="  ">
+	</F3382>
+	<F3383 AlarmName=" ">
+	</F3383>
+	<F3384 AlarmName=" ">
+	</F3384>
+	<F3385 AlarmName=" ">
+	</F3385>
+	<F3386 AlarmName=" ">
+	</F3386>
+	<F3387 AlarmName=" ">
+	</F3387>
+	<F3388 AlarmName=" ">
+	</F3388>
+	<F3389 AlarmName=" ">
+	</F3389>
+
+	<F3390 AlarmName=" ">
+	</F3390>
+	<F3391 AlarmName=" ">
+	</F3391>
+	<F3392 AlarmName="  ">
+	</F3392>
+	<F3393 AlarmName=" ">
+	</F3393>
+	<F3394 AlarmName=" ">
+	</F3394>
+	<F3395 AlarmName=" ">
+	</F3395>
+	<F3396 AlarmName=" ">
+	</F3396>
+	<F3397 AlarmName=" ">
+	</F3397>
+	<F3398 AlarmName=" ">
+	</F3398>
+	<F3399 AlarmName=" ">
+	</F3399>
+
+	<F3400 AlarmName=" ">
+	</F3400>
+	<F3401 AlarmName=" ">
+	</F3401>
+	<F3402 AlarmName="  ">
+	</F3402>
+	<F3403 AlarmName="  ">
+	</F3403>
+	<F3404 AlarmName=" ">
+	</F3404>
+	<F3405 AlarmName=" ">
+	</F3405>
+	<F3406 AlarmName=" ">
+	</F3406>
+	<F3407 AlarmName=" ">
+	</F3407>
+	<F3408 AlarmName=" ">
+	</F3408>
+	<F3409 AlarmName=" ">
+	</F3409>
+
+	<F3410 AlarmName=" ">
+	</F3410>
+	<F3411 AlarmName=" ">
+	</F3411>
+	<F3412 AlarmName=" ">
+	</F3412>
+	<F3413 AlarmName=" ">
+	</F3413>
+	<F3414 AlarmName=" ">
+	</F3414>
+	<F3415 AlarmName=" ">
+	</F3415>
+	<F3416 AlarmName=" ">
+	</F3416>
+	<F3417 AlarmName=" ">
+	</F3417>
+	<F3418 AlarmName=" ">
+	</F3418>
+	<F3419 AlarmName=" ">
+	</F3419>
+
+	<F3420 AlarmName=" ">
+	</F3420>
+	<F3421 AlarmName=" ">
+	</F3421>
+	<F3422 AlarmName=" ">
+	</F3422>
+	<F3423 AlarmName=" ">
+	</F3423>
+	<F3424 AlarmName=" ">
+	</F3424>
+	<F3425 AlarmName=" ">
+	</F3425>
+	<F3426 AlarmName=" ">
+	</F3426>
+	<F3427 AlarmName=" ">
+	</F3427>
+	<F3428 AlarmName=" ">
+	</F3428>
+	<F3429 AlarmName=" ">
+	</F3429>
+
+	<F3430 AlarmName=" ">
+	</F3430>
+	<F3431 AlarmName=" ">
+	</F3431>
+	<F3432 AlarmName=" ">
+	</F3432>
+	<F3433 AlarmName=" ">
+	</F3433>
+	<F3434 AlarmName=" ">
+	</F3434>
+	<F3435 AlarmName=" ">
+	</F3435>
+	<F3436 AlarmName=" ">
+	</F3436>
+	<F3437 AlarmName=" ">
+	</F3437>
+	<F3438 AlarmName=" ">
+	</F3438>
+	<F3439 AlarmName=" ">
+	</F3439>
+
+	<F3440 AlarmName=" ">
+	</F3440>
+	<F3441 AlarmName=" ">
+	</F3441>
+	<F3442 AlarmName="  ">
+	</F3442>
+	<F3443 AlarmName=" ">
+	</F3443>
+	<F3444 AlarmName=" ">
+	</F3444>
+	<F3445 AlarmName=" ">
+	</F3445>
+	<F3446 AlarmName=" ">
+	</F3446>
+	<F3447 AlarmName=" ">
+	</F3447>
+	<F3448 AlarmName=" ">
+	</F3448>
+	<F3449 AlarmName=" ">
+	</F3449>
+
+	<F3450 AlarmName=" ">
+	</F3450>
+	<F3451 AlarmName=" ">
+	</F3451>
+	<F3452 AlarmName="  ">
+	</F3452>
+	<F3453 AlarmName=" ">
+	</F3453>
+	<F3454 AlarmName=" ">
+	</F3454>
+	<F3455 AlarmName=" ">
+	</F3455>
+	<F3456 AlarmName=" ">
+	</F3456>
+	<F3457 AlarmName=" ">
+	</F3457>
+	<F3458 AlarmName=" ">
+	</F3458>
+	<F3459 AlarmName=" ">
+	</F3459>
+
+	<F3460 AlarmName=" ">
+	</F3460>
+	<F3461 AlarmName=" ">
+	</F3461>
+	<F3462 AlarmName="  ">
+	</F3462>
+	<F3463 AlarmName=" ">
+	</F3463>
+	<F3464 AlarmName=" ">
+	</F3464>
+	<F3465 AlarmName=" ">
+	</F3465>
+	<F3466 AlarmName=" ">
+	</F3466>
+	<F3467 AlarmName=" ">
+	</F3467>
+	<F3468 AlarmName=" ">
+	</F3468>
+	<F3469 AlarmName=" ">
+	</F3469>
+
+	<F3470 AlarmName=" ">
+	</F3470>
+	<F3471 AlarmName=" ">
+	</F3471>
+	<F3472 AlarmName=" ">
+	</F3472>
+	<F3473 AlarmName=" ">
+	</F3473>
+	<F3474 AlarmName=" ">
+	</F3474>
+	<F3475 AlarmName=" ">
+	</F3475>
+	<F3476 AlarmName=" ">
+	</F3476>
+	<F3477 AlarmName=" ">
+	</F3477>
+	<F3478 AlarmName=" ">
+	</F3478>
+	<F3479 AlarmName=" ">
+	</F3479>
+
+	<F3480 AlarmName=" ">
+	</F3480>
+	<F3481 AlarmName=" ">
+	</F3481>
+	<F3482 AlarmName="  ">
+	</F3482>
+	<F3483 AlarmName=" ">
+	</F3483>
+	<F3484 AlarmName=" ">
+	</F3484>
+	<F3485 AlarmName=" ">
+	</F3485>
+	<F3486 AlarmName=" ">
+	</F3486>
+	<F3487 AlarmName=" ">
+	</F3487>
+	<F3488 AlarmName=" ">
+	</F3488>
+	<F3489 AlarmName=" ">
+	</F3489>
+
+	<F3490 AlarmName=" ">
+	</F3490>
+	<F3491 AlarmName=" ">
+	</F3491>
+	<F3492 AlarmName="  ">
+	</F3492>
+	<F3493 AlarmName=" ">
+	</F3493>
+	<F3494 AlarmName=" ">
+	</F3494>
+	<F3495 AlarmName=" ">
+	</F3495>
+	<F3496 AlarmName=" ">
+	</F3496>
+	<F3497 AlarmName=" ">
+	</F3497>
+	<F3498 AlarmName=" ">
+	</F3498>
+	<F3499 AlarmName=" ">
+	</F3499>
+
+	<F3500 AlarmName="工位1光栅报警信号异常">
+	</F3500>
+	<F3501 AlarmName="工位2光栅报警信号异常">
+	</F3501>
+	<F3502 AlarmName="工位3光栅报警信号异常">
+	</F3502>
+	<F3503 AlarmName="工位4光栅报警信号异常">
+	</F3503>
+	<F3504 AlarmName="工位5光栅报警信号异常">
+	</F3504>
+	<F3505 AlarmName="工位6光栅报警信号异常">
+	</F3505>
+	<F3506 AlarmName="工位7光栅报警信号异常">
+	</F3506>
+	<F3507 AlarmName="工位8光栅报警信号异常">
+	</F3507>
+	<F3508 AlarmName="工位1二次gammaNG">
+	</F3508>
+	<F3509 AlarmName="工位2二次gammaNG">
+	</F3509>
+
+	<F3510 AlarmName="工位3二次gammaNG">
+	</F3510>
+	<F3511 AlarmName="工位4二次gammaNG">
+	</F3511>
+	<F3512 AlarmName="工位5二次gammaNG">
+	</F3512>
+	<F3513 AlarmName="工位6二次gammaNG">
+	</F3513>
+	<F3514 AlarmName="工位7二次gammaNG">
+	</F3514>
+	<F3515 AlarmName="工位8二次gammaNG">
+	</F3515>
+	<F3516 AlarmName="工位9扎针NG，请人员手动处理">
+	</F3516>
+	<F3517 AlarmName="工位10扎针NG，请人员手动处理">
+	</F3517>
+	<F3518 AlarmName="工位9光栅异常">
+	</F3518>
+	<F3519 AlarmName="工位10光栅异常">
+	</F3519>
+
+	<F3520 AlarmName=" ">
+	</F3520>
+	<F3521 AlarmName=" ">
+	</F3521>
+	<F3522 AlarmName=" ">
+	</F3522>
+	<F3523 AlarmName=" ">
+	</F3523>
+	<F3524 AlarmName=" ">
+	</F3524>
+	<F3525 AlarmName=" ">
+	</F3525>
+	<F3526 AlarmName=" ">
+	</F3526>
+	<F3527 AlarmName=" ">
+	</F3527>
+	<F3528 AlarmName=" ">
+	</F3528>
+	<F3529 AlarmName=" ">
+	</F3529>
+
+	<F3530 AlarmName=" ">
+	</F3530>
+	<F3531 AlarmName=" ">
+	</F3531>
+	<F3532 AlarmName=" ">
+	</F3532>
+	<F3533 AlarmName=" ">
+	</F3533>
+	<F3534 AlarmName=" ">
+	</F3534>
+	<F3535 AlarmName=" ">
+	</F3535>
+	<F3536 AlarmName=" ">
+	</F3536>
+	<F3537 AlarmName=" ">
+	</F3537>
+	<F3538 AlarmName=" ">
+	</F3538>
+	<F3539 AlarmName=" ">
+	</F3539>
+
+	<F3540 AlarmName=" ">
+	</F3540>
+	<F3541 AlarmName=" ">
+	</F3541>
+	<F3542 AlarmName="  ">
+	</F3542>
+	<F3543 AlarmName=" ">
+	</F3543>
+	<F3544 AlarmName=" ">
+	</F3544>
+	<F3545 AlarmName=" ">
+	</F3545>
+	<F3546 AlarmName=" ">
+	</F3546>
+	<F3547 AlarmName=" ">
+	</F3547>
+	<F3548 AlarmName=" ">
+	</F3548>
+	<F3549 AlarmName=" ">
+	</F3549>
+
+	<F3550 AlarmName=" ">
+	</F3550>
+	<F3551 AlarmName=" ">
+	</F3551>
+	<F3552 AlarmName="  ">
+	</F3552>
+	<F3553 AlarmName=" ">
+	</F3553>
+	<F3554 AlarmName=" ">
+	</F3554>
+	<F3555 AlarmName=" ">
+	</F3555>
+	<F3556 AlarmName=" ">
+	</F3556>
+	<F3557 AlarmName=" ">
+	</F3557>
+	<F3558 AlarmName=" ">
+	</F3558>
+	<F3559 AlarmName=" ">
+	</F3559>
+
+	<F3560 AlarmName=" ">
+	</F3560>
+	<F3561 AlarmName=" ">
+	</F3561>
+	<F3562 AlarmName="  ">
+	</F3562>
+	<F3563 AlarmName=" ">
+	</F3563>
+	<F3564 AlarmName=" ">
+	</F3564>
+	<F3565 AlarmName=" ">
+	</F3565>
+	<F3566 AlarmName=" ">
+	</F3566>
+	<F3567 AlarmName=" ">
+	</F3567>
+	<F3568 AlarmName=" ">
+	</F3568>
+	<F3569 AlarmName=" ">
+	</F3569>
+
+	<F3570 AlarmName=" ">
+	</F3570>
+	<F3571 AlarmName=" ">
+	</F3571>
+	<F3572 AlarmName=" ">
+	</F3572>
+	<F3573 AlarmName=" ">
+	</F3573>
+	<F3574 AlarmName=" ">
+	</F3574>
+	<F3575 AlarmName=" ">
+	</F3575>
+	<F3576 AlarmName=" ">
+	</F3576>
+	<F3577 AlarmName=" ">
+	</F3577>
+	<F3578 AlarmName=" ">
+	</F3578>
+	<F3579 AlarmName=" ">
+	</F3579>
+
+	<F3580 AlarmName=" ">
+	</F3580>
+	<F3581 AlarmName=" ">
+	</F3581>
+	<F3582 AlarmName="  ">
+	</F3582>
+	<F3583 AlarmName=" ">
+	</F3583>
+	<F3584 AlarmName=" ">
+	</F3584>
+	<F3585 AlarmName=" ">
+	</F3585>
+	<F3586 AlarmName=" ">
+	</F3586>
+	<F3587 AlarmName=" ">
+	</F3587>
+	<F3588 AlarmName=" ">
+	</F3588>
+	<F3589 AlarmName=" ">
+	</F3589>
+
+	<F3590 AlarmName=" ">
+	</F3590>
+	<F3591 AlarmName=" ">
+	</F3591>
+	<F3592 AlarmName="  ">
+	</F3592>
+	<F3593 AlarmName=" ">
+	</F3593>
+	<F3594 AlarmName=" ">
+	</F3594>
+	<F3595 AlarmName=" ">
+	</F3595>
+	<F3596 AlarmName=" ">
+	</F3596>
+	<F3597 AlarmName=" ">
+	</F3597>
+	<F3598 AlarmName=" ">
+	</F3598>
+	<F3599 AlarmName=" ">
+	</F3599>
+
+	<F3600 AlarmName=" ">
+	</F3600>
+	<F3601 AlarmName=" ">
+	</F3601>
+	<F3602 AlarmName="  ">
+	</F3602>
+	<F3603 AlarmName="  ">
+	</F3603>
+	<F3604 AlarmName=" ">
+	</F3604>
+	<F3605 AlarmName=" ">
+	</F3605>
+	<F3606 AlarmName=" ">
+	</F3606>
+	<F3607 AlarmName=" ">
+	</F3607>
+	<F3608 AlarmName=" ">
+	</F3608>
+	<F3609 AlarmName=" ">
+	</F3609>
+
+	<F3610 AlarmName=" ">
+	</F3610>
+	<F3611 AlarmName=" ">
+	</F3611>
+	<F3612 AlarmName=" ">
+	</F3612>
+	<F3613 AlarmName=" ">
+	</F3613>
+	<F3614 AlarmName=" ">
+	</F3614>
+	<F3615 AlarmName=" ">
+	</F3615>
+	<F3616 AlarmName=" ">
+	</F3616>
+	<F3617 AlarmName=" ">
+	</F3617>
+	<F3618 AlarmName=" ">
+	</F3618>
+	<F3619 AlarmName=" ">
+	</F3619>
+
+	<F3620 AlarmName=" ">
+	</F3620>
+	<F3621 AlarmName=" ">
+	</F3621>
+	<F3622 AlarmName=" ">
+	</F3622>
+	<F3623 AlarmName=" ">
+	</F3623>
+	<F3624 AlarmName=" ">
+	</F3624>
+	<F3625 AlarmName=" ">
+	</F3625>
+	<F3626 AlarmName=" ">
+	</F3626>
+	<F3627 AlarmName=" ">
+	</F3627>
+	<F3628 AlarmName=" ">
+	</F3628>
+	<F3629 AlarmName=" ">
+	</F3629>
+
+	<F3630 AlarmName=" ">
+	</F3630>
+	<F3631 AlarmName=" ">
+	</F3631>
+	<F3632 AlarmName=" ">
+	</F3632>
+	<F3633 AlarmName=" ">
+	</F3633>
+	<F3634 AlarmName=" ">
+	</F3634>
+	<F3635 AlarmName=" ">
+	</F3635>
+	<F3636 AlarmName=" ">
+	</F3636>
+	<F3637 AlarmName=" ">
+	</F3637>
+	<F3638 AlarmName=" ">
+	</F3638>
+	<F3639 AlarmName=" ">
+	</F3639>
+
+	<F3640 AlarmName=" ">
+	</F3640>
+	<F3641 AlarmName=" ">
+	</F3641>
+	<F3642 AlarmName="  ">
+	</F3642>
+	<F3643 AlarmName=" ">
+	</F3643>
+	<F3644 AlarmName=" ">
+	</F3644>
+	<F3645 AlarmName=" ">
+	</F3645>
+	<F3646 AlarmName=" ">
+	</F3646>
+	<F3647 AlarmName=" ">
+	</F3647>
+	<F3648 AlarmName=" ">
+	</F3648>
+	<F3649 AlarmName=" ">
+	</F3649>
+
+	<F3650 AlarmName=" ">
+	</F3650>
+	<F3651 AlarmName=" ">
+	</F3651>
+	<F3652 AlarmName="  ">
+	</F3652>
+	<F3653 AlarmName=" ">
+	</F3653>
+	<F3654 AlarmName=" ">
+	</F3654>
+	<F3655 AlarmName=" ">
+	</F3655>
+	<F3656 AlarmName=" ">
+	</F3656>
+	<F3657 AlarmName=" ">
+	</F3657>
+	<F3658 AlarmName=" ">
+	</F3658>
+	<F3659 AlarmName=" ">
+	</F3659>
+
+	<F3660 AlarmName=" ">
+	</F3660>
+	<F3661 AlarmName=" ">
+	</F3661>
+	<F3662 AlarmName="  ">
+	</F3662>
+	<F3663 AlarmName=" ">
+	</F3663>
+	<F3664 AlarmName=" ">
+	</F3664>
+	<F3665 AlarmName=" ">
+	</F3665>
+	<F3666 AlarmName=" ">
+	</F3666>
+	<F3667 AlarmName=" ">
+	</F3667>
+	<F3668 AlarmName=" ">
+	</F3668>
+	<F3669 AlarmName=" ">
+	</F3669>
+
+	<F3670 AlarmName=" ">
+	</F3670>
+	<F3671 AlarmName=" ">
+	</F3671>
+	<F3672 AlarmName=" ">
+	</F3672>
+	<F3673 AlarmName=" ">
+	</F3673>
+	<F3674 AlarmName=" ">
+	</F3674>
+	<F3675 AlarmName=" ">
+	</F3675>
+	<F3676 AlarmName=" ">
+	</F3676>
+	<F3677 AlarmName=" ">
+	</F3677>
+	<F3678 AlarmName=" ">
+	</F3678>
+	<F3679 AlarmName=" ">
+	</F3679>
+
+	<F3680 AlarmName=" ">
+	</F3680>
+	<F3681 AlarmName=" ">
+	</F3681>
+	<F3682 AlarmName="  ">
+	</F3682>
+	<F3683 AlarmName=" ">
+	</F3683>
+	<F3684 AlarmName=" ">
+	</F3684>
+	<F3685 AlarmName=" ">
+	</F3685>
+	<F3686 AlarmName=" ">
+	</F3686>
+	<F3687 AlarmName=" ">
+	</F3687>
+	<F3688 AlarmName=" ">
+	</F3688>
+	<F3689 AlarmName=" ">
+	</F3689>
+
+	<F3690 AlarmName=" ">
+	</F3690>
+	<F3691 AlarmName=" ">
+	</F3691>
+	<F3692 AlarmName="  ">
+	</F3692>
+	<F3693 AlarmName=" ">
+	</F3693>
+	<F3694 AlarmName=" ">
+	</F3694>
+	<F3695 AlarmName=" ">
+	</F3695>
+	<F3696 AlarmName=" ">
+	</F3696>
+	<F3697 AlarmName=" ">
+	</F3697>
+	<F3698 AlarmName=" ">
+	</F3698>
+	<F3699 AlarmName=" ">
+	</F3699>
+
+	<F3700 AlarmName=" ">
+	</F3700>
+	<F3701 AlarmName=" ">
+	</F3701>
+	<F3702 AlarmName="  ">
+	</F3702>
+	<F3703 AlarmName="  ">
+	</F3703>
+	<F3704 AlarmName=" ">
+	</F3704>
+	<F3705 AlarmName=" ">
+	</F3705>
+	<F3706 AlarmName=" ">
+	</F3706>
+	<F3707 AlarmName=" ">
+	</F3707>
+	<F3708 AlarmName=" ">
+	</F3708>
+	<F3709 AlarmName=" ">
+	</F3709>
+
+	<F3710 AlarmName=" ">
+	</F3710>
+	<F3711 AlarmName=" ">
+	</F3711>
+	<F3712 AlarmName=" ">
+	</F3712>
+	<F3713 AlarmName=" ">
+	</F3713>
+	<F3714 AlarmName=" ">
+	</F3714>
+	<F3715 AlarmName=" ">
+	</F3715>
+	<F3716 AlarmName=" ">
+	</F3716>
+	<F3717 AlarmName=" ">
+	</F3717>
+	<F3718 AlarmName=" ">
+	</F3718>
+	<F3719 AlarmName=" ">
+	</F3719>
+
+	<F3720 AlarmName=" ">
+	</F3720>
+	<F3721 AlarmName=" ">
+	</F3721>
+	<F3722 AlarmName=" ">
+	</F3722>
+	<F3723 AlarmName=" ">
+	</F3723>
+	<F3724 AlarmName=" ">
+	</F3724>
+	<F3725 AlarmName=" ">
+	</F3725>
+	<F3726 AlarmName=" ">
+	</F3726>
+	<F3727 AlarmName=" ">
+	</F3727>
+	<F3728 AlarmName=" ">
+	</F3728>
+	<F3729 AlarmName=" ">
+	</F3729>
+
+	<F3730 AlarmName=" ">
+	</F3730>
+	<F3731 AlarmName=" ">
+	</F3731>
+	<F3732 AlarmName=" ">
+	</F3732>
+	<F3733 AlarmName=" ">
+	</F3733>
+	<F3734 AlarmName=" ">
+	</F3734>
+	<F3735 AlarmName=" ">
+	</F3735>
+	<F3736 AlarmName=" ">
+	</F3736>
+	<F3737 AlarmName=" ">
+	</F3737>
+	<F3738 AlarmName=" ">
+	</F3738>
+	<F3739 AlarmName=" ">
+	</F3739>
+
+	<F3740 AlarmName=" ">
+	</F3740>
+	<F3741 AlarmName=" ">
+	</F3741>
+	<F3742 AlarmName="  ">
+	</F3742>
+	<F3743 AlarmName=" ">
+	</F3743>
+	<F3744 AlarmName=" ">
+	</F3744>
+	<F3745 AlarmName=" ">
+	</F3745>
+	<F3746 AlarmName=" ">
+	</F3746>
+	<F3747 AlarmName=" ">
+	</F3747>
+	<F3748 AlarmName=" ">
+	</F3748>
+	<F3749 AlarmName=" ">
+	</F3749>
+
+	<F3750 AlarmName=" ">
+	</F3750>
+	<F3751 AlarmName=" ">
+	</F3751>
+	<F3752 AlarmName="  ">
+	</F3752>
+	<F3753 AlarmName=" ">
+	</F3753>
+	<F3754 AlarmName=" ">
+	</F3754>
+	<F3755 AlarmName=" ">
+	</F3755>
+	<F3756 AlarmName=" ">
+	</F3756>
+	<F3757 AlarmName=" ">
+	</F3757>
+	<F3758 AlarmName=" ">
+	</F3758>
+	<F3759 AlarmName=" ">
+	</F3759>
+
+	<F3760 AlarmName=" ">
+	</F3760>
+	<F3761 AlarmName=" ">
+	</F3761>
+	<F3762 AlarmName="  ">
+	</F3762>
+	<F3763 AlarmName=" ">
+	</F3763>
+	<F3764 AlarmName=" ">
+	</F3764>
+	<F3765 AlarmName=" ">
+	</F3765>
+	<F3766 AlarmName=" ">
+	</F3766>
+	<F3767 AlarmName=" ">
+	</F3767>
+	<F3768 AlarmName=" ">
+	</F3768>
+	<F3769 AlarmName=" ">
+	</F3769>
+
+	<F3770 AlarmName=" ">
+	</F3770>
+	<F3771 AlarmName=" ">
+	</F3771>
+	<F3772 AlarmName=" ">
+	</F3772>
+	<F3773 AlarmName=" ">
+	</F3773>
+	<F3774 AlarmName=" ">
+	</F3774>
+	<F3775 AlarmName=" ">
+	</F3775>
+	<F3776 AlarmName=" ">
+	</F3776>
+	<F3777 AlarmName=" ">
+	</F3777>
+	<F3778 AlarmName=" ">
+	</F3778>
+	<F3779 AlarmName=" ">
+	</F3779>
+
+	<F3780 AlarmName=" ">
+	</F3780>
+	<F3781 AlarmName=" ">
+	</F3781>
+	<F3782 AlarmName="  ">
+	</F3782>
+	<F3783 AlarmName=" ">
+	</F3783>
+	<F3784 AlarmName=" ">
+	</F3784>
+	<F3785 AlarmName=" ">
+	</F3785>
+	<F3786 AlarmName=" ">
+	</F3786>
+	<F3787 AlarmName=" ">
+	</F3787>
+	<F3788 AlarmName=" ">
+	</F3788>
+	<F3789 AlarmName=" ">
+	</F3789>
+
+	<F3790 AlarmName=" ">
+	</F3790>
+	<F3791 AlarmName=" ">
+	</F3791>
+	<F3792 AlarmName="  ">
+	</F3792>
+	<F3793 AlarmName=" ">
+	</F3793>
+	<F3794 AlarmName=" ">
+	</F3794>
+	<F3795 AlarmName=" ">
+	</F3795>
+	<F3796 AlarmName=" ">
+	</F3796>
+	<F3797 AlarmName=" ">
+	</F3797>
+	<F3798 AlarmName=" ">
+	</F3798>
+	<F3799 AlarmName=" ">
+	</F3799>
+
+	<F3800 AlarmName=" ">
+	</F3800>
+	<F3801 AlarmName=" ">
+	</F3801>
+	<F3802 AlarmName="  ">
+	</F3802>
+	<F3803 AlarmName="  ">
+	</F3803>
+	<F3804 AlarmName=" ">
+	</F3804>
+	<F3805 AlarmName=" ">
+	</F3805>
+	<F3806 AlarmName=" ">
+	</F3806>
+	<F3807 AlarmName=" ">
+	</F3807>
+	<F3808 AlarmName=" ">
+	</F3808>
+	<F3809 AlarmName=" ">
+	</F3809>
+
+	<F3810 AlarmName=" ">
+	</F3810>
+	<F3811 AlarmName=" ">
+	</F3811>
+	<F3812 AlarmName=" ">
+	</F3812>
+	<F3813 AlarmName=" ">
+	</F3813>
+	<F3814 AlarmName=" ">
+	</F3814>
+	<F3815 AlarmName=" ">
+	</F3815>
+	<F3816 AlarmName=" ">
+	</F3816>
+	<F3817 AlarmName=" ">
+	</F3817>
+	<F3818 AlarmName=" ">
+	</F3818>
+	<F3819 AlarmName=" ">
+	</F3819>
+
+	<F3820 AlarmName=" ">
+	</F3820>
+	<F3821 AlarmName=" ">
+	</F3821>
+	<F3822 AlarmName=" ">
+	</F3822>
+	<F3823 AlarmName=" ">
+	</F3823>
+	<F3824 AlarmName=" ">
+	</F3824>
+	<F3825 AlarmName=" ">
+	</F3825>
+	<F3826 AlarmName=" ">
+	</F3826>
+	<F3827 AlarmName=" ">
+	</F3827>
+	<F3828 AlarmName=" ">
+	</F3828>
+	<F3829 AlarmName=" ">
+	</F3829>
+
+	<F3830 AlarmName=" ">
+	</F3830>
+	<F3831 AlarmName=" ">
+	</F3831>
+	<F3832 AlarmName=" ">
+	</F3832>
+	<F3833 AlarmName=" ">
+	</F3833>
+	<F3834 AlarmName=" ">
+	</F3834>
+	<F3835 AlarmName=" ">
+	</F3835>
+	<F3836 AlarmName=" ">
+	</F3836>
+	<F3837 AlarmName=" ">
+	</F3837>
+	<F3838 AlarmName=" ">
+	</F3838>
+	<F3839 AlarmName=" ">
+	</F3839>
+
+	<F3840 AlarmName=" ">
+	</F3840>
+	<F3841 AlarmName=" ">
+	</F3841>
+	<F3842 AlarmName="  ">
+	</F3842>
+	<F3843 AlarmName=" ">
+	</F3843>
+	<F3844 AlarmName=" ">
+	</F3844>
+	<F3845 AlarmName=" ">
+	</F3845>
+	<F3846 AlarmName=" ">
+	</F3846>
+	<F3847 AlarmName=" ">
+	</F3847>
+	<F3848 AlarmName=" ">
+	</F3848>
+	<F3849 AlarmName=" ">
+	</F3849>
+
+	<F3850 AlarmName=" ">
+	</F3850>
+	<F3851 AlarmName=" ">
+	</F3851>
+	<F3852 AlarmName="  ">
+	</F3852>
+	<F3853 AlarmName=" ">
+	</F3853>
+	<F3854 AlarmName=" ">
+	</F3854>
+	<F3855 AlarmName=" ">
+	</F3855>
+	<F3856 AlarmName=" ">
+	</F3856>
+	<F3857 AlarmName=" ">
+	</F3857>
+	<F3858 AlarmName=" ">
+	</F3858>
+	<F3859 AlarmName=" ">
+	</F3859>
+
+	<F3860 AlarmName=" ">
+	</F3860>
+	<F3861 AlarmName=" ">
+	</F3861>
+	<F3862 AlarmName="  ">
+	</F3862>
+	<F3863 AlarmName=" ">
+	</F3863>
+	<F3864 AlarmName=" ">
+	</F3864>
+	<F3865 AlarmName=" ">
+	</F3865>
+	<F3866 AlarmName=" ">
+	</F3866>
+	<F3867 AlarmName=" ">
+	</F3867>
+	<F3868 AlarmName=" ">
+	</F3868>
+	<F3869 AlarmName=" ">
+	</F3869>
+
+	<F3870 AlarmName=" ">
+	</F3870>
+	<F3871 AlarmName=" ">
+	</F3871>
+	<F3872 AlarmName=" ">
+	</F3872>
+	<F3873 AlarmName=" ">
+	</F3873>
+	<F3874 AlarmName=" ">
+	</F3874>
+	<F3875 AlarmName=" ">
+	</F3875>
+	<F3876 AlarmName=" ">
+	</F3876>
+	<F3877 AlarmName=" ">
+	</F3877>
+	<F3878 AlarmName=" ">
+	</F3878>
+	<F3879 AlarmName=" ">
+	</F3879>
+
+	<F3880 AlarmName=" ">
+	</F3880>
+	<F3881 AlarmName=" ">
+	</F3881>
+	<F3882 AlarmName="  ">
+	</F3882>
+	<F3883 AlarmName=" ">
+	</F3883>
+	<F3884 AlarmName=" ">
+	</F3884>
+	<F3885 AlarmName=" ">
+	</F3885>
+	<F3886 AlarmName=" ">
+	</F3886>
+	<F3887 AlarmName=" ">
+	</F3887>
+	<F3888 AlarmName=" ">
+	</F3888>
+	<F3889 AlarmName=" ">
+	</F3889>
+
+	<F3890 AlarmName=" ">
+	</F3890>
+	<F3891 AlarmName=" ">
+	</F3891>
+	<F3892 AlarmName="  ">
+	</F3892>
+	<F3893 AlarmName=" ">
+	</F3893>
+	<F3894 AlarmName=" ">
+	</F3894>
+	<F3895 AlarmName=" ">
+	</F3895>
+	<F3896 AlarmName=" ">
+	</F3896>
+	<F3897 AlarmName=" ">
+	</F3897>
+	<F3898 AlarmName=" ">
+	</F3898>
+	<F3899 AlarmName=" ">
+	</F3899>
+
+
+	<F3900 AlarmName=" ">
+	</F3900>
+	<F3901 AlarmName=" ">
+	</F3901>
+	<F3902 AlarmName="  ">
+	</F3902>
+	<F3903 AlarmName="  ">
+	</F3903>
+	<F3904 AlarmName=" ">
+	</F3904>
+	<F3905 AlarmName=" ">
+	</F3905>
+	<F3906 AlarmName=" ">
+	</F3906>
+	<F3907 AlarmName=" ">
+	</F3907>
+	<F3908 AlarmName=" ">
+	</F3908>
+	<F3909 AlarmName=" ">
+	</F3909>
+
+	<F3910 AlarmName=" ">
+	</F3910>
+	<F3911 AlarmName=" ">
+	</F3911>
+	<F3912 AlarmName=" ">
+	</F3912>
+	<F3913 AlarmName=" ">
+	</F3913>
+	<F3914 AlarmName=" ">
+	</F3914>
+	<F3915 AlarmName=" ">
+	</F3915>
+	<F3916 AlarmName=" ">
+	</F3916>
+	<F3917 AlarmName=" ">
+	</F3917>
+	<F3918 AlarmName=" ">
+	</F3918>
+	<F3919 AlarmName=" ">
+	</F3919>
+
+	<F3920 AlarmName=" ">
+	</F3920>
+	<F3921 AlarmName=" ">
+	</F3921>
+	<F3922 AlarmName=" ">
+	</F3922>
+	<F3923 AlarmName=" ">
+	</F3923>
+	<F3924 AlarmName=" ">
+	</F3924>
+	<F3925 AlarmName=" ">
+	</F3925>
+	<F3926 AlarmName=" ">
+	</F3926>
+	<F3927 AlarmName=" ">
+	</F3927>
+	<F3928 AlarmName=" ">
+	</F3928>
+	<F3929 AlarmName=" ">
+	</F3929>
+
+	<F3930 AlarmName=" ">
+	</F3930>
+	<F3931 AlarmName=" ">
+	</F3931>
+	<F3932 AlarmName=" ">
+	</F3932>
+	<F3933 AlarmName=" ">
+	</F3933>
+	<F3934 AlarmName=" ">
+	</F3934>
+	<F3935 AlarmName=" ">
+	</F3935>
+	<F3936 AlarmName=" ">
+	</F3936>
+	<F3937 AlarmName=" ">
+	</F3937>
+	<F3938 AlarmName=" ">
+	</F3938>
+	<F3939 AlarmName=" ">
+	</F3939>
+
+	<F3940 AlarmName=" ">
+	</F3940>
+	<F3941 AlarmName=" ">
+	</F3941>
+	<F3942 AlarmName="  ">
+	</F3942>
+	<F3943 AlarmName=" ">
+	</F3943>
+	<F3944 AlarmName=" ">
+	</F3944>
+	<F3945 AlarmName=" ">
+	</F3945>
+	<F3946 AlarmName=" ">
+	</F3946>
+	<F3947 AlarmName=" ">
+	</F3947>
+	<F3948 AlarmName=" ">
+	</F3948>
+	<F3949 AlarmName=" ">
+	</F3949>
+
+	<F3950 AlarmName=" ">
+	</F3950>
+	<F3951 AlarmName=" ">
+	</F3951>
+	<F3952 AlarmName="  ">
+	</F3952>
+	<F3953 AlarmName=" ">
+	</F3953>
+	<F3954 AlarmName=" ">
+	</F3954>
+	<F3955 AlarmName=" ">
+	</F3955>
+	<F3956 AlarmName=" ">
+	</F3956>
+	<F3957 AlarmName=" ">
+	</F3957>
+	<F3958 AlarmName=" ">
+	</F3958>
+	<F3959 AlarmName=" ">
+	</F3959>
+
+	<F3960 AlarmName=" ">
+	</F3960>
+	<F3961 AlarmName=" ">
+	</F3961>
+	<F3962 AlarmName="  ">
+	</F3962>
+	<F3963 AlarmName=" ">
+	</F3963>
+	<F3964 AlarmName=" ">
+	</F3964>
+	<F3965 AlarmName=" ">
+	</F3965>
+	<F3966 AlarmName=" ">
+	</F3966>
+	<F3967 AlarmName=" ">
+	</F3967>
+	<F3968 AlarmName=" ">
+	</F3968>
+	<F3969 AlarmName=" ">
+	</F3969>
+
+	<F3970 AlarmName=" ">
+	</F3970>
+	<F3971 AlarmName=" ">
+	</F3971>
+	<F3972 AlarmName=" ">
+	</F3972>
+	<F3973 AlarmName=" ">
+	</F3973>
+	<F3974 AlarmName=" ">
+	</F3974>
+	<F3975 AlarmName=" ">
+	</F3975>
+	<F3976 AlarmName=" ">
+	</F3976>
+	<F3977 AlarmName=" ">
+	</F3977>
+	<F3978 AlarmName=" ">
+	</F3978>
+	<F3979 AlarmName=" ">
+	</F3979>
+
+	<F3980 AlarmName=" ">
+	</F3980>
+	<F3981 AlarmName=" ">
+	</F3981>
+	<F3982 AlarmName="  ">
+	</F3982>
+	<F3983 AlarmName=" ">
+	</F3983>
+	<F3984 AlarmName=" ">
+	</F3984>
+	<F3985 AlarmName=" ">
+	</F3985>
+	<F3986 AlarmName=" ">
+	</F3986>
+	<F3987 AlarmName=" ">
+	</F3987>
+	<F3988 AlarmName=" ">
+	</F3988>
+	<F3989 AlarmName=" ">
+	</F3989>
+
+	<F3990 AlarmName=" ">
+	</F3990>
+	<F3991 AlarmName=" ">
+	</F3991>
+	<F3992 AlarmName="  ">
+	</F3992>
+	<F3993 AlarmName=" ">
+	</F3993>
+	<F3994 AlarmName=" ">
+	</F3994>
+	<F3995 AlarmName=" ">
+	</F3995>
+	<F3996 AlarmName=" ">
+	</F3996>
+	<F3997 AlarmName=" ">
+	</F3997>
+	<F3998 AlarmName=" ">
+	</F3998>
+	<F3999 AlarmName=" ">
+	</F3999>	
+</PLCAlarm>

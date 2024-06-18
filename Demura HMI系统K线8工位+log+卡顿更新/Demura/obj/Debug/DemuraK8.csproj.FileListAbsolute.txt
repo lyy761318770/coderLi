@@ -1,0 +1,97 @@
+D:\Desktop\Demura HMI系统K线8工位\Demura\bin\Debug\DemuraK8.exe.config
+D:\Desktop\Demura HMI系统K线8工位\Demura\bin\Debug\DemuraK8.exe
+D:\Desktop\Demura HMI系统K线8工位\Demura\bin\Debug\DemuraK8.pdb
+D:\Desktop\Demura HMI系统K线8工位\Demura\bin\Debug\HslCommunication.dll
+D:\Desktop\Demura HMI系统K线8工位\Demura\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\Demura HMI系统K线8工位\Demura\bin\Debug\thinger.DataConvertLib.dll
+D:\Desktop\Demura HMI系统K线8工位\Demura\bin\Debug\HslCommunication.xml
+D:\Desktop\Demura HMI系统K线8工位\Demura\bin\Debug\Newtonsoft.Json.xml
+D:\Desktop\Demura HMI系统K线8工位\Demura\bin\Debug\thinger.DataConvertLib.xml
+D:\Desktop\Demura HMI系统K线8工位\Demura\obj\Debug\DemuraK8.csproj.AssemblyReference.cache
+D:\Desktop\Demura HMI系统K线8工位\Demura\obj\Debug\DemuraK8.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Demura HMI系统K线8工位\Demura\obj\Debug\Demura.Frm1UnitImage.resources
+D:\Desktop\Demura HMI系统K线8工位\Demura\obj\Debug\Demura.FrmLogin.resources
+D:\Desktop\Demura HMI系统K线8工位\Demura\obj\Debug\Demura.FrmMain.resources
+D:\Desktop\Demura HMI系统K线8工位\Demura\obj\Debug\Demura.Frm1Y1.resources
+D:\Desktop\Demura HMI系统K线8工位\Demura\obj\Debug\Demura.FrmUnitOperation.resources
+D:\Desktop\Demura HMI系统K线8工位\Demura\obj\Debug\Demura.Properties.Resources.resources
+D:\Desktop\Demura HMI系统K线8工位\Demura\obj\Debug\DemuraK8.csproj.GenerateResource.cache
+D:\Desktop\Demura HMI系统K线8工位\Demura\obj\Debug\DemuraK8.csproj.CoreCompileInputs.cache
+D:\Desktop\Demura HMI系统K线8工位\Demura\obj\Debug\DemuraK8.csproj.CopyComplete
+D:\Desktop\Demura HMI系统K线8工位\Demura\obj\Debug\DemuraK8.exe
+D:\Desktop\Demura HMI系统K线8工位\Demura\obj\Debug\DemuraK8.pdb
+D:\Desktop\Demura K线\Demura HMI系统K线8工位+log日志功能\Demura\bin\Debug\log4net.config
+D:\Desktop\Demura K线\Demura HMI系统K线8工位+log日志功能\Demura\bin\Debug\DemuraK8.exe.config
+D:\Desktop\Demura K线\Demura HMI系统K线8工位+log日志功能\Demura\bin\Debug\DemuraK8.exe
+D:\Desktop\Demura K线\Demura HMI系统K线8工位+log日志功能\Demura\bin\Debug\DemuraK8.pdb
+D:\Desktop\Demura K线\Demura HMI系统K线8工位+log日志功能\Demura\bin\Debug\HslCommunication.dll
+D:\Desktop\Demura K线\Demura HMI系统K线8工位+log日志功能\Demura\bin\Debug\log4net.dll
+D:\Desktop\Demura K线\Demura HMI系统K线8工位+log日志功能\Demura\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\Demura K线\Demura HMI系统K线8工位+log日志功能\Demura\bin\Debug\thinger.DataConvertLib.dll
+D:\Desktop\Demura K线\Demura HMI系统K线8工位+log日志功能\Demura\bin\Debug\HslCommunication.xml
+D:\Desktop\Demura K线\Demura HMI系统K线8工位+log日志功能\Demura\bin\Debug\log4net.xml
+D:\Desktop\Demura K线\Demura HMI系统K线8工位+log日志功能\Demura\bin\Debug\Newtonsoft.Json.xml
+D:\Desktop\Demura K线\Demura HMI系统K线8工位+log日志功能\Demura\bin\Debug\thinger.DataConvertLib.xml
+D:\Desktop\Demura K线\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\DemuraK8.csproj.AssemblyReference.cache
+D:\Desktop\Demura K线\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\DemuraK8.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Demura K线\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\Demura.Frm1UnitImage.resources
+D:\Desktop\Demura K线\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\Demura.FrmLogin.resources
+D:\Desktop\Demura K线\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\Demura.FrmMain.resources
+D:\Desktop\Demura K线\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\Demura.Frm1Y1.resources
+D:\Desktop\Demura K线\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\Demura.FrmUnitOperation.resources
+D:\Desktop\Demura K线\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\Demura.Properties.Resources.resources
+D:\Desktop\Demura K线\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\DemuraK8.csproj.GenerateResource.cache
+D:\Desktop\Demura K线\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\DemuraK8.csproj.CoreCompileInputs.cache
+D:\Desktop\Demura K线\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\DemuraK8.csproj.CopyComplete
+D:\Desktop\Demura K线\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\DemuraK8.exe
+D:\Desktop\Demura K线\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\DemuraK8.pdb
+D:\Desktop\Demura HMI系统K线8工位+log日志功能\Demura\bin\Debug\log4net.config
+D:\Desktop\Demura HMI系统K线8工位+log日志功能\Demura\bin\Debug\DemuraK8.exe.config
+D:\Desktop\Demura HMI系统K线8工位+log日志功能\Demura\bin\Debug\DemuraK8.exe
+D:\Desktop\Demura HMI系统K线8工位+log日志功能\Demura\bin\Debug\DemuraK8.pdb
+D:\Desktop\Demura HMI系统K线8工位+log日志功能\Demura\bin\Debug\HslCommunication.dll
+D:\Desktop\Demura HMI系统K线8工位+log日志功能\Demura\bin\Debug\log4net.dll
+D:\Desktop\Demura HMI系统K线8工位+log日志功能\Demura\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\Demura HMI系统K线8工位+log日志功能\Demura\bin\Debug\thinger.DataConvertLib.dll
+D:\Desktop\Demura HMI系统K线8工位+log日志功能\Demura\bin\Debug\HslCommunication.xml
+D:\Desktop\Demura HMI系统K线8工位+log日志功能\Demura\bin\Debug\log4net.xml
+D:\Desktop\Demura HMI系统K线8工位+log日志功能\Demura\bin\Debug\Newtonsoft.Json.xml
+D:\Desktop\Demura HMI系统K线8工位+log日志功能\Demura\bin\Debug\thinger.DataConvertLib.xml
+D:\Desktop\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\DemuraK8.csproj.AssemblyReference.cache
+D:\Desktop\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\DemuraK8.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\Demura.Frm1UnitImage.resources
+D:\Desktop\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\Demura.FrmLogin.resources
+D:\Desktop\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\Demura.FrmMain.resources
+D:\Desktop\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\Demura.Frm1Y1.resources
+D:\Desktop\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\Demura.FrmUnitOperation.resources
+D:\Desktop\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\Demura.Properties.Resources.resources
+D:\Desktop\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\DemuraK8.csproj.GenerateResource.cache
+D:\Desktop\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\DemuraK8.csproj.CoreCompileInputs.cache
+D:\Desktop\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\DemuraK8.csproj.CopyComplete
+D:\Desktop\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\DemuraK8.exe
+D:\Desktop\Demura HMI系统K线8工位+log日志功能\Demura\obj\Debug\DemuraK8.pdb
+C:\Users\admin\Desktop\Demura HMI系统K线8工位+log+卡顿更新\Demura\bin\Debug\log4net.config
+C:\Users\admin\Desktop\Demura HMI系统K线8工位+log+卡顿更新\Demura\bin\Debug\DemuraK8.exe.config
+C:\Users\admin\Desktop\Demura HMI系统K线8工位+log+卡顿更新\Demura\bin\Debug\DemuraK8.exe
+C:\Users\admin\Desktop\Demura HMI系统K线8工位+log+卡顿更新\Demura\bin\Debug\DemuraK8.pdb
+C:\Users\admin\Desktop\Demura HMI系统K线8工位+log+卡顿更新\Demura\bin\Debug\HslCommunication.dll
+C:\Users\admin\Desktop\Demura HMI系统K线8工位+log+卡顿更新\Demura\bin\Debug\log4net.dll
+C:\Users\admin\Desktop\Demura HMI系统K线8工位+log+卡顿更新\Demura\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Demura HMI系统K线8工位+log+卡顿更新\Demura\bin\Debug\thinger.DataConvertLib.dll
+C:\Users\admin\Desktop\Demura HMI系统K线8工位+log+卡顿更新\Demura\bin\Debug\HslCommunication.xml
+C:\Users\admin\Desktop\Demura HMI系统K线8工位+log+卡顿更新\Demura\bin\Debug\log4net.xml
+C:\Users\admin\Desktop\Demura HMI系统K线8工位+log+卡顿更新\Demura\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\Demura HMI系统K线8工位+log+卡顿更新\Demura\bin\Debug\thinger.DataConvertLib.xml
+C:\Users\admin\Desktop\Demura HMI系统K线8工位+log+卡顿更新\Demura\obj\Debug\DemuraK8.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Demura HMI系统K线8工位+log+卡顿更新\Demura\obj\Debug\DemuraK8.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Demura HMI系统K线8工位+log+卡顿更新\Demura\obj\Debug\Demura.Frm1UnitImage.resources
+C:\Users\admin\Desktop\Demura HMI系统K线8工位+log+卡顿更新\Demura\obj\Debug\Demura.FrmLogin.resources
+C:\Users\admin\Desktop\Demura HMI系统K线8工位+log+卡顿更新\Demura\obj\Debug\Demura.FrmMain.resources
+C:\Users\admin\Desktop\Demura HMI系统K线8工位+log+卡顿更新\Demura\obj\Debug\Demura.Frm1Y1.resources
+C:\Users\admin\Desktop\Demura HMI系统K线8工位+log+卡顿更新\Demura\obj\Debug\Demura.FrmUnitOperation.resources
+C:\Users\admin\Desktop\Demura HMI系统K线8工位+log+卡顿更新\Demura\obj\Debug\Demura.Properties.Resources.resources
+C:\Users\admin\Desktop\Demura HMI系统K线8工位+log+卡顿更新\Demura\obj\Debug\DemuraK8.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Demura HMI系统K线8工位+log+卡顿更新\Demura\obj\Debug\DemuraK8.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Demura HMI系统K线8工位+log+卡顿更新\Demura\obj\Debug\DemuraK8.csproj.CopyComplete
+C:\Users\admin\Desktop\Demura HMI系统K线8工位+log+卡顿更新\Demura\obj\Debug\DemuraK8.exe
+C:\Users\admin\Desktop\Demura HMI系统K线8工位+log+卡顿更新\Demura\obj\Debug\DemuraK8.pdb

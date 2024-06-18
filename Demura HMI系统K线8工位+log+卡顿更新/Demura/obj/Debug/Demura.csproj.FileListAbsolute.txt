@@ -1,0 +1,39 @@
+D:\Desktop\Demura\Demura\bin\Debug\Demura.exe.config
+D:\Desktop\Demura\Demura\bin\Debug\Demura.exe
+D:\Desktop\Demura\Demura\bin\Debug\Demura.pdb
+D:\Desktop\Demura\Demura\bin\Debug\HslCommunication.dll
+D:\Desktop\Demura\Demura\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\Demura\Demura\bin\Debug\HslCommunication.xml
+D:\Desktop\Demura\Demura\bin\Debug\Newtonsoft.Json.xml
+D:\Desktop\Demura\Demura\obj\Debug\Demura.csproj.AssemblyReference.cache
+D:\Desktop\Demura\Demura\obj\Debug\Demura.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Demura\Demura\obj\Debug\Demura.Properties.Resources.resources
+D:\Desktop\Demura\Demura\obj\Debug\Demura.csproj.GenerateResource.cache
+D:\Desktop\Demura\Demura\obj\Debug\Demura.csproj.CoreCompileInputs.cache
+D:\Desktop\Demura\Demura\obj\Debug\Demura.csproj.CopyComplete
+D:\Desktop\Demura\Demura\obj\Debug\Demura.exe
+D:\Desktop\Demura\Demura\obj\Debug\Demura.pdb
+D:\Desktop\Demura\Demura\obj\Debug\Demura.FrmMain.resources
+D:\Desktop\Demura\Demura\obj\Debug\Demura.FrmOneY1Right.resources
+D:\Desktop\Demura\Demura\obj\Debug\Demura.FrmLogin.resources
+D:\Desktop\Demura HMI系统\Demura\obj\Debug\Demura.csproj.AssemblyReference.cache
+D:\Desktop\Demura HMI系统\Demura\obj\Debug\Demura.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Demura HMI系统\Demura\obj\Debug\Demura.FrmLogin.resources
+D:\Desktop\Demura HMI系统\Demura\obj\Debug\Demura.FrmMain.resources
+D:\Desktop\Demura HMI系统\Demura\obj\Debug\Demura.Properties.Resources.resources
+D:\Desktop\Demura HMI系统\Demura\obj\Debug\Demura.csproj.GenerateResource.cache
+D:\Desktop\Demura HMI系统\Demura\obj\Debug\Demura.csproj.CoreCompileInputs.cache
+D:\Desktop\Demura HMI系统\Demura\obj\Debug\Demura.exe
+D:\Desktop\Demura HMI系统\Demura\obj\Debug\Demura.pdb
+D:\Desktop\Demura HMI系统\Demura\bin\Debug\Demura.exe.config
+D:\Desktop\Demura HMI系统\Demura\bin\Debug\Demura.exe
+D:\Desktop\Demura HMI系统\Demura\bin\Debug\Demura.pdb
+D:\Desktop\Demura HMI系统\Demura\bin\Debug\HslCommunication.dll
+D:\Desktop\Demura HMI系统\Demura\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\Demura HMI系统\Demura\bin\Debug\HslCommunication.xml
+D:\Desktop\Demura HMI系统\Demura\bin\Debug\Newtonsoft.Json.xml
+D:\Desktop\Demura HMI系统\Demura\obj\Debug\Demura.csproj.CopyComplete
+D:\Desktop\Demura HMI系统\Demura\bin\Debug\thinger.DataConvertLib.dll
+D:\Desktop\Demura HMI系统\Demura\bin\Debug\thinger.DataConvertLib.xml
+D:\Desktop\Demura HMI系统\Demura\obj\Debug\Demura.Frm1Y1.resources
+D:\Desktop\Demura HMI系统\Demura\obj\Debug\Demura.FrmUnitOperation.resources
